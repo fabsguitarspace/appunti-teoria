@@ -19,7 +19,7 @@ language = "it"
 
 html_theme = "shibuya"
 html_static_path = ["_static"]
-html_title = "Appunti di Pratica per Chitarra Jazz"
+html_title = "Appunti di Teoria e Armonia per Chitarra Jazz"
 html_show_copyright = False
 html_show_sphinx = False
 html_logo = "_static/logo_256.png"
@@ -27,12 +27,12 @@ html_logo = "_static/logo_256.png"
 html_theme_options = {
     "nav_links": [
     		{
-    			"title": "Appunti di Pratica",
+    			"title": "Appunti di Teoria",
     			 "url": "index"
     		},
     		{
-    			"title": "Appunti di Teoria",
-    			 "url": "https://docs.google.com/document/d/1PsSj1DAIIWZE3kTeEPlP5KFYDZARa8qKCm0nHit_XnM/edit?tab=t.0"
+    			"title": "Appunti di Pratica",
+    			 "url": "https://appunti-pratica-per-chitarra-jazz.readthedocs.io"
     		},
         {
             "title": "Fabrizio's Guitar Space",
