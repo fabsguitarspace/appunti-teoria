@@ -1,3 +1,2 @@
 sphinx
 shibuya
-sphinxnotes-lilypond
