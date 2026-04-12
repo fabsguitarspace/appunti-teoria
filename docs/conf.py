@@ -27,12 +27,12 @@ html_logo = "_static/logo_256.png"
 html_theme_options = {
     "nav_links": [
         {
-            "title": "Appunti di Pratica",
-                "url": "https://appunti-pratica-per-chitarra-jazz.readthedocs.io"
-        },
-        {
             "title": "Appunti di Teoria",
                 "url": "index"
+        },
+        {
+            "title": "Appunti di Pratica",
+                "url": "https://appunti-pratica-per-chitarra-jazz.readthedocs.io"
         },
         {
             "title": "Fabrizio's Guitar Space",
