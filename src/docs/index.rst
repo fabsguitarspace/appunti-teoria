@@ -1,5 +1,5 @@
 Appunti di Teoria e Armonia per Chitarra Jazz
-====================================
+=============================================
 
 
 .. image:: _static/logo.*
@@ -8,3 +8,4 @@ Appunti di Teoria e Armonia per Chitarra Jazz
   :maxdepth: 3
 
   1-introduzione
+  2-prima-delle-note
