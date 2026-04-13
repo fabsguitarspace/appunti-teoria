@@ -57,9 +57,9 @@ Quello che spesso chiamiamo “studio” è in realtà un tentativo di controllo
 
 Accumulo di informazioni, rassicurazione intellettuale, sensazione di avanzamento. Ma il rischio è che la teoria, invece di aiutare, diventi un filtro tra te e la musica. Una voce nella testa che commenta mentre dovresti ascoltare.
 
-Questi appunti nascono proprio da lì... da anni passati a vedere chitarristi pieni di nozioni, pieni di scale, pieni di concetti, eppure incapaci di lasciare andare le mani. Non perché mancasse l’impegno, ma perché nessuno aveva detto loro una cosa semplice e scomoda: mentre suoni, non devi pensare.
+Questi appunti nascono proprio da lì... da anni passati a vedere chitarristi pieni di nozioni, pieni di scale, pieni di concetti, eppure incapaci di lasciare andare le mani. Non perché mancasse l'impegno, ma perché nessuno aveva detto loro una cosa semplice e scomoda: mentre suoni, non devi pensare.
 
-La teoria non è il momento dell’atto musicale.
+La teoria non è il momento dell'atto musicale.
 
 La teoria arriva dopo. Serve a dare un nome a qualcosa che è già successo, a riconoscere un meccanismo, a chiarire una sensazione. 
 
@@ -71,9 +71,9 @@ Questi appunti non ti diranno “su questo accordo suona questa scala”.
 
 Non perché sia falso in senso assoluto, ma perché è fuorviante in senso musicale. La musica non funziona per permessi, funziona per relazioni, direzioni, tensioni, gravità. E tutto questo si sente molto prima di poterlo spiegare.
 
-L’obiettivo qui non è fornirti risposte pronte, ma farti le *domande giust*e.
+L'obiettivo qui non è fornirti risposte pronte, ma farti le *domande giuste*.
 
-Perché una nota suona stabile e un’altra no?
+Perché una nota suona stabile e un'altra no?
 
 Perché certi movimenti funzionano anche senza sapere perché?
 
@@ -102,9 +102,9 @@ Quelli che, a un certo punto, sentono che qualcosa non torna.
 
 Magari suonano da anni. Magari conoscono tante scale, tanti voicing, tante sigle.
 
-Eppure, quando improvvisano, hanno la sensazione di pensare troppo e dire poco. Come se tra l’intenzione e il suono ci fosse sempre un piccolo ritardo.
+Eppure, quando improvvisano, hanno la sensazione di pensare troppo e dire poco. Come se tra l'intenzione e il suono ci fosse sempre un piccolo ritardo.
 
-Sono per chi ha studiato teoria… e ne è rimasto un po’ schiacciato.
+Sono per chi ha studiato teoria… e ne è rimasto un po' schiacciato.
 
 Per chi sente che le informazioni ci sono, ma non si trasformano in musica.
 
@@ -128,7 +128,7 @@ Sono rivolti a chi ha capito che:
 - capire non significa controllare
 - suonare non è eseguire una decisione, ma reagire a un contesto
 
-Sono per chi ha accettato che l’improvvisazione non si insegna, ma si prepara.
+Sono per chi ha accettato che l'improvvisazione non si insegna, ma si prepara.
 
 Che lo studio vero avviene prima, e il suono accade dopo.
 
@@ -141,32 +141,32 @@ Non perché la chitarra non conti... ma perché, quando si parla di teoria e arm
 
 Ho scelto di separare i due mondi per rispetto di entrambi.
 
-Qui dentro troverai idee, immagini, gravità, funzioni, cadenze, cromatismi, modi visti come prospettive... tutto ciò che serve per ascoltare e riconoscere. È un libro che vuole orientare l’orecchio prima della mano. È una mappa, non un allenamento.
+Qui dentro troverai idee, immagini, gravità, funzioni, cadenze, cromatismi, modi visti come prospettive... tutto ciò che serve per ascoltare e riconoscere. È un libro che vuole orientare l'orecchio prima della mano. È una mappa, non un allenamento.
 
-Il lavoro sullo strumento vive invece in un secondo volume: **Appunti di Pratica per Chitarra Jazz**. Lì entrano, finalmente, le cose che qui ho tenuto fuori: la tastiera come territorio, gli intervalli sotto le dita, i voicing, le note guida, la spaziatura, il registro, l’arte della sottrazione, la chord melody... e soprattutto il problema reale che nessuna teoria risolve da sola: come rendere tutto questo suonabile, quotidiano, stabile.
+Il lavoro sullo strumento vive invece in un secondo volume: **Appunti di Pratica per Chitarra Jazz**. Lì entrano, finalmente, le cose che qui ho tenuto fuori: la tastiera come territorio, gli intervalli sotto le dita, i voicing, le note guida, la spaziatura, il registro, l'arte della sottrazione, la chord melody... e soprattutto il problema reale che nessuna teoria risolve da sola: come rendere tutto questo suonabile, quotidiano, stabile.
 
 I due libri sono progettati per parlarsi senza sovrapporsi.
 
-Questo ti dà la visione. L’altro ti dà il corpo.
+Questo ti dà la visione. L'altro ti dà il corpo.
 
-Questo ti aiuta a capire cosa stai ascoltando. L’altro ti aiuta a farlo accadere con le mani.
+Questo ti aiuta a capire cosa stai ascoltando. L'altro ti aiuta a farlo accadere con le mani.
 
-Puoi leggerli in parallelo o in tempi diversi, ma l’idea è sempre la stessa: non trasformare la teoria in una lista di regole, e non trasformare la pratica in una ginnastica senza senso. Quando teoria e pratica stanno nello stesso contenitore spesso si confondono... quando stanno in due volumi diversi, si cercano, si richiamano, si potenziano.
+Puoi leggerli in parallelo o in tempi diversi, ma l'idea è sempre la stessa: non trasformare la teoria in una lista di regole, e non trasformare la pratica in una ginnastica senza senso. Quando teoria e pratica stanno nello stesso contenitore spesso si confondono... quando stanno in due volumi diversi, si cercano, si richiamano, si potenziano.
 
 Se mentre leggi queste pagine ti verrà spesso la voglia di prendere la chitarra, è un buon segno.
  
-E quando la prenderai, sappi che c’è un secondo quaderno pronto ad accompagnarti... non per “applicare” la teoria, ma per farla diventare gesto, suono, musica vera.
+E quando la prenderai, sappi che c'è un secondo quaderno pronto ad accompagnarti... non per “applicare” la teoria, ma per farla diventare gesto, suono, musica vera.
 
 Come leggerli ... e quando chiuderli per prendere la chitarra
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Questi appunti non vanno “studiati” nel senso classico del termine.
 
-Non c’è un ordine obbligato, non c’è un programma, non c’è un obiettivo da raggiungere.
+Non c'è un ordine obbligato, non c'è un programma, non c'è un obiettivo da raggiungere.
 
-Puoi leggerli dall’inizio alla fine, certo.
+Puoi leggerli dall'inizio alla fine, certo.
 
-Ma puoi anche aprirli a caso, soffermarti su una frase, su un’idea, e poi smettere.
+Ma puoi anche aprirli a caso, soffermarti su una frase, su un'idea, e poi smettere.
 
 Anzi, spesso è meglio così.
 
@@ -178,13 +178,13 @@ Non prendere appunti mentre leggi. Prenderai appunti dopo, con la chitarra in ma
 
 Questo libro funziona se lo usi come un **innesco**, non come una guida passo-passo.
 
-Serve a spostare l’attenzione, non a riempire la testa. A cambiare il modo in cui ascolti, non il numero di cose che sai.
+Serve a spostare l'attenzione, non a riempire la testa. A cambiare il modo in cui ascolti, non il numero di cose che sai.
 
 Ci sono momenti in cui devi continuare a leggere. E ce ne sono altri in cui devi fermarti immediatamente.
 
 Chiudilo quando:
 
-- senti l’urgenza di provare qualcosa
+- senti l'urgenza di provare qualcosa
 - una frase ti fa venire in mente un suono
 - inizi a cercare conferme invece che domande
 
@@ -198,7 +198,7 @@ Se torni al libro per sapere cosa suonare, stai andando nella direzione opposta.
 
 Questo non è un testo da consumare. È un oggetto con cui entrare e uscire. Un dialogo, non una lezione.
 
-L’ordine corretto è sempre lo stesso:
+L'ordine corretto è sempre lo stesso:
 
 - prima il suono,
 - poi le parole,
@@ -211,16 +211,16 @@ La chitarra ti sta già aspettando.
 La teoria al suo posto
 ----------------------
 
-Questa raccolta di appunti parla di teoria e armonia... quindi è inevitabile che, a un certo punto, ti venga voglia di “tenere tutto sotto controllo”. Capire, catalogare, scegliere la nota giusta, evitare l’errore. È normale. E proprio qui si nasconde una trappola: più la testa stringe, più il suono si spegne.
+Questa raccolta di appunti parla di teoria e armonia... quindi è inevitabile che, a un certo punto, ti venga voglia di “tenere tutto sotto controllo”. Capire, catalogare, scegliere la nota giusta, evitare l'errore. È normale. E proprio qui si nasconde una trappola: più la testa stringe, più il suono si spegne.
 
 **Kenny Werner**, nel suo *Effortless Mastery* ricorda una verità pratica che riguarda qualunque musicista: **la padronanza non coincide con il controllo**. 
 
-Il controllo è tensione, paura di sbagliare, giudizio in tempo reale. La padronanza è un’altra cosa: preparazione seria... e poi fiducia. Il corpo suona, l’orecchio guida, la mente ascolta.
+Il controllo è tensione, paura di sbagliare, giudizio in tempo reale. La padronanza è un'altra cosa: preparazione seria... e poi fiducia. Il corpo suona, l'orecchio guida, la mente ascolta.
 
 “Senza sforzo” non significa “senza studio”
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-“Effortless” non è pigrizia. È l’assenza dello sforzo sbagliato: quello che irrigidisce, interrompe il flusso, ti fa perdere il tempo, ti fa suonare come se stessi compilando un modulo.
+“Effortless” non è pigrizia. È l'assenza dello sforzo sbagliato: quello che irrigidisce, interrompe il flusso, ti fa perdere il tempo, ti fa suonare come se stessi compilando un modulo.
 
 Lo studio serve eccome... ma lo studio deve fare il suo lavoro **prima**:
 
@@ -230,7 +230,7 @@ Lo studio serve eccome... ma lo studio deve fare il suo lavoro **prima**:
 
 Quando suoni, invece, lo studio deve smettere di parlare.
 
-Il problema non è l’errore... ma il giudice dentro di te
+Il problema non è l'errore... ma il giudice dentro di te
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Molti musicisti non si bloccano perché “non sanno abbastanza”. Si bloccano perché, mentre suonano, hanno già un giudice seduto accanto. 
@@ -241,5 +241,5 @@ Risultato: ti separi dal suono, e il suono diventa un oggetto da controllare.
 
 Werner insiste su un concetto semplice: il musicista deve tornare a uno stato in cui può produrre suono **senza chiedere permesso**. 
 
-Non per suonare a caso... ma per permettere all’orecchio di lavorare senza interferenze.
+Non per suonare a caso... ma per permettere all'orecchio di lavorare senza interferenze.
 
