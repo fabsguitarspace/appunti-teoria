@@ -263,3 +263,123 @@ La teoria serve, eccome… ma serve a preparare un gesto che poi deve accadere s
 A un certo punto devi fidarti dell’orecchio, del corpo, del tempo. Non è ignoranza: è intelligenza incarnata.
 
 È la differenza tra sapere cos’è una cadenza e sentire che “siamo arrivati”. E quando la senti, la teoria smette di comandare… e inizia finalmente a spiegare.
+
+La notazione musicale sul pentagramma ... una mappa, non il territorio
+----------------------------------------------------------------------
+
+La notazione musicale non è la musica.
+
+È un tentativo di raccontarla.
+
+Il pentagramma nasce per fissare qualcosa che, per sua natura, scorre nel tempo. È una fotografia di un movimento, non il movimento stesso. Funziona bene per ricordare, tramandare, condividere. Funziona male se pensi che sia la musica.
+
+Questa distinzione è fondamentale, soprattutto per un chitarrista.
+
+Perché il pentagramma esiste
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Il pentagramma nasce per rispondere a esigenze molto concrete:
+
+- ricordare melodie
+- coordinare più musicisti
+- trasmettere musica a distanza nel tempo e nello spazio
+
+Non nasce per insegnare a suonare.
+
+Nasce per annotare ciò che qualcuno già suonava.
+
+Quando lo guardi in quest’ottica, smette di intimidire. Diventa quello che è sempre stato: un linguaggio di servizio.
+
+Cosa il pentagramma dice bene
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Il pentagramma è molto efficace nel descrivere:
+
+- altezza relativa dei suoni
+- direzione melodica
+- durata approssimativa
+- relazioni temporali
+
+Ti dice quando una nota avviene e quanto dura rispetto alle altre. Ti dice se sale o scende. Ti mostra una struttura.
+
+Ma attenzione alla parola chiave: **relativa**.
+
+Cosa il pentagramma non dice (e non può dire)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Il pentagramma non sa nulla di:
+
+- groove
+- feel
+- swing
+- timbro reale
+- peso di una nota
+- microvariazioni
+- intenzione
+
+Due frasi scritte identiche possono suonare completamente diverse. E spesso lo fanno.
+
+Se confondi ciò che è scritto con ciò che deve essere suonato, inizi a irrigidirti. La musica perde corpo e diventa esecuzione grafica.
+
+Gli elementi del pentagramma e come leggerlo (senza farsi ingabbiare)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Il pentagramma è un sistema semplice. Siamo noi che spesso lo rendiamo complicato.
+
+Se lo guardi per quello che è, smette di fare paura e diventa una mappa abbastanza intuitiva.
+
+Il pentagramma è formato da:
+
+- cinque linee
+- quattro spazi
+
+Le linee e gli spazi non hanno un significato assoluto.
+
+Diventano note solo quando qualcuno decide da dove si parte.
+
+Senza una chiave, il pentagramma è muto.
+
+.. image:: 
+   _static/music/pentagramma.*
+   :width: 200px
+
+La chiave dice:
+
+ 👉 questa linea rappresenta questa nota (ad esempio Sol, Fa, Do, ecc.)
+
+Sulla chitarra userai quasi sempre la **chiave di violino**.
+
+La chiave di violino fissa il **Sol** su una linea precisa e, da lì, tutte le altre note si organizzano per gradi congiunti:
+
+linea, spazio, linea, spazio… salendo e scendendo.
+
+Non serve memorizzare tutto subito. Serve capire il principio:
+
+- ogni passo sul pentagramma equivale a una nota adiacente
+- il movimento grafico rappresenta un movimento melodico
+
+Una nota sul pentagramma indica:
+
+- che altezza suona
+- non dove suonarla sulla chitarra
+
+Questo è cruciale.
+
+Il pentagramma non sa nulla di corde, tasti, posizioni.
+
+Dice solo: questa è quella frequenza.
+
+Per il chitarrista, leggere significa sempre tradurre: astrazione → gesto fisico.
+
+Ed è normale che all’inizio questo richieda tempo e possa mettere in difficoltà, d’altronde una stessa nota, ad una specifica altezza, può essere eseguita anche in 5 punti diversi della chitarra (addirittura fino a 6 nel caso di tastiere a 24 tasti).
+
+Quando le note escono dal pentagramma, compaiono le linee aggiuntive.
+Non sono note “speciali”.
+
+Sono semplicemente il modo grafico per dire: stiamo andando più in alto o più in basso.
+
+Se pensi a queste note come a un’estensione naturale del pentagramma, smettono di sembrare un problema.
+
+Le figure musicali indicano durate relative, non valori assoluti.
+
+.. image:: _static/music/durate1.*
