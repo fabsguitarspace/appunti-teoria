@@ -464,9 +464,9 @@ A cosa serve davvero:
 
 L’enarmonia è il fatto che due (o più) note si scrivono in modo diverso ma suonano uguali:
 
-👉 stessa altezza sonora
-👉 nome diverso
-👉 funzione musicale diversa
+- stessa altezza sonora
+- nome diverso
+- funzione musicale diversa
 
 Sullo strumento sono lo stesso tasto.
 
@@ -475,6 +475,7 @@ Nella musica non sono la stessa cosa.
 L’enarmonia esiste perché la musica non è una mappa di tasti, ma un sistema di relazioni.
 
 La scrittura serve a dire:
+
 - che grado è quella nota
 - che intervallo sta formando
 - che funzione ha nell’accordo o nella scala
