@@ -384,6 +384,8 @@ Le figure musicali indicano durate relative, non valori assoluti.
 
 .. image:: _static/music/durate1.*
 
+.. image:: _static/music/durate2.*
+
 Non esistono da sole. Esistono sempre in relazione al tempo.
 
 Una semiminima non è “un secondo”.
@@ -403,6 +405,9 @@ Servono a:
 
 La musica non si ferma alla stanghetta.
 Se lo fa, non è colpa della notazione.
+
+.. image:: _static/music/tempo.*
+
 
 L’indicazione di tempo (4/4, 3/4, 6/8 ecc.) dice due cose:
 
@@ -519,3 +524,101 @@ Quando guardi una frase scritta, chiediti:
 Se leggi solo “nota per nota”, sei sempre in ritardo.
 
 Se leggi per gesti, il corpo arriva prima.
+
+Il problema specifico del chitarrista
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Qui arriva il punto delicato. Il pentagramma descrive le altezze, non le posizioni sulla tastiera. Per pianisti e strumenti a tastiera questo è naturale. Per la chitarra no.
+
+La stessa nota può esistere in più punti.
+
+La stessa frase può essere suonata in modi fisicamente molto diversi.
+
+Il pentagramma non lo sa. E non gli interessa.
+
+Per questo il chitarrista deve fare un passo in più: tradurre un’astrazione in un gesto fisico.
+
+Quando questa traduzione diventa automatica, il pentagramma è un alleato potente.
+
+Quando non lo è, diventa una fonte di blocco.
+
+Leggere non significa capire
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Saper leggere non significa capire la musica.
+
+Così come saper leggere una lingua non significa saper raccontare una storia.
+
+Puoi leggere perfettamente e suonare senza dire nulla.
+
+Puoi leggere poco e comunicare moltissimo.
+
+La notazione serve a:
+
+- orientarti
+- ricordare
+- studiare
+- confrontarti
+
+Non serve a dirti come suonare.
+
+Usare il pentagramma nel modo giusto
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Il modo giusto di usare il pentagramma è questo:
+
+- leggerlo lontano dallo strumento
+- cantare ciò che vedi
+- sentirne la direzione prima delle dita
+- usarlo per capire dopo aver suonato
+
+Se lo usi come un comando in tempo reale, rallenta tutto.
+
+Se lo usi come mappa di riferimento, chiarisce moltissimo.
+
+.. tip::
+
+   La musica è continua. La notazione è discreta.
+   Tra una nota scritta e l’altra c’è sempre molto di più di quello che vedi.
+   Il tuo compito non è riempire le caselle, ma far vivere lo spazio tra di esse.
+   Il pentagramma non suona. Tu sì.
+
+
+Il sistema di nomenclatura delle note anglosassoni
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Nel sistema anglosassone le note musicali sono indicate con lettere dell’alfabeto, invece dei nomi latini tradizionali.
+
+La corrispondenza è la seguente:
+
+.. list-table::
+
+   * - Do
+     - **C**
+   * - Re
+     - **D**
+   * - Mi
+     - **E**
+   * - Fa
+     - **F**
+   * - Sol
+     - **G**
+   * - La
+     - **A**
+   * - Si
+     - **B**
+
+
+Questo sistema deriva dalla tradizione teorica medievale e si è affermato soprattutto nei paesi anglofoni, diventando oggi lo standard internazionale nella musica moderna, nel jazz, nel pop, nel rock e nella tecnologia musicale.
+
+Il sistema anglosassone è usato:
+
+- nelle sigle degli accordi (Cmaj7, Dm7, G7)
+- nei vari Real Book e pubblicazioni musicali moderne
+- nei software musicali
+- nella didattica jazz e pop internazionale
+- nella comunicazione tra musicisti
+
+Non conoscerlo significa dipendere sempre da una traduzione mentale, che rallenta la comprensione e l’ascolto.
+
+Il sistema anglosassone non è un’alternativa al sistema latino, è il suo linguaggio operativo nella musica contemporanea.
