@@ -383,3 +383,138 @@ Se pensi a queste note come a un’estensione naturale del pentagramma, smettono
 Le figure musicali indicano durate relative, non valori assoluti.
 
 .. image:: _static/music/durate1.*
+
+Non esistono da sole. Esistono sempre in relazione al tempo.
+
+Una semiminima non è “un secondo”.
+È una parte del battito.
+
+Il pentagramma ti dice quanto una nota dura rispetto alle altre, non come deve respirare.
+
+Le stanghette dividono il flusso in porzioni leggibili.
+Non sono muri.
+Sono riferimenti visivi.
+
+Servono a:
+
+- orientarsi
+- coordinarsi
+- non perdersi
+
+La musica non si ferma alla stanghetta.
+Se lo fa, non è colpa della notazione.
+
+L’indicazione di tempo (4/4, 3/4, 6/8 ecc.) dice due cose:
+
+- quale valore rappresenta il battito
+- quanti battiti ci sono nella battuta
+
+Ma non dice:
+come deve “camminare” il tempo
+dove sta il groove
+come va accentato davvero
+
+Quello lo impari solo ascoltando.
+
+Diesis, bemolle e bequadro servono a modificare l’altezza delle note.
+
+Indicano:
+
+- cambiamenti locali (accidentali)
+- oppure cambiamenti strutturali (in armatura di chiave)
+
+Il diesis (♯) alza la nota di un semitono:
+Do → Do♯
+
+Il bemolle (♭) abbassa la nota di un semitono:
+
+Si → Si♭
+
+Il doppio diesis (𝄪) alza la nota di due semitoni:
+
+Fa𝄪 = Sol
+
+Attenzione, suona come Sol… ma non è Sol. 
+
+Vedremo che serve per:
+
+- mantenere la coerenza intervallare
+- scrivere correttamente scale, accordi e modulazioni complesse
+- evitare salti logici nella lettura
+- mantenere l’identità dei gradi
+
+Ad esempio in Sol♯ maggiore il settimo grado è Fa𝄪, non Sol.
+
+Il doppio bemolle (𝄫) abbassa la nota di due semitoni:
+
+Si𝄫 = La
+
+Stessa storia: suono uguale, funzione diversa.
+
+Il bequadro (♮) annulla diesis o bemolle precedenti:
+
+Fa♯ → Fa♮
+Si♭ → Si♮
+
+A cosa serve davvero:
+
+- tornare alla nota “naturale”
+- evitare ambiguità di lettura
+- ripristinare l’intonazione corretta all’interno della battuta
+
+L’enarmonia è il fatto che due (o più) note si scrivono in modo diverso ma suonano uguali:
+
+👉 stessa altezza sonora
+👉 nome diverso
+👉 funzione musicale diversa
+
+Sullo strumento sono lo stesso tasto.
+
+Nella musica non sono la stessa cosa.
+
+L’enarmonia esiste perché la musica non è una mappa di tasti, ma un sistema di relazioni.
+
+La scrittura serve a dire:
+- che grado è quella nota
+- che intervallo sta formando
+- che funzione ha nell’accordo o nella scala
+
+Vediamo un esempio chiave.
+
+In Re♭ maggiore scrivi:
+
+Re♭ – Mi♭ – Fa – Sol♭ – La♭ – Si♭ – Do
+
+Scrivere Fa♯ al posto di Sol♭ sarebbe:
+
+- acusticamente uguale
+- concettualmente sbagliato
+- distruttivo per la lettura e l’analisi
+
+🎸 Tradotto per chitarristi… ti frega perché:
+
+Do♯ e Re♭ stanno nello stesso punto
+quindi sembrano la stessa cosa
+
+Ma quando:
+
+- costruisci un accordo
+- analizzi una progressione
+- leggi uno spartito
+- comunichi con altri musicisti
+
+👉 la funzione conta più del tasto
+
+Leggere non significa tradurre istantaneamente in dita.
+
+Significa prima sentire una direzione.
+
+Quando guardi una frase scritta, chiediti:
+
+- sale o scende?
+- si muove per gradi o per salti?
+- respira o corre?
+
+Se leggi solo “nota per nota”, sei sempre in ritardo.
+
+Se leggi per gesti, il corpo arriva prima.
