@@ -9,3 +9,4 @@ Appunti di Teoria e Armonia per Chitarra Jazz
 
   1-introduzione
   2-prima-delle-note
+  3-intervalli
