@@ -87,6 +87,8 @@ Se ne riconosci il suono, hai già fatto metà del lavoro.
 
 **Unisono**
 
+- Abbreviazione: **1**, **P1** 
+- Numero di semitoni: **0**
 - Stessa nota, stessa altezza
 - Stabilità totale
 - Nessuna tensione, nessuna direzione
@@ -94,6 +96,8 @@ Se ne riconosci il suono, hai già fatto metà del lavoro.
 
 **Seconda minore**
 
+- Abbreviazione: **♭2**, **m2** 
+- Numero di semitoni: **1**
 - Distanza minima
 - Forte attrito
 - Sensazione di urgenza
@@ -103,6 +107,8 @@ Se ne riconosci il suono, hai già fatto metà del lavoro.
 
 **Seconda maggiore**
 
+- Abbreviazione: **2**, **M2** 
+- Numero di semitoni: **2**
 - Passo naturale
 - Continuità
 - Movimento fluido
@@ -110,6 +116,8 @@ Se ne riconosci il suono, hai già fatto metà del lavoro.
 
 **Terza minore**
 
+- Abbreviazione: **♭3**, **m3** 
+- Numero di semitoni: **3**
 - Colore emotivo
 - Ambiguità
 - Intimità
@@ -117,6 +125,8 @@ Se ne riconosci il suono, hai già fatto metà del lavoro.
 
 **Terza maggiore**
 
+- Abbreviazione: **3**, **M3** 
+- Numero di semitoni: **4**
 - Chiarezza
 - Definizione
 - Centro tonale evidente
@@ -125,6 +135,8 @@ Se ne riconosci il suono, hai già fatto metà del lavoro.
 
 **Quarta giusta**
 
+- Abbreviazione: **4**, **P4** 
+- Numero di semitoni: **5**
 - Stabilità apparente
 - Leggera sospensione
 - Orizzontalità
@@ -133,6 +145,8 @@ Se ne riconosci il suono, hai già fatto metà del lavoro.
 
 **Tritono**
 
+- Abbreviazione: **♭5**, **d3** 
+- Numero di semitoni: **6**
 - Massima ambiguità
 - Tensione strutturale
 - Direzione obbligata
@@ -141,6 +155,8 @@ Se ne riconosci il suono, hai già fatto metà del lavoro.
 
 **Quinta giusta**
 
+- Abbreviazione: **5**, **P5** 
+- Numero di semitoni: **7**
 - Solidità
 - Fondamento
 - Neutralità
@@ -148,6 +164,8 @@ Se ne riconosci il suono, hai già fatto metà del lavoro.
 
 **Sesta minore**
 
+- Abbreviazione: **♭6**, **m6** 
+- Numero di semitoni: **8**
 - Calore
 - Nostalgia
 - Dramma controllato
@@ -155,6 +173,8 @@ Se ne riconosci il suono, hai già fatto metà del lavoro.
 
 **Sesta maggiore**
 
+- Abbreviazione: **6**, **M6** 
+- Numero di semitoni: **9**
 - Apertura
 - Espansione
 - Luminosità morbida
@@ -163,6 +183,8 @@ Se ne riconosci il suono, hai già fatto metà del lavoro.
 
 **Settima minore**
 
+- Abbreviazione: **♭7**, **m7** 
+- Numero di semitoni: **10**
 - Instabilità elegante
 - Movimento implicito
 - Spinta senza aggressività
@@ -170,6 +192,8 @@ Se ne riconosci il suono, hai già fatto metà del lavoro.
 
 **Settima maggiore**
 
+- Abbreviazione: **maj7**, **M7** 
+- Numero di semitoni: **11**
 - Tensione raffinata
 - Fragilità
 - Sospensione intensa
