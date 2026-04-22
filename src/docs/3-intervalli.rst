@@ -94,6 +94,18 @@ Se ne riconosci il suono, hai già fatto metà del lavoro.
 - Nessuna tensione, nessuna direzione
 - Serve più di quanto sembri. È il punto zero, il riferimento, il ritorno a casa.
 
+
+.. image:: 
+   _static/music/intervallo-unisono.*
+   :width: 300px
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/intervallo-unisono.mp3" type="audio/mp3">
+   </audio>
+
+
 **Seconda minore**
 
 - Abbreviazione: **♭2**, **m2** 
@@ -103,6 +115,16 @@ Se ne riconosci il suono, hai già fatto metà del lavoro.
 - Sensazione di urgenza
 - È l’intervallo del cromatismo, dell’avvicinamento, della spinta.
 - Non vive mai da solo... chiede sempre una risoluzione.
+
+.. image:: 
+   _static/music/intervallo-m2.*
+   :width: 300px
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/intervallo-m2.mp3" type="audio/mp3">
+   </audio>
 
 
 **Seconda maggiore**
@@ -114,6 +136,16 @@ Se ne riconosci il suono, hai già fatto metà del lavoro.
 - Movimento fluido
 - È il camminare della melodia. Collega, accompagna, prepara.
 
+.. image:: 
+   _static/music/intervallo-2.*
+   :width: 300px
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/intervallo-2.mp3" type="audio/mp3">
+   </audio>
+
 **Terza minore**
 
 - Abbreviazione: **♭3**, **m3** 
@@ -122,6 +154,16 @@ Se ne riconosci il suono, hai già fatto metà del lavoro.
 - Ambiguità
 - Intimità
 - Non è “triste” in senso assoluto. È introspettiva, narrativa, meno assertiva della maggiore.
+
+.. image:: 
+   _static/music/intervallo-m3.*
+   :width: 300px
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/intervallo-m3.mp3" type="audio/mp3">
+   </audio>
 
 **Terza maggiore**
 
@@ -133,6 +175,16 @@ Se ne riconosci il suono, hai già fatto metà del lavoro.
 - È uno degli intervalli più riconoscibili dall’orecchio.
 - Spesso basta lei a far capire “dove siamo”.
 
+.. image:: 
+   _static/music/intervallo-3.*
+   :width: 300px
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/intervallo-3.mp3" type="audio/mp3">
+   </audio>
+
 **Quarta giusta**
 
 - Abbreviazione: **4**, **P4** 
@@ -142,6 +194,16 @@ Se ne riconosci il suono, hai già fatto metà del lavoro.
 - Orizzontalità
 - Non spinge forte, ma non riposa del tutto.
 - È un intervallo di passaggio mascherato da stabilità.
+
+.. image:: 
+   _static/music/intervallo-p4.*
+   :width: 300px
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/intervallo-p4.mp3" type="audio/mp3">
+   </audio>
 
 **Tritono**
 
@@ -153,6 +215,16 @@ Se ne riconosci il suono, hai già fatto metà del lavoro.
 - Non è “brutto”. È instabile per natura.
 - Proprio per questo è uno dei motori principali dell’armonia.
 
+.. image:: 
+   _static/music/intervallo-d5.*
+   :width: 300px
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/intervallo-d5.mp3" type="audio/mp3">
+   </audio>
+
 **Quinta giusta**
 
 - Abbreviazione: **5**, **P5** 
@@ -161,6 +233,16 @@ Se ne riconosci il suono, hai già fatto metà del lavoro.
 - Fondamento
 - Neutralità
 - È forte, ma non dice tutto. Sorregge, non colora.
+
+.. image:: 
+   _static/music/intervallo-p5.*
+   :width: 300px
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/intervallo-p5.mp3" type="audio/mp3">
+   </audio>
 
 **Sesta minore**
 
@@ -171,6 +253,16 @@ Se ne riconosci il suono, hai già fatto metà del lavoro.
 - Dramma controllato
 - Molto più presente di quanto sembri. Spesso lavora in silenzio.
 
+.. image:: 
+   _static/music/intervallo-m6.*
+   :width: 300px
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/intervallo-m6.mp3" type="audio/mp3">
+   </audio>
+
 **Sesta maggiore**
 
 - Abbreviazione: **6**, **M6** 
@@ -180,6 +272,15 @@ Se ne riconosci il suono, hai già fatto metà del lavoro.
 - Luminosità morbida
 - Non risolve come una terza maggiore, ma amplia lo spazio.
 
+.. image:: 
+   _static/music/intervallo-6.*
+   :width: 300px
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/intervallo-6.mp3" type="audio/mp3">
+   </audio>
 
 **Settima minore**
 
@@ -190,6 +291,16 @@ Se ne riconosci il suono, hai già fatto metà del lavoro.
 - Spinta senza aggressività
 - È l’intervallo che rende un accordo “vivo”. Raramente sta fermo.
 
+.. image:: 
+   _static/music/intervallo-m7.*
+   :width: 300px
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/intervallo-m7.mp3" type="audio/mp3">
+   </audio>
+
 **Settima maggiore**
 
 - Abbreviazione: **maj7**, **M7** 
@@ -198,6 +309,16 @@ Se ne riconosci il suono, hai già fatto metà del lavoro.
 - Fragilità
 - Sospensione intensa
 - Non urla. Sussurra, ma non riposa.
+
+.. image:: 
+   _static/music/intervallo-maj7.*
+   :width: 300px
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/intervallo-maj7.mp3" type="audio/mp3">
+   </audio>
 
 La settima maggiore è un intervallo strano.
 
@@ -225,6 +346,16 @@ Per questo la settima maggiore non è mai neutra. Anche quando è suonata piano,
 - Conferma
 - Riaffermazione del centro
 - È la stessa nota, ma non è la stessa cosa. Chiude il cerchio.
+
+.. image:: 
+   _static/music/intervallo-ottava.*
+   :width: 300px
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/intervallo-ottava.mp3" type="audio/mp3">
+   </audio>
 
 Un piccolo esperimento
 ~~~~~~~~~~~~~~~~~~~~~~
