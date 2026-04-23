@@ -357,6 +357,64 @@ Per questo la settima maggiore non è mai neutra. Anche quando è suonata piano,
       <source src="_static/music/intervallo-ottava.mp3" type="audio/mp3">
    </audio>
 
+Qualità degli intervalli
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+Ad ogni intervallo viene assegnato un numero (seconda, terza, quinta, ecc.) ma anche un nome che determina la *qualità* (giusto o perfetto, maggiore, minore, aumentato e diminuito). Le qualità sono espresse con dei simboli:
+
+- **Perfetto (o Giusto)** = **P**
+- **Maggiore** = **M**, **maj**, **Δ**
+- **Minore** = **m**, **–**, **min**
+- **Aumentato (o Eccedente)** = **aug**,  **+**
+- **Diminuito** = **dim**, **°**
+
+Intervalli perfetti:
+
+- Unisono (P1)
+- Quarta perfetta (P4)
+- Quinta perfetta (P5)
+- Ottava ((P8))
+
+Intervalli maggiori:
+
+- Seconda maggiore (M2)
+- Terza maggiore (M3)
+- Sesta maggiore (M6)
+- Sesta maggiore (M7)
+
+Intervalli minori:
+
+- Seconda minore (m2)
+- Terza minore (m3)
+- Sesta minore (m6)
+- Sesta minore (m7)
+
+Se alziamo di un semitono gli intervalli maggiori e perfetti, essi prendo il nome di **aumentati**.
+Se invece abbassiamo di un semitono gli intervalli minori o perfetti, essi prendono il nome di **diminuiti**.
+
+
+Gli intervalli più piccoli di un'ottava sono detti **semplici**, altrimenti sono detti **composti**.
+Gli intervalli composti hanno la stessa qualità della loro controparte all'interno dell'ottava, ma il numero che li identifica è alzato di sette unità:
+
+Seconda maggiore → Nona maggiore
+Sesta minore → Tredicesima minore
+Quarta aumentata → Undicesima aumentata
+
+Rivolti degli intervalli
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+Il rivolto di un intervallo semplice (più piccolo di un'ottava) si realizza
+portando su di un'ottava la sua nota più bassa e misurando la nuova distanza
+fra le due note in questione. 
+
+Un intervallo più il suo rivolto dà sempre, come risultato, un'ottava.
+
+**Scorciatoia per trovare i rivolti**: La somma di un intervallo più il suo rivolto dà sempre, come risultato, il **numero 9**.
+
+Per esempio: seconda → settima, terza → sesta, quarta → quinta.
+
+Inoltre, il rivolto di un intervallo giusto è sempre un intervallo giusto, quello di un intervallo maggiore è sempre minore mentre l'aumentato ha come rivolto il diminuito.
+
 Un piccolo esperimento
 ~~~~~~~~~~~~~~~~~~~~~~
 
