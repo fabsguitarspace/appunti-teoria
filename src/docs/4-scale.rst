@@ -227,6 +227,34 @@ La scala di Do maggiore non è “più semplice” musicalmente delle altre.
 
 La scala maggiore di Do è il modello base attraverso cui si comprende la struttura di tutte le scale maggiori, non un caso speciale.
 
+Altre tonalità
+~~~~~~~~~~~~~~
+
+Se una scala maggiore inizia su una tonica diversa da Do, la formula della scala maggiore richiede che vengano apportate modifiche alle note dell’alfabeto musicale.
+
+Per capire perché, proviamo a costruire una scala maggiore partendo dalla tonica Sol (G), seguendo passo dopo passo la formula (T-T-S-T-T-T-S).
+
+La formula stabilisce che ci debba essere un tono tra il sesto e il settimo grado, e un semitono tra il settimo grado e l’ottava. Tuttavia, il semitono naturale tra Mi e Fa crea una discrepanza. 
+
+La soluzione è alzare il settimo grado, Fa, di un semitono, aumentando così la distanza da Mi e diminuendo quella da Sol, cioè l’ottava. 
+
+Questo si ottiene usando il diesis (#) davanti al Fa. Il diesis ha l’effetto di alzare la nota che segue di un semitono.
+
+.. image:: 
+   _static/music/scala-g-maggiore.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-g-maggiore.mp3" type="audio/mp3">
+   </audio>
+
+.. attention::
+
+   Quando si pronuncia, il diesis si dice dopo il nome della nota, come in “Fa diesis”. Allo stesso modo, quando si scrive in un testo, il diesis segue il nome della nota: Fa♯. Quando invece si scrive sul pentagramma, il diesis si pone sempre prima della nota, sulla stessa linea o spazio della nota stessa.
+
+
 Il mondo “minore” e le sue ambiguità
 ------------------------------------
 
