@@ -1330,8 +1330,8 @@ Una scala è **“simmetrica”** quando la sua struttura intervallare si ripete
 
 Nel jazz questa ambiguità è preziosa: non serve per “stabilire una tonalità”, serve per colorare una funzione (spesso una dominante) o per creare un momento di sospensione controllata.
 
-Scala esatonale
-~~~~~~~~~~~~~~~
+Scala a toni interi (esatonale)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 È costruita solo con toni interi quindi ha 6 note.
 
@@ -1356,4 +1356,71 @@ Contiene naturalmente l’idea di accordo aumentato e tende a evocare alterazion
    <audio controls class="audio-controls">
       <source src="_static/music/scala-c-esatonale.mp3" type="audio/mp3">
    </audio>
+
+Scala diminuita (octatonica)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Ha 8 note ed è costruita alternando semitoni e toni... oppure toni e semitoni. 
+
+Per questo in realtà si parla di due forme:
+
+
+**Whole Half** (WH): tono - semitono (W H W H...)
+
+.. image:: 
+   _static/music/scala-c-diminuita-wh.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-c-diminuita-wh.mp3" type="audio/mp3">
+   </audio>
+
+**Half Whole** (HW): semitono - tono (H W H W...)
+
+
+.. image:: 
+   _static/music/scala-c-diminuita-hw.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-c-diminuita-hw.mp3" type="audio/mp3">
+   </audio>
+
+La diminuita HW è anche detta scala **diminuita di dominante**, proprio contiente tutti i suoni dell'accordo di dominante e del suo sostituto di
+tritono (concetto che vedremo più avanti).
+
+Lo notiamo meglio con un trattamento enarmonico:
+
+.. image:: 
+   _static/music/scala-c-diminuita-hw2.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-c-diminuita-hw2.mp3" type="audio/mp3">
+   </audio>
+
+Proprietà: 
+
+   esistono solo 3 collezioni possibili (per la stessa ragione... la simmetria “chiude” il cerchio).
+
+Colore teorico: è la scala che rende naturale il mondo “diminuito” e, soprattutto, spiega perché certi dominanti suonano pieni di tensioni ma restano coerenti. 
+
+Dentro questa scala convivono molte sonorità che, nel diatonico, sembrerebbero “troppe insieme”, ma qui diventano parte di un unico colore.
+
+
+Perché queste scale contano davvero (anche se non “sono tonalità”)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Il punto non è trattarle come nuovi mondi con nuove regole ma capire la loro funzione pratica:
+
+- sono palette di colore, non sistemi di appartenenza
+- spiegano l’ambiguità in modo ordinato (non come “eccezione”)
+- ridimensionano l’ossessione delle 12 tonalità: qui la struttura è più importante della tonica
+- rendono naturale il passaggio tra tensioni e accordi che, in armonia tradizionale, richiederebbe mille giustificazioni
 
