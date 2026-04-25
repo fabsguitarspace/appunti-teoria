@@ -14,7 +14,7 @@ melodia = \relative c' {
 }
 
 testo = \lyricmode {
-  I ♭II ♭III IV V ♭VI ♭VII
+  "1" "♭2" "♭3" "4" "5" "♭6" "♭7"
 }
 
 \score {

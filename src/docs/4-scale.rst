@@ -946,3 +946,414 @@ In sintesi: la pentatonica è un set di suoni estremamente antico e diffuso, che
 .. important::
 
    La pentatonica è materiale... il blues è grammatica, accento e significato.
+
+Modi
+----
+
+Modalità
+~~~~~~~~
+
+La parola *“modale”* deriva dal latino *modus*. Tradotta in modo libero, significa la “via” o il “modo” in cui qualcosa viene fatto. In musica, riguarda il modo in cui le note vengono organizzate **attorno a un centro tonale**. 
+
+In pratica, qualunque principio di organizzazione può essere visto come una forma di modalità. Tuttavia, come musicisti, in genere associamo la parola “modale” alle scale. 
+
+Storicamente è facile capire perché: la musica, all’inizio, era basata quasi esclusivamente su melodia e ritmo... le relazioni armoniche si sono evolute dalla melodia solo in una fase successiva.
+
+Nella tradizione della musica classica europea, con il suo linguaggio armonico altamente sofisticato, le composizioni per moltissimo tempo si sono basate su ciò che, al massimo, potremmo chiamare polifonia lineare (più voci o parti dipendenti o indipendenti). 
+
+A partire da corali cantati sopra un *bordone*, una singola nota di basso tenuta (organum, VIII-IX secolo), la musica si è evoluta verso il movimento parallelo delle parti (inizialmente in quinte e quarte parallele) e infine verso tessiture polifoniche costituite da linee melodiche indipendenti che si muovono in moto parallelo o contrario (contrappunto, XIII-XIV secolo). 
+
+Solo a partire dal XV secolo gli accordi e le progressioni armoniche diventano una parte integrante del linguaggio musicale.
+
+La didattica si concentra soprattutto su ciò che è generalmente noto come approccio “**scala-accordo**” (*chord-scale approach*)... un sistema di pensiero armonico ampiamente accettato a partire dagli anni ’70, nel quale a ogni accordo è associata una scala specifica e, viceversa, ogni scala è collegata a un accordo. Gli accordi rappresentano l’aspetto verticale della musica, mentre le scale esprimono quello orizzontale. Le scale traducono la struttura armonica in movimento melodico.
+
+Quindi, quando si usa il termine “modalità”, si intende prima di tutto i molti tipi di scale che possono essere usate come base per l’improvvisazione. 
+
+.. attention::
+
+   Vorrei però assicurarmi che questo non venga inteso in modo troppo restrittivo. 
+   
+   “Modalità” può descrivere qualunque combinazione concepibile di note: la scala pentatonica, la scala maggiore, i modi ecclesiastici, la scala cromatica, il principio dodecafonico, i raga indiani o praticamente qualunque cosa costruita con un certo numero di suoni. 
+   
+In sostanza, il termine “modo” implica in genere un sistema musicale autosufficiente in cui le note ruotano attorno a un centro tonale o tonica. 
+
+Tutte le note, sia raggruppate in accordi sia in melodie, stabiliscono relazioni specifiche con la tonica, generando il colore e il carattere tipico e unico del modo.
+
+Nel jazz, oltre alle scale maggiore e minore naturale, troviamo un intero gruppo di scale che derivano (per nome e struttura) dagli antichi *modi ecclesiastici* greci e bizantini. 
+
+La maggior parte delle persone, quando si imbatte per la prima volta nei modi ecclesiastici, li impara come “spostamenti” o permutazioni della scala maggiore. 
+
+Partendo dai vari gradi di una qualunque scala maggiore e utilizzando la stessa sequenza di note, otteniamo una varietà di tipi di scala diversi: 
+
+I. Ionico
+II. Dorico
+III. Frigio
+IV. Lidio
+V. Misolidio
+VI. Eolio
+VII. Locrio
+
+Anche le stesse scale maggiore e minore naturale appartengono ai modi ecclesiastici e sono note rispettivamente come Ionico (I grado) ed Eolio (VI grado). 
+
+I modi nascono quando prendi una stessa collezione di note e sposti il centro di gravità. Le note non cambiano, ma cambia il punto da cui l’orecchio le misura. 
+
+Questo è l’aspetto fondamentale: un modo non è una scala “aggiuntiva”, è una riorganizzazione delle relazioni interne a un insieme di suoni.
+
+Dal punto di vista costruttivo, i modi della scala maggiore si ottengono considerando come centro ciascun grado della scala stessa. 
+
+Se prendi la scala maggiore e la “ascolti” partendo ogni volta da una nota diversa, mantenendo però le stesse altezze complessive, ottieni sette modi differenti. 
+
+Ma ciò che li rende diversi non è l’ordine delle note, bensì gli intervalli che ciascun modo forma rispetto al proprio centro.
+
+Ogni modo è definito dalla sua struttura intervallare interna. 
+
+Ionico
+~~~~~~
+
+Il modo **Ionico** coincide con la scala maggiore tradizionale, contiene una terza maggiore, una settima maggiore e una quinta giusta, creando un forte senso di stabilità tonale. Gli intervalli che le note formano con il centro sono quindi:
+
+.. image:: 
+   _static/music/c-ionico.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/c-ionico.mp3" type="audio/mp3">
+   </audio>
+
+
+Dorico
+~~~~~~
+
+Il Dorico conserva la terza minore ma mantiene la sesta maggiore, generando un equilibrio ambiguo tra tensione e apertura. 
+
+.. image:: 
+   _static/music/d-dorico.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/d-dorico.mp3" type="audio/mp3">
+   </audio>
+
+
+Modo dorico riportato a Do:
+
+.. image:: 
+   _static/music/c-dorico.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/c-dorico.mp3" type="audio/mp3">
+   </audio>
+
+
+Frigio
+~~~~~~
+
+Il Frigio è caratterizzato dalla seconda minore, che introduce un attrito immediato rispetto al centro. 
+
+
+.. image:: 
+   _static/music/e-frigio.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/e-frigio.mp3" type="audio/mp3">
+   </audio>
+
+Modo frigio riportato a Do:
+
+.. image:: 
+   _static/music/c-frigio.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/c-frigio.mp3" type="audio/mp3">
+   </audio>
+
+
+Lidio
+~~~~~
+
+
+Il Lidio si distingue per la quarta aumentata, che elimina la gravità sottodominante tipica del maggiore. Quando parliamo di gravità sottodominante, non stiamo parlando di un accordo in sé, ma di una forza percettiva.
+
+È una tendenza dell’orecchio, non una regola scritta.
+
+Nella scala maggiore esiste una nota – e una funzione – che crea una spinta molto particolare: il quarto grado rispetto alla tonica.
+
+Se prendi una scala maggiore e la ascolti rispetto alla tonica, succede una cosa interessante:
+
+- la tonica è stabile
+- la quinta è stabile
+- la terza definisce il colore
+
+Ma **la quarta no**.
+
+
+La quarta, nel contesto maggiore, è una nota che **non si appoggia bene sul centro**. L’orecchio la percepisce come una tensione morbida, diversa da quella della sensibile, ma comunque direzionale.
+
+*Non chiede di salire*. **Chiede di scendere**.
+
+Questa è la gravità sottodominante: una forza che tira verso il basso, verso la terza, verso la stabilità del centro.
+
+.. image:: 
+   _static/music/f-lidio.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/f-lidio.mp3" type="audio/mp3">
+   </audio>
+
+Modo lidio riportato a Do:
+
+.. image:: 
+   _static/music/c-lidio.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/c-lidio.mp3" type="audio/mp3">
+   </audio>
+
+Misolidio
+~~~~~~~~~
+
+Il Misolidio contiene la settima minore, che indebolisce la spinta risolutiva verso la tonica. 
+
+.. image:: 
+   _static/music/g-misolidio.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/g-misolidio.mp3" type="audio/mp3">
+   </audio>
+
+
+Modo misolidio riportato a Do:
+
+.. image:: 
+   _static/music/c-misolidio.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/c-misolidio.mp3" type="audio/mp3">
+   </audio>
+
+
+Eolio
+~~~~~
+
+L’Eolio, la scala minore naturale, presenta terza, sesta e settima minori, creando un assetto più instabile e introspettivo. 
+
+.. image:: 
+   _static/music/a-eolio.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/a-eolio.mp3" type="audio/mp3">
+   </audio>
+
+
+Modo eolio riportato a Do:
+
+.. image:: 
+   _static/music/c-eolio.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/c-eolio.mp3" type="audio/mp3">
+   </audio>
+
+
+Locrio
+~~~~~~
+
+Il Locrio, infine, include una quinta diminuita, che rende il centro estremamente fragile.
+
+
+.. image:: 
+   _static/music/b-locrio.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/b-locrio.mp3" type="audio/mp3">
+   </audio>
+
+
+Modo locrio riportato a Do:
+
+.. image:: 
+   _static/music/c-locrio.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/c-locrio.mp3" type="audio/mp3">
+   </audio>
+
+A cosa servono i modi
+~~~~~~~~~~~~~~~~~~~~~
+
+Visti in questo modo, i modi non sono etichette teoriche ma configurazioni di intervalli che determinano come una nota centrale si comporta e come le altre le ruotano attorno. 
+
+.. important::
+
+   Capire i modi significa quindi riconoscere quali intervalli sono stabili, quali spingono e quali restano sospesi rispetto a un centro. 
+
+   È questo, e solo questo, che dà senso all’esperienza modale.
+
+
+Un modo non è una scala diversa. È la stessa materia sonora vista da un altro centro di gravità. Quando cambia il centro, non cambiano le note. Cambia il ruolo delle note.
+
+Quello che prima era stabile diventa instabile. Quello che prima spingeva ora riposa.
+
+Il tuo orecchio non ascolta una lista di altezze.
+
+Ascolta sempre rispetto a qualcosa. Se togli il centro, togli il senso. Se cambi il centro, cambi la storia. Questo è tutto ciò che serve per capire i modi. Tutto il resto è contorno.
+
+Lidio, Dorico, Misolidio non sono colori da scegliere su una tavolozza.
+
+Non sono atmosfere da “applicare”.
+
+Non sono identità musicali autonome.
+
+Sono punti di vista.
+
+Il Lidio non è “più aperto” perché ha una #4.
+
+È aperto perché quella #4 non è più percepita come tensione da risolvere, ma come parte dell’equilibrio.
+
+Il Dorico non è “funky” per natura.
+
+È ambiguo perché mette in convivenza stabilità e instabilità in un modo particolare.
+
+Il Misolidio non è “dominante rilassata”.
+
+È una prospettiva in cui la settima minore non spinge più come spingerebbe in un contesto tonale classico.
+
+Non c’è nulla di magico. C’è solo un centro che cambia.
+
+.. attention::
+
+   Il grande equivoco dell’approccio modale:
+
+   *Su questo accordo puoi usare questo modo*
+
+   Questa frase è comoda, **ma è profondamente fuorviante.**
+
+Questo sposto l’attenzione:
+
+- dalle **relazioni** alla *scelta*
+- dal **suono** al *permesso*
+
+Il risultato è che il chitarrista:
+
+- pensa mentre suona
+- cerca la scala giusta
+- perde il flusso
+- smette di ascoltare
+
+I modi non sono una risposta alla domanda “che scala uso?”. Sono una descrizione di cosa sta succedendo quando la musica non si muove come tonalità classica.
+
+Un modo non si applica. Un modo emerge. Emerge quando:
+
+- un centro resta stabile abbastanza a lungo 
+- le risoluzioni cambiano
+- la gravità si ridistribuisce
+
+
+Se devi decidere di usare un modo, sei già fuori dal modo.
+
+Il musicista modale non pensa:
+
+   “Adesso suono dorico”
+
+Pensa:
+
+   “Questo centro non si sta muovendo”
+   
+   “Questa tensione non risolve”
+   
+   “Questo equilibrio è diverso”
+
+E di conseguenza **reagisce**.
+
+
+Quando smetti di trattare i modi come scale alternative e inizi a sentirli come assetti di equilibrio, tutto diventa più semplice. E soprattutto più musicale.
+
+I modi non sono colori da aggiungere.
+
+Sono finestre da cui guardare lo stesso paesaggio.
+
+E il paesaggio, alla fine, è sempre il suono.
+
+Scale simmetriche e sintetiche
+------------------------------
+
+Quando si esce dal territorio “diatonico” (maggiore, minore, modi) si incontra una famiglia di scale che sembrano nate più da una geometria che da una tonalità. In genere vengono chiamate **simmetriche** e, più in generale, **sintetiche**.
+
+“Sintetiche” qui non vuol dire artificiali in senso negativo... vuol dire costruite per progetto: scelte di intervalli pensate per produrre un colore preciso, spesso senza l’idea di una tonalità stabile come nella musica tradizionale.
+
+Una scala è **“simmetrica”** quando la sua struttura intervallare si ripete regolarmente. Questo ha due conseguenze teoriche molto importanti:
+
+- **Pochi trasporti diversi**
+  
+  Non esistono 12 versioni davvero differenti, ma poche “famiglie” che si ripetono (perché la simmetria fa collassare le trasposizioni).
+
+- **Centro tonale ambiguo**
+
+  La scala tende a non “puntare” naturalmente verso una sola casa... il colore è più sospeso, più mobile, più moderno.
+
+Nel jazz questa ambiguità è preziosa: non serve per “stabilire una tonalità”, serve per colorare una funzione (spesso una dominante) o per creare un momento di sospensione controllata.
+
+Scala esatonale
+~~~~~~~~~~~~~~~
+
+È costruita solo con toni interi quindi ha 6 note.
+
+Struttura: 
+
+**tono, tono, tono, tono, tono, tono**
+
+Proprietà: 
+
+   esistono solo 2 collezioni possibili (tutto il resto è la stessa scala trasposta).
+
+Colore teorico: suono “senza gravità”, molto adatto a situazioni in cui vuoi evitare la sensazione di risoluzione inevitabile. 
+
+Contiene naturalmente l’idea di accordo aumentato e tende a evocare alterazioni come #5 e #4.
+
+.. image:: 
+   _static/music/scala-c-esatonale.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-c-esatonale.mp3" type="audio/mp3">
+   </audio>
+
