@@ -254,6 +254,30 @@ Questo si ottiene usando il diesis (#) davanti al Fa. Il diesis ha l’effetto d
 
    Quando si pronuncia, il diesis si dice dopo il nome della nota, come in “Fa diesis”. Allo stesso modo, quando si scrive in un testo, il diesis segue il nome della nota: Fa♯. Quando invece si scrive sul pentagramma, il diesis si pone sempre prima della nota, sulla stessa linea o spazio della nota stessa.
 
+Allo stesso modo possiamo costruire le scale maggiori in tutte le tonalità. 
+
+Scale maggiori con bemolle:
+
+.. image:: 
+   _static/music/scale-maggiori-bemolle.*
+   :width: 100%
+
+Scale maggiori con diesis:
+
+.. image:: 
+   _static/music/scale-maggiori-diesis.*
+   :width: 100%
+
+
+Poiché ciascuna di queste scale richiede sempre l’uso di uno o più diesis (o bemolle) per essere costruita, per comodità questi vengono raccolti all’inizio di un brano musicale, accanto alla chiave. Questo insieme è chiamato armatura di chiave.
+
+Collocare l’armatura all’inizio indica che i diesis devono essere applicati automaticamente per tutto il brano, in tutte le ottave (evitando così di doverli scrivere ogni volta davanti a ogni singola nota).
+
+.. image:: 
+   _static/music/armatura-di-chiave.png
+   :width: 100%
+
+
 
 Il mondo “minore” e le sue ambiguità
 ------------------------------------
@@ -345,7 +369,16 @@ Ripartiamo dalla prime 5 note della scala di Do resa *minore* abbassando di un s
    _static/music/scala-c-minore-5note.*
    :width: 300px
 
-Rimangono solo **2 gradi**: il sesto (VI) e il settimo (VII)
+Rimangono solo **2 gradi**: il sesto (VI) e il settimo (VII). Abbiamo 4 possibilità di combinazione di questi due gradi (minore o maggiore) da cui derivano **4 scale minori**.
+
+.. tip::
+   
+   Dal punto di vista dell’orecchio, però, non esistono quattro mondi separati.
+   
+   Esistono diverse risposte a uno stesso problema percettivo:
+
+   👉 come organizzare la tensione e il movimento intorno a una tonica minore.
+
 
 Scala minore naturale
 ^^^^^^^^^^^^^^^^^^^^^
@@ -392,7 +425,524 @@ Se prendiamo solo il sesto grado minore e lasciamo il settimo grado maggiore ott
       <source src="_static/music/scala-c-minore-armonica.mp3" type="audio/mp3">
    </audio>
 
+La sua struttura è
+
+**tono – semitono – tono – tono – semitono – tono e mezzo – semitono**
+
+
+I suoi gradi caratteristici:
+
+- terza minore
+- sesta minore
+- settima maggiore
+
+Introduce una forte tensione verso la tonica grazie alla settima maggiore.
+
+Vedremo più avanti che questa è la scala che rende possibile **la dominante nel modo minore** (concetto che chiariremo in seguito).
+
+Il sistema diventa teso, verticale, quasi teatrale, drammatica, fortemente direzionale.
+
+
+Scala minore melodica
+^^^^^^^^^^^^^^^^^^^^^
+
+Se prendiamo sesto e settimo grado entrambi *maggiori* otteniamo la scala **minore melodica**:
+
+.. image:: 
+   _static/music/scala-c-minore-melodica.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-c-minore-melodica.mp3" type="audio/mp3">
+   </audio>
+
+La sua struttura è:
+
+**tono – semitono – tono – tono – tono – tono – semitono**
 
 
 
+I suoi gradi caratteristici:
 
+- terza minore
+- sesta maggiore
+- settima maggiore
+
+Nasce per risolvere un problema melodico.
+
+Rende il movimento più fluido, cantabile, meno rigido rispetto alla minore armonica.
+Non è una scala “diversa”, ma una variazione funzionale in movimento.
+
+È una soluzione melodica, non astratta.
+
+Essa infatti consente una risoluzione migliore sulla tonica, grazie alla settima maggiore che "cade" in modo spontaneo sulla tonica. 
+Inoltre è nata per dare una risoluzione alla tensione che crea la minore armonica con la sua seconda eccedente (o aumentata ), intervallo dissonante che si risolve esattamente alzando di un semitono il sesto grado o sopradominante, in modo da eliminare questo "salto proibito" di un tono più un semitono.
+
+Per questo motivo, nascendo esplicitamente per questa necessità, che si presenta *solo in senso ascendente*, nella teoria "classica" questa scala torna ad essere una scala minore naturale in senso *discendente*:
+
+.. image:: 
+   _static/music/scala-c-minore-melodica-asc-desc.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-c-minore-melodica-asc-desc.mp3" type="audio/mp3">
+   </audio>
+
+In senso rigoroso è questa la forma della scala minore melodica. È comune trovare altri modi per indicare la scala minore melodica che include le alterazioni sul VI e VII grado sia in senso ascendente che discendente:
+
+- scala bachiana
+- scala jazz minor
+
+La scala è denominata *bachiana* in onore di Bach il quale l'ha utilizzata spesso nelle proprie composizioni in quanto egli aveva bisogno di una scala minore che avesse un suono invariato sia a salire che a scendere e che non risultasse "orientale" alle orecchie di chi la ascoltava.
+
+In tutto il materiale noi ci riferiremo con il nome di la scala minore melodica intendendo la scala identica sia in senso ascendente sia discendente.
+
+
+Scala dorica
+^^^^^^^^^^^^
+
+Infine abbiamo l'ultima combinazione: il sesto grado resta maggiore e prendiamo il settimo grado minore.
+
+.. image:: 
+   _static/music/scala-c-minore-dorica.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-c-minore-dorica.mp3" type="audio/mp3">
+   </audio>
+
+La sua struttura è:
+
+**tono – semitono – tono – tono – tono – semitono – tono**
+
+
+L’effetto è un minore più luminoso, aperto, meno tragico.
+
+L’orecchio la percepisce come minore, ma **non drammatico**.
+
+Perché la musica non sceglie mai una sola versione
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Queste quattro scale non sono alternative teoriche, ma **quattro modi diversi di organizzare il mondo minore** in base a ciò che la musica deve dire.
+
+Nella musica reale, soprattutto quella viva, improvvisata o cantabile, il **minore non si presenta mai in forma pura**.
+
+Le tre versioni convivono, si sovrappongono, si contaminano. Non per confusione, ma per **necessità espressiva**.
+
+
+La musica:
+
+- prende la settima maggiore quando vuole direzione
+- torna alla settima minore quando vuole sospensione
+- modifica il sesto grado per ammorbidire o accentuare il movimento
+
+Tutto questo avviene **prima della teoria**. La teoria arriva dopo, per descrivere ciò che l’orecchio ha già accettato.
+
+.. important::
+
+   Il mondo minore insegna una lezione fondamentale:
+
+   La musica non è un sistema di scelte binarie, ma un equilibrio continuo tra possibilità.
+
+Capire il minore significa accettare che l’**ambiguità non è un difetto**, ma una delle sue risorse più potenti.
+
+Ed è proprio qui che la musica smette di essere una formula e diventa linguaggio.
+
+
+Scale minori "esotiche"
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Se c’è un intervallo che cambia immediatamente il sapore di una scala, è la **seconda minore**.
+
+È quella distanza ravvicinata, quasi “a contatto”, che crea attrito… e proprio per questo **direzione**.
+
+Se inseriamo questo intervallo nelle scale minori viste in precedenza (al posto della seconda maggiore) otteniamo tensione che non è un incidente: è una caratteristica strutturale. Non è qualcosa da evitare… è qualcosa da abitare e che crea un effetto, potremmo dire, "esotico".
+
+Il termine "esotiche" è un po’ fuorviante, ma utile.
+
+Chiamiamo così quelle scale che escono dal sistema maggiore/minore “classico” occidentale e introducono combinazioni intervallari meno familiari, spesso legate a tradizioni mediorientali, indiane o dell’Europa dell’est.
+
+Ma al di là dell’etichetta geografica, quello che conta davvero è questo:  la presenza della seconda minore crea un **campo di tensione stabile**, non momentaneo.
+
+Non è una nota di passaggio. È una relazione strutturale.
+
+Scala frigia
+^^^^^^^^^^^^
+
+Iniziamo sostituendo la seconda minore alla scala minore naturale, la scala che otteniamo prende il nome di **frigia**:
+
+.. image:: 
+   _static/music/scala-c-frigia.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-c-frigia.mp3" type="audio/mp3">
+   </audio>
+
+È probabilmente il suono più immediatamente riconoscibile tra le scale “esotiche”.
+
+Quella ♭2 sopra la tonica crea tensione immediata e senso di gravità molto marcato.
+
+Scala minore napoletana
+^^^^^^^^^^^^^^^^^^^^^^^
+
+Tra le scale “esotiche”, la minore napoletana è una di quelle che hanno un carattere fortissimo ma allo stesso tempo molto “ordinato”.
+
+Non è caotica… è inevitabile.
+
+Se la guardi bene, è quasi una minore armonica… con una differenza decisiva: la seconda minore tra 1 e ♭2.
+
+.. image:: 
+   _static/music/scala-c-minore-napoletana.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-c-minore-napoletana.mp3" type="audio/mp3">
+   </audio>
+
+
+Quindi hai contemporaneamente:
+
+- la tensione “orientale” della ♭2
+- la spinta tonale fortissima della 7 maggiore
+
+È questa combinazione che la rende così particolare.
+
+Rispetto alla frigia è meno “statica” e più direzionale.
+
+Rispetto alla minore armonica pè iù scura all’inizio (per via della ♭2) ma con la stessa spinta a risolvere.
+
+Attenzione a come usarla (senza “usarla”)!
+
+Il punto non è dire:
+
+  “su questo accordo suono la minore napoletana”
+
+Piuttosto:
+
+- Prendi 1 e ♭2
+  
+  resta lì… ascolta cosa succede
+
+- Aggiungi la 7 maggiore
+  
+  senti come cambia la gravità
+
+- Costruisci piccole frasi:
+  
+  ♭2 → 1
+  
+  7 → 1
+  
+  ♭6 → 7 → 1
+
+Non serve tutta la scala. Bastano tre o quattro note ben sentite.
+
+Se alziamo il sesto grado otteniamo una versione che deriva dalla scala minore melodica (con il secondo grado minore). Questa scala prende il nome di **scala maggiore napoletana**. Nome che crea non poca confusione perché *non si tratta di una scala maggiore*, ma qui l'aggettivo *maggiore* si riferisce al sesto grado e non al terzo:
+
+
+.. image:: 
+   _static/music/scala-c-maggiore-napoletana.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-c-maggiore-napoletana.mp3" type="audio/mp3">
+   </audio>
+
+
+Scala dorica ♭2
+^^^^^^^^^^^^^^^
+
+Infine prendiamo la scala dorica e abbassiamo il secondo grado. Questa scala può essere vista sia come una **dorica ♭2** sia come una **frigia ♮6**.
+
+
+.. image:: 
+   _static/music/scala-c-minore-dorica-b2.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-c-minore-dorica-b2.mp3" type="audio/mp3">
+   </audio>
+
+È una scala molto elegante perché mescola:
+
+- ♭2 → colore frigio, tensione immediata
+- 6 maggiore → apertura dorica
+- ♭7 → niente leading tone, quindi meno “tonale”
+
+Risultato:
+
+- meno “chiusa” della frigia
+- meno “direzionale” della minore melodica
+- ma con un’identità fortissima
+
+Il circolo delle quinte
+-----------------------
+
+Il **circolo delle quinte** è una rappresentazione ordinata delle tonalità in cui ogni centro tonale è posto a **distanza di una quinta giusta dal precedente**. 
+
+Se lo percorri in senso opposto, ottieni il **circolo delle quarte**. 
+
+Non sono due oggetti diversi: è lo stesso fenomeno visto in due direzioni.
+
+.. image:: 
+   _static/music/circolo-quinte-base.png
+   :width: 80%
+
+
+Possimao notare come, in termini di "tonalità" ovvero della scala maggiore avente come tonica una determinata nota del cerchio, il circolo mostra che:
+
+- salendo di quinte aggiungi un diesis alla scala
+- scendendo di quarte aggiungi un bemolle
+
+Ma questa è solo la superficie.
+
+.. image:: 
+   _static/music/circolo-quinte.png
+   :width: 80%
+
+
+Il circolo delle quinte esiste perché **la quinta giusta è l’intervallo strutturalmente più stabile dopo l’ottava**. 
+
+È il primo legame forte che l’orecchio riconosce tra due altezze diverse.
+
+
+Quando una tonalità si muove verso la sua dominante (una quinta sopra), l’orecchio percepisce continuità.
+
+Quando si muove verso la sottodominante (una quarta sopra), percepisce allontanamento controllato.
+
+Il circolo non nasce come schema teorico, ma come **mappa delle relazioni più naturali tra i centri tonali**.
+
+Le tonalità vicine nel circolo:
+
+- condividono quasi tutte le note
+- differiscono solo per un grado
+- permettono modulazioni fluide
+
+Per questo il circolo è una **mappa di prossimità**, *non un elenco*.
+
+Due tonalità lontane nel circolo:
+
+- condividono poche note
+- richiedono più alterazioni
+- producono un cambio di gravità più evidente
+
+Il circolo ordina queste distanze in modo progressivo.
+
+Parlare di circolo delle quinte o delle quarte dipende solo da da dove guardi il movimento:
+
+- quinta sopra → movimento dominante
+- quarta sopra → movimento sottodominante
+
+La struttura è identica. Cambia la direzione del racconto.
+
+.. attention::
+
+   Il circolo non è una tabella da studiare
+
+
+Il circolo delle quinte non serve a:
+
+- memorizzare tonalità
+- fare calcoli
+- “sapere dove sei”
+
+Serve a capire:
+
+- perché certe progressioni funzionano sempre
+- perché alcune modulazioni sono naturali
+- perché l’armonia tende a muoversi in certi modi
+
+È una mappa delle attrazioni, non un esercizio mnemonico.
+
+Il circolo delle quinte è la rappresentazione delle relazioni di massima stabilità tra i centri tonali, ordinata secondo l’intervallo che l’orecchio riconosce come più naturale dopo l’ottava.
+
+Quando lo capisci così, smette di essere un disegno e diventa un modo di ascoltare il movimento armonico.
+
+Scala pentatonica
+-----------------
+
+La pentatonica è una di quelle cose che, se la prendi nel modo giusto, ti cambia la vita... se la prendi come “forma da ripetere”, **ti intrappola**.
+
+È una scala di **5 note**. Sembra poco. In realtà è un set di note **stabili, cantabili, resistenti**: funziona su tanti accordi, regge il tempo, e soprattutto si presta a quel tipo di fraseggio “parlato” che fa subito musica.
+
+Che cos’è davvero
+~~~~~~~~~~~~~~~~~
+
+“Pentatonica” significa semplicemente “a cinque suoni”. Le due famiglie più usate sono:
+
+**Pentatonica maggiore: 1 - 2 - 3 - 5 - 6**
+
+.. image:: 
+   _static/music/scala-c-pentatonica-maggiore.*
+   :width: 500px
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-c-pentatonica-maggiore.mp3" type="audio/mp3">
+   </audio>
+
+
+**Pentatonica minore: 1 - b3 - 4 - 5 - b7**
+
+.. image:: 
+   _static/music/scala-c-pentatonica-minore.*
+   :width: 500px
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-c-pentatonica-minore.mp3" type="audio/mp3">
+   </audio>
+
+
+La cosa importante non è la formula... è l’effetto: togliendo due gradi della scala diatonica, elimini molte frizioni “automatiche” e ottieni una tavolozza che suona bene anche quando l’armonia sotto si muove.
+
+Perché suona bene quasi sempre
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+La pentatonica contiene soprattutto:
+
+- note dell’accordo (o note vicinissime)
+- intervalli molto cantabili
+- poche “spine” che ti costringono a risolvere subito
+
+Ecco perché la senti ovunque: folk, rock, blues, pop, jazz... è una lingua trasversale.
+
+Un modo molto “pulito” di capire perché la pentatonica suona così bene è questo: non pensare a una scala... pensa a una pila di quinte.
+
+La pentatonica maggiore (e di riflesso la relativa minore) può essere ottenuta prendendo cinque note consecutive nel circolo delle quinte. Quello che ottieni è un insieme di suoni che si incastrano naturalmente, perché la quinta è l’intervallo più stabile dopo l’ottava.
+
+.. image:: 
+   _static/music/pentatonica-pila.*
+   :width: 500px
+
+Ora “metti in ordine” queste note dentro un’ottava:
+
+.. image:: 
+   _static/music/pentatonica-ordinata.*
+   :width: 500px
+
+
+Risultato: Do pentatonica maggiore.
+
+Quindi la pentatonica non è solo “una scala di 5 note”... è un frammento del giro delle quinte, cioè una porzione di armonia naturale.
+
+Maggiore e minore... e il trucco più utile
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Pentatonica maggiore e minore sono parenti strettissimi.
+
+
+La pentatonica maggiore di C (C D E G A) è la stessa collezione di note della pentatonica minore di A (A C D E G). Cambia solo il centro, cioè la nota che senti come “casa”.
+
+Questa cosa è pratica perché ti insegna una lezione enorme: non sono le note a decidere tutto... è il centro che ci metti tu.
+
+Pentatonica minore e blues
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+La pentatonica minore è la spina dorsale del blues. E il motivo è proprio quella b3 sopra accordi spesso maggiori: crea l’ambiguità espressiva del blues, quel “pianto e sorriso insieme”.
+
+Se aggiungi anche la **quinta diminuita** (♭5) ottieni la famosa "**scala blues**":
+
+
+
+.. image:: 
+   _static/music/scala-c-blues.*
+   :width: 600px
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-c-blues.mp3" type="audio/mp3">
+   </audio>
+
+
+Non serve pensare “aggiungo la blue note” come teoria... pensa “aggiungo una nota di passaggio, un graffio”. È un gesto, non un calcolo.
+
+
+L’errore classico: la pentatonica come ginnastica
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Molti imparano la pentatonica come cinque box e poi la suonano su e giù. Funziona per due giorni... poi suona sempre uguale.
+
+La via d’uscita è semplice: pensala come intervalli e bersagli, non come disegno.
+
+Prova a chiederti sempre:
+
+- Qual è la nota di arrivo che voglio sentire?
+- Sto atterrando su 1... 3/b3... 5... b7?
+- Sto ripetendo un’idea o sto solo correndo?
+
+
+Pentatonica nel jazz
+~~~~~~~~~~~~~~~~~~~~
+
+Nel jazz la pentatonica non è “la scala del rock”... è un modo elegante di dire molto con poco, spesso con sovrapposizioni intelligenti.
+
+Due esempi di concetto (senza matematica pesante):
+
+- su un accordo minore... la pentatonica minore spesso coincide con il suo colore base
+- su dominanti e cadenze... una pentatonica scelta bene può dare 9, 11, 13 o alterazioni senza dover “pensare la scala intera”
+
+Qui l’orecchio comanda: scegli la pentatonica che ti dà le tensioni che vuoi sentire... e poi fraseggia.
+
+Pentatonica... universale, non “blues”
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Ogni tanto la pentatonica viene chiamata “**scala cinese**”. Non è del tutto sbagliato... ma è molto incompleto, e rischia di creare un altro equivoco: che la pentatonica, da sola, abbia già un “genere” dentro.
+
+La pentatonica non è un genere. È un insieme di cinque gradi molto stabile, presente in tantissime culture musicali. Il blues, invece, è una lingua storica e sonora specifica. Può usare la pentatonica come materiale... ma non coincide con essa.
+
+La pentatonica maggiore è una scala *anemitonica*, cioè **senza semitoni**. Questa assenza di attriti “obbligati” la rende:
+
+- facilmente cantabile
+- facilmente memorizzabile
+- compatibile con molte melodie popolari
+- molto adatta a sistemi musicali e strumenti diversi
+
+
+Per questo la trovi in repertori tradizionali dell’Asia orientale ma anche in musiche celtiche, africane, americane, mediterranee. Chiamarla “cinese” è più una semplificazione storica occidentale che una definizione teorica precisa.
+
+La pentatonica “pura” è neutra nel senso migliore del termine: non impone una grammatica armonica rigida.
+
+Prendiamo la pentatonica maggiore: 1 2 3 5 6. Se la confronti con la scala maggiore completa (1 2 3 4 5 6 7), noti che mancano 4 e 7... proprio i due gradi che, nella tonalità europea, creano le tensioni più direzionali (la 4 verso la 3, la 7 verso la 1). Togliendo quelle due calamite, ottieni un suono aperto, “senza spigoli”, che non ti costringe a risolvere in modo specifico.
+
+Il blues invece nasce e vive di attriti. Attriti di intonazione, di espressività, di ambiguità.
+
+Quindi: una pentatonica suonata in modo perfettamente temperato e “pulito” tende a evocare un colore folk, arcaico, universale... non necessariamente blues.
+
+Cosa rende blues quel materiale è un comportamento melodico e armonico.
+
+1. **Ambiguità maggiore/minore**
+
+   Il blues fa convivere gradi “minori” nella melodia (b3, b7) con un contesto armonico spesso “maggiore” (il tipico I7). Questa convivenza non è un errore teorico... è identità stilistica.
+
+2. **Blue notes come zona, non come tasto**
+
+   Le cosiddette blue notes (soprattutto intorno alla terza e alla quinta) non sono sempre altezze fisse. Sono spesso percepite come una zona espressiva, una flessione tra due poli (per esempio tra b3 e 3). Questo è un punto cruciale: molte descrizioni teoriche scrivono b3 o b5 come se fossero note “uguali alle altre”, ma nel blues la loro forza nasce proprio dal fatto che non sono semplicemente gradi... sono inflessioni.
+
+3. **Armonia “non accademica” ma coerente**
+
+   Il blues usa spesso accordi di dominante anche dove l’armonia classica si aspetterebbe altro. Il risultato non è caos: è una coerenza diversa, basata su colore e funzione emotiva più che su regole di risoluzione.
+
+In sintesi: la pentatonica è un set di suoni estremamente antico e diffuso, che può suonare “neutro” o “tradizionale” in tanti modi. Il blues prende parte di quel materiale e lo trasforma in lingua... grazie a un contesto storico, a una pronuncia (intonazione e gesto) e a una logica armonica propria.
+
+.. important::
+
+   La pentatonica è materiale... il blues è grammatica, accento e significato.

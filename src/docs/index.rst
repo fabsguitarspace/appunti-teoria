@@ -11,3 +11,4 @@ Appunti di Teoria e Armonia per Chitarra Jazz
   2-prima-delle-note
   3-intervalli
   4-scale
+  5-accordi
