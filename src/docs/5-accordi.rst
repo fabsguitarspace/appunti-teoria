@@ -115,12 +115,14 @@ La triade non cambia identità… cambia solo “come si presenta”.
 
   - Basso: **E** (la terza)
   - Ordine: E – G – C
+  - Si può scrivere sia **C/E** (C con E al basso) sia **C/I**
   - Il suono è già diverso… meno “radicato”, più fluido.
 
 - **Secondo rivolto**
 
   - Basso: G (la quinta)
   - Ordine: G – C – E
+  - Si può scrivere sia **C/G** (C con G al basso) sia **C/II**
   - Qui il senso di stabilità si allenta ancora… spesso suona “in sospensione”.
 
 .. image:: 
@@ -342,7 +344,7 @@ la struttura, indicata dai numeri: questi possono essere usati per cantarla e pe
    </audio>
 
 
-Nell'accordo di settima diminuita si indica in 𝄫7 invece di 6, ma poco importa.
+Nell'accordo di settima diminuita si indica 𝄫7, equivalente enarmonico di 6, ma poco importa.
 
 Oltre a questi accordi possiamo trovare altre forme, meno frequenti:
 
@@ -359,14 +361,79 @@ Oltre a questi accordi possiamo trovare altre forme, meno frequenti:
      - CmΔ
      - 1 ♭3 5 ♭7
    * - **Maggiore settima quinta eccedente**
-     - C+Δ
+     - CΔ♯5
      - 1 3 ♯5 7
-   * - **Diminuito maggiore settima**
-     - C°Δ
-     - 1 ♭3 ♭5 7
    * - **Settima quinta eccedente**
-     - C+7
+     - C7♯5
      - 1 3 ♯5 ♭7
    * - **Settima quinta diminuita**
      - C7♭5
      - 1 3 ♭5 ♭7
+
+Rivolti degli accordi
+~~~~~~~~~~~~~~~~~~~~~
+
+Rivoltare un accordo significa ricombinare i suoi intervalli come abbiamo già visto con le triadi.
+
+.. list-table::
+
+   * - Stato fondamentale
+     - Tonica al basso
+     - .. image:: _static/music/accordo-maj7-fondamentale.*
+          :width: 200px
+   * - Primo rivolto
+     - Terza al basso
+     - .. image:: _static/music/accordo-maj7-primo-rivolto.*
+          :width: 200px
+   * - Secondo rivolto
+     - Quinta al basso
+     - .. image:: _static/music/accordo-maj7-secondo-rivolto.*
+          :width: 200px
+   * - Terzo rivolto
+     - Settima al basso
+     - .. image:: _static/music/accordo-maj7-terzo-rivolto.*
+          :width: 200px
+
+
+Nel rivoltare un accordo si crea un intervallo che **non è una terza** (può essere una seconda o una quarta): la nota più alta tra queste due è sempre la tonica.
+
+Sesta o settima?
+~~~~~~~~~~~~~~~~
+Possiamo notare che alcuni rivolti possono avere due nomi: uno nel caso in cui lo consideriamo accordo di *sesta* e uno nel caso in cui lo consideriamo accordo di *settima*.
+
+Questo accade per gli accordi *Maggiore sesta* e *Minore sesta*. Questo accade perché gli accordi di sesta hanno come tonica la terza minore dell'accordo avente la sesta come tonica. Sembra un giro di parole ma in termini concreti abbiamo:
+
+Un accordo **maggiore sesta** ha come terzo rivolto un accordo **minore settima** costruito sulla sesta:
+
+.. image:: 
+   _static/music/maggiore-sesta-minore-settima.*
+   :width: 400px
+
+Un accordo **minore sesta** ha come terzo rivolto un accordo **semidiminuito** costruito sulla sesta:
+
+.. image:: 
+   _static/music/minore-sesta-semidiminuito.*
+   :width: 400px
+
+
+Le settime come direzione
+~~~~~~~~~~~~~~~~~~~~~~~~~
+Quando aggiungi la settima a una triade, succede qualcosa di decisivo.
+
+L’accordo smette di essere statico.
+
+La settima introduce una tensione che chiede movimento. Non colora, orienta. Indica una direzione possibile, spesso inevitabile.
+
+Un accordo di settima non è più solo “un posto”. È un vettore.
+
+Che sia maggiore, minore o dominante, la settima racconta sempre una storia di instabilità controllata. È il motivo per cui tanti accordi senza settima sembrano “chiusi”, mentre quelli con la settima sembrano vivi, anche se suonati fermi.
+
+Le estensioni
+~~~~~~~~~~~~~
+
+Le estensioni non nascono per complicare le cose. Nascono perché le voci **continuano a muoversi**.
+
+Nona, undicesima, tredicesima non sono aggiunte decorative. Sono il risultato naturale di linee melodiche che non si fermano alla settima. Se una voce sale o scende ancora, l’accordo si amplia.
+
+Quando le estensioni vengono trattate come “colori da mettere sopra”, diventano arbitrarie. Quando vengono sentite come prosecuzione del movimento, diventano inevitabili. Un accordo esteso non è più complesso. È solo più onesto rispetto a ciò che sta succedendo nella musica.
+
