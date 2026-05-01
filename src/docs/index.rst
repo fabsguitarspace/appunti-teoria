@@ -16,4 +16,3 @@ Appunti di Teoria e Armonia per Chitarra Jazz
   7-armonia-diminuita
   8-sostituzione-di-accordi
   9-armonia-non-funzionale
-  10-contesto-storia

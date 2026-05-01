@@ -1,2 +1,0 @@
-Contesto e Storia
-==================
