@@ -266,3 +266,107 @@ Questo è il classico movimento: **Csus4 → C**
    <audio controls class="audio-controls">
       <source src="_static/music/triade-csus4.mp3" type="audio/mp3">
    </audio>
+
+Triadi come fotografia
+~~~~~~~~~~~~~~~~~~~~~~
+
+Una triade è una fotografia.
+
+Scatta un’immagine a qualcosa che, in realtà, si stava muovendo.
+
+Quando prendi una scala e sovrapponi terze, stai fermando un istante. Stai dicendo: in questo punto del tempo, queste note stanno insieme. Ma la musica non nasce per sovrapposizione verticale. Nasce per movimento orizzontale.
+
+Le triadi non spiegano perché la musica funziona.
+Spiegano come possiamo rappresentarla in modo compatto.
+
+Se pensi a un accordo come a un oggetto da posizionare, perdi il senso del prima e del dopo. Se invece lo pensi come a una istantanea di voci che si stanno muovendo, tutto cambia. Ogni nota dell’accordo arriva da qualche parte e sta andando da qualche altra parte.
+
+Accordi di quattro note
+-----------------------
+
+L'aggiunta di una nota (una seconda o una terza sopra la quinta di unatriade) dà vita agli accordi di **sesta** o di **settima**, che sono accordi di quattro voci: i più utilizzati nella musica moderna. Queste strutture d i quattro suoni,
+contenuti all'interno di una sola ottava. Sono gli accordi più frequenti per l'improvvisazione Jazz. 
+
+Gli accordi che coprono più di un'ottava (none, undicesime e tredicesime) non sono altro che **estensioni** di questi accordi di base.
+
+Gli accordi di quattro note creano una tessitura armonica più "ricca" (e
+più dissonante) delle triadi. 
+La quarta nota, aggiunta alla triade di base, è generalmente una settima minore o maggiore sopra rispetto alla tonica.
+
+In linea di massima, *gli accordi di sesta sono meno dissonanti di quelli di settima*.
+
+Struttura degli accordi a quattro voci
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Se consideriamo solo i più *comuni*, ci sono due accordi di sesta e cinque di settima. Osservane
+la struttura, indicata dai numeri: questi possono essere usati per cantarla e per denominare l'accordo.
+
+.. list-table::
+   :header-rows: 1
+
+   * - Nome
+     - Sigla
+     - Intervalli
+   * - **Maggiore sesta**
+     - C6
+     - 1 3 5 6
+   * - **Settima di dominante**
+     - C7
+     - 1 3 5 ♭7
+   * - **Maggiore settima**
+     - CΔ
+     - 1 3 5 7
+   * - **Minore sesta**
+     - Cm6
+     - 1 ♭3 5 6
+   * - **Minore settima**
+     - Cm7
+     - 1 ♭3 5 ♭7
+   * - **Minore settima quinta diminuita** 
+       
+       o **Semidiminuito**
+     - Cm7♭5 o C∅
+     - 1 ♭3 ♭5 ♭7
+   * - **Diminuito settima**
+     - C°7
+     - 1 ♭3 ♭5 𝄫7
+
+.. image:: 
+   _static/music/accordi-4-note1.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/accordi-4-note1.mp3" type="audio/mp3">
+   </audio>
+
+
+Nell'accordo di settima diminuita si indica in 𝄫7 invece di 6, ma poco importa.
+
+Oltre a questi accordi possiamo trovare altre forme, meno frequenti:
+
+.. list-table::
+   :header-rows: 1
+
+   * - Nome
+     - Sigla
+     - Intervalli
+   * - **Settima quarta sospesa**
+     - C7sus4
+     - 1 4 5 ♭7
+   * - **Minore settima maggiore**
+     - CmΔ
+     - 1 ♭3 5 ♭7
+   * - **Maggiore settima quinta eccedente**
+     - C+Δ
+     - 1 3 ♯5 7
+   * - **Diminuito maggiore settima**
+     - C°Δ
+     - 1 ♭3 ♭5 7
+   * - **Settima quinta eccedente**
+     - C+7
+     - 1 3 ♯5 ♭7
+   * - **Settima quinta diminuita**
+     - C7♭5
+     - 1 3 ♭5 ♭7
