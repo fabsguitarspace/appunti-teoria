@@ -159,7 +159,7 @@ Un'**area tonale** (o “regione tonale”) è l'insieme di note e accordi che, 
 
 Non basta “usare le note di Do maggiore” per essere in Do maggiore. Serve che Do venga percepito come centro, cioè che la musica lo confermi con cadenze, risoluzioni, accenti strutturali, durata, posizione metrica, registri, ecc.
 
-Parti da una scala (es. Do maggiore) e costruisci gli accordi diatonici (triadi o settime). Questi accordi non sono equivalenti: alcuni **stabilizzano** il centro (I, vi), altri lo **preparano** (ii, IV), altri lo **spingono** (V, vii°).
+Parti da una scala (es. Do maggiore) e costruisci gli accordi diatonici (triadi o settime). Questi accordi non sono equivalenti: alcuni **stabilizzano** il centro (I, VIm), altri lo **preparano** (IIm, IV), altri lo **spingono** (V, VII°).
 
 Questa asimmetria crea un **campo di forze**. Quando quel campo è attivo, l'orecchio sente “siamo qui”.
 
@@ -224,7 +224,7 @@ Area di DOMINANTE
 
 Qui compare il VII grado, la sensibile.
 
-Accordi tipici:V, VII°
+Accordi tipici:V, VII∅
 
 La sensibile:
 
@@ -319,9 +319,9 @@ Cadenze di dominante
 
 La cadenza di dominante è particolarmente forte e si realizza a partire dal
 movimento di un accordo, avente funzione di dominante, verso il primo grado
-della tonalità: V7 - I o VII°7 - I.
+della tonalità: V7 - I o VII∅ - I.
 
-La cadenza VII°7 - I viene usata raramente, quindi la cadenza fondamentale che useremo sarà V7 - I, peraltro molto
+La cadenza VII∅ - I viene usata raramente, quindi la cadenza fondamentale che useremo sarà V7 - I, peraltro molto
 familiare all'orecchio. In musica classica viene definita **cadenza perfetta**.
 È anche conosciuta come cadenza principale e rappresenta il movimento armonico più importante nella tonalità.
 
@@ -489,3 +489,25 @@ Quando improvvisi su questi accordi, cerca di percepire la qualità delle funzio
       <source src="_static/music/cadenza-composta2.mp3" type="audio/mp3">
    </audio>
 
+Armonizzare il minore: un sistema non stabile
+---------------------------------------------
+
+Il minore non è una tonalità, è una famiglia
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+A differenza del maggiore, il mondo minore **non ha una sola scala di riferimento**.
+Non esiste “la” scala minore che organizza tutto in modo coerente e definitivo.
+
+Esistono più versioni della scala minore che convivono:
+
+- minore naturale
+- minore armonica
+- minore melodica
+- dorica
+
+Questa pluralità non è un problema teorico. È la descrizione di un fatto musicale: nel minore, la gravità non è mai completamente stabilizzata.
+
+Per questo gli accordi che nascono dal minore non sono mai oggetti fissi.
+Sono **adattamenti locali** a un contesto in movimento.
+
+Dobbiamo però vedere come si armonizza ciascuna delle quattro scale minori.

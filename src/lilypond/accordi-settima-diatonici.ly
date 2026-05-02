@@ -32,7 +32,7 @@ note = \relative c' {
 }
 
 testo = \lyricmode {
-  "IΔ" "IIm7" "IIIm7" "IVΔ" "V7" "VIm7" "VII°7" 
+  "IΔ" "IIm7" "IIIm7" "IVΔ" "V7" "VIm7" "VII∅" 
 }
 
 \score {
