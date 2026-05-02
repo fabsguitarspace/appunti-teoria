@@ -539,7 +539,7 @@ I simboli m9 e m11 implicano l'inclusione della settima minore (7)... gli accord
 Estensioni dell'**accordo dominante**:
 
 Qui distinguiamo tra tensioni diatoniche (9, 13) e tensioni alterate (♭9, ♯9, ♯11, ♭13). 
-Le alterazioni sono modifiche *cromatiche* di tensioni diatoniche o di note dell’accordo (“diatonico” nel senso di “appartenente alla scala o alla tonalità”). ♭9 e ♯9 derivano dall’abbassare o alzare la 9 di un semitono; la ♭13 riguarda la 13; e la ♯11 si ottiene alzando cromaticamente la 4 (= 11) oppure abbassando cromaticamente la 5.
+Le alterazioni sono modifiche *cromatiche* di tensioni diatoniche o di note dell'accordo (“diatonico” nel senso di “appartenente alla scala o alla tonalità”). ♭9 e ♯9 derivano dall'abbassare o alzare la 9 di un semitono; la ♭13 riguarda la 13; e la ♯11 si ottiene alzando cromaticamente la 4 (= 11) oppure abbassando cromaticamente la 5.
 
 
 .. list-table::
@@ -606,7 +606,7 @@ Le alterazioni sono modifiche *cromatiche* di tensioni diatoniche o di note dell
           </audio>
 
 
-Nel caso di C9 o C13, per semplificare non è necessario indicare esplicitamente la settima minore (7)... si dà per scontato che faccia automaticamente parte dell’accordo. 
+Nel caso di C9 o C13, per semplificare non è necessario indicare esplicitamente la settima minore (7)... si dà per scontato che faccia automaticamente parte dell'accordo. 
 
 A volte si incontra il simbolo generale **alt**: significa che le tensioni utilizzate devono essere composte solo da note alterate, senza però implicare una specifica alterazione.
 
@@ -716,7 +716,7 @@ Per questo la dominante è narrativa.
 
 Non descrive un luogo, ma un momento di passaggio.
 
-Quando compare, l’orecchio sa che qualcosa deve succedere. Anche se non sai perché, lo senti. E quando la risoluzione arriva, il sollievo non è intellettuale. È fisico.
+Quando compare, l'orecchio sa che qualcosa deve succedere. Anche se non sai perché, lo senti. E quando la risoluzione arriva, il sollievo non è intellettuale. È fisico.
 
 Esistono accordi che non stanno né fermi né spingono in modo chiaro. Sono ambigui per natura.
 
@@ -745,7 +745,7 @@ Lo stesso accordo può:
 
 a seconda di:
 
-- cosa c’era prima
+- cosa c'era prima
 - cosa viene dopo
 - dove cade nel tempo
 - come viene suonato

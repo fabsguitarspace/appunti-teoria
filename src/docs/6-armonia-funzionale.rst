@@ -11,7 +11,7 @@ Capiamo bene cosa intendiamo per *diatonico*. Una musica, una nota, un accordo o
 
 - usa **solo le note di una determinata scala**
 - senza aggiungere diesis o bemolli “extra”
-- e **rispetta l’organizzazione interna** di quella scala
+- e **rispetta l'organizzazione interna** di quella scala
 
 Se siamo in Do maggiore, le note diatoniche sono: Do Re Mi Fa Sol La Si
 
@@ -19,9 +19,9 @@ Tutto ciò che usa **solo queste note** è diatonico.
 
 **Armonizzare** una scala significa costruire accordi usando solo le note di quella scala, in modo coerente, stabile e ripetibile.
 
-Non è un’operazione creativa in sé, è **descrittiva**: serve a capire quali strutture armoniche sono già implicite dentro una scala.
+Non è un'operazione creativa in sé, è **descrittiva**: serve a capire quali strutture armoniche sono già implicite dentro una scala.
 
-Nel caso della scala maggiore, l’armonizzazione mostra perché alcune note sembrano stabili, altre di passaggio, altre ancora cariche di tensione.
+Nel caso della scala maggiore, l'armonizzazione mostra perché alcune note sembrano stabili, altre di passaggio, altre ancora cariche di tensione.
 
 Il metodo rigoroso è:
 
@@ -97,3 +97,15 @@ Triadi diatoniche
      - 1 ♭3 ♭5
      - diminuito
      - instabile
+
+Abbiamo scritto l'esempio in tonalità di Do, ma questo schema non dipende dalla tonalità. Dipende dalla struttura intervallare della scala maggiore.
+
+Così non stai “scegliendo” gli accordi. Stai semplicemente facendo emergere ciò che è già lì. Ed è qui che la teoria inizia a descrivere ciò che l'orecchio sente da sempre.
+
+Le qualità degli accordi derivano direttamente dagli intervalli che contengono:
+
+- dove c'è terza maggiore + quinta giusta, nasce un maggiore
+- dove c'è terza minore + quinta giusta, nasce un minore
+- dove c'è terza minore + quinta diminuita, nasce un diminuito
+
+Non c'è arbitrarietà. È pura conseguenza.
