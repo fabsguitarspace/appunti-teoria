@@ -12,11 +12,11 @@ Non servono accordi.
 Non servono progressioni.
 Bastano due note.
 
-Nel momento in cui una nota segue un’altra, nasce una relazione. E quella relazione è già musica. Prima ancora di essere “giusta” o “sbagliata”, è qualcosa. Dice una distanza, suggerisce una direzione, crea un’aspettativa.
+Nel momento in cui una nota segue un'altra, nasce una relazione. E quella relazione è già musica. Prima ancora di essere “giusta” o “sbagliata”, è qualcosa. Dice una distanza, suggerisce una direzione, crea un'aspettativa.
 
-Se suoni una nota e poi un’altra più vicina, l’orecchio reagisce in un modo. Se la seconda è più lontana, reagisce in un altro. Non serve sapere come si chiamano. Lo senti.
+Se suoni una nota e poi un'altra più vicina, l'orecchio reagisce in un modo. Se la seconda è più lontana, reagisce in un altro. Non serve sapere come si chiamano. Lo senti.
 
-Gli intervalli sono questo: relazioni tra suoni nel tempo. Sono l’unità minima del linguaggio musicale.
+Gli intervalli sono questo: relazioni tra suoni nel tempo. Sono l'unità minima del linguaggio musicale.
 
 Vicinanza, distanza, tensione
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -41,7 +41,7 @@ Intervalli che chiedono e intervalli che riposano
 Alcuni intervalli sembrano voler andare da qualche parte.
 Altri sembrano già arrivati.
 
-Non è una regola scritta. È una percezione condivisa, costruita dall’ascolto e dalla cultura, ma soprattutto dall’esperienza.
+Non è una regola scritta. È una percezione condivisa, costruita dall'ascolto e dalla cultura, ma soprattutto dall'esperienza.
 
 Ci sono intervalli che creano una domanda implicita. Restano sospesi, come una frase lasciata a metà. Altri invece chiudono, stabilizzano, mettono un punto.
 
@@ -58,7 +58,7 @@ Pensare per intervalli ti libera da molte gabbie.
 
 Ti libera dalle forme fisse sulla tastiera.
 
-Ti libera dall’idea che esistano scale “giuste” da applicare.
+Ti libera dall'idea che esistano scale “giuste” da applicare.
 
 Ti libera dal bisogno di sapere sempre dove sei.
 
@@ -66,7 +66,7 @@ Quando pensi per intervalli, non ti chiedi “che scala sto usando?”.
 
 Ti chiedi “dove sto andando?”.
 
-Questo tipo di pensiero è immediato, fisico, reattivo. Funziona anche quando cambi tonalità, quando l’armonia si muove, quando qualcosa va fuori controllo.
+Questo tipo di pensiero è immediato, fisico, reattivo. Funziona anche quando cambi tonalità, quando l'armonia si muove, quando qualcosa va fuori controllo.
 
 È per questo che tanti grandi musicisti sembrano non pensarci affatto. Non perché ignorino la teoria, ma perché stanno usando un livello più profondo del linguaggio.
 
@@ -113,7 +113,7 @@ Se ne riconosci il suono, hai già fatto metà del lavoro.
 - Distanza minima
 - Forte attrito
 - Sensazione di urgenza
-- È l’intervallo del cromatismo, dell’avvicinamento, della spinta.
+- È l'intervallo del cromatismo, dell'avvicinamento, della spinta.
 - Non vive mai da solo... chiede sempre una risoluzione.
 
 .. image:: 
@@ -172,7 +172,7 @@ Se ne riconosci il suono, hai già fatto metà del lavoro.
 - Chiarezza
 - Definizione
 - Centro tonale evidente
-- È uno degli intervalli più riconoscibili dall’orecchio.
+- È uno degli intervalli più riconoscibili dall'orecchio.
 - Spesso basta lei a far capire “dove siamo”.
 
 .. image:: 
@@ -213,7 +213,7 @@ Se ne riconosci il suono, hai già fatto metà del lavoro.
 - Tensione strutturale
 - Direzione obbligata
 - Non è “brutto”. È instabile per natura.
-- Proprio per questo è uno dei motori principali dell’armonia.
+- Proprio per questo è uno dei motori principali dell'armonia.
 
 .. image:: 
    _static/music/intervallo-d5.*
@@ -289,7 +289,7 @@ Se ne riconosci il suono, hai già fatto metà del lavoro.
 - Instabilità elegante
 - Movimento implicito
 - Spinta senza aggressività
-- È l’intervallo che rende un accordo “vivo”. Raramente sta fermo.
+- È l'intervallo che rende un accordo “vivo”. Raramente sta fermo.
 
 .. image:: 
    _static/music/intervallo-m7.*
@@ -328,15 +328,15 @@ Non è violento come il tritono, non è ruvido come la seconda minore. Eppure è
 
 Resta lì, sospesa, come qualcosa che non si chiude.
 
-Quando la ascolti, non senti un’urgenza fisica di risoluzione. Senti piuttosto una fragilità. È come se la nota fosse troppo vicina a qualcosa di stabile per potersi rilassare davvero, ma non abbastanza lontana da creare conflitto.
+Quando la ascolti, non senti un'urgenza fisica di risoluzione. Senti piuttosto una fragilità. È come se la nota fosse troppo vicina a qualcosa di stabile per potersi rilassare davvero, ma non abbastanza lontana da creare conflitto.
 Questa è la sua forza.
 
 Dal punto di vista percettivo, la settima maggiore è quasi un unisono mancato.
 
-È a un passo dall’ottava, che invece rappresenta il ritorno, la conferma.
+È a un passo dall'ottava, che invece rappresenta il ritorno, la conferma.
 Proprio questa vicinanza crea la tensione.
 
-L’orecchio sente che “manca pochissimo”, ma quel pochissimo è decisivo. Non è una distanza che puoi ignorare. È una distanza che senti sempre.
+L'orecchio sente che “manca pochissimo”, ma quel pochissimo è decisivo. Non è una distanza che puoi ignorare. È una distanza che senti sempre.
 
 Per questo la settima maggiore non è mai neutra. Anche quando è suonata piano, anche quando è immersa in un contesto morbido, rimane irrisolta.
 
@@ -418,13 +418,13 @@ Inoltre, il rivolto di un intervallo giusto è sempre un intervallo giusto, quel
 Un piccolo esperimento
 ~~~~~~~~~~~~~~~~~~~~~~
 
-Suona una nota ripetutamente, poi in modo prolungato in modo che l’orecchio la percepisca come punto di stabilità.
+Suona una nota ripetutamente, poi in modo prolungato in modo che l'orecchio la percepisca come punto di stabilità.
 
 Poi suona la sua settima maggiore. Fermati lì.
 
 Non risolvere. Ascolta cosa succede nel corpo.
 
-Se senti che qualcosa resta in sospeso, che l’aria non si chiude… non è suggestione.
+Se senti che qualcosa resta in sospeso, che l'aria non si chiude… non è suggestione.
 
 È il linguaggio segreto degli intervalli che sta parlando.
 
@@ -436,7 +436,7 @@ Se senti che qualcosa resta in sospeso, che l’aria non si chiude… non è sug
    - vicino e lontano
    - domanda e risposta
    
-   Se alleni l’orecchio a queste polarità, i nomi verranno da soli. E se non verranno... non è un problema.
+   Se alleni l'orecchio a queste polarità, i nomi verranno da soli. E se non verranno... non è un problema.
    
    La musica non chiede etichette. Chiede relazioni.
 

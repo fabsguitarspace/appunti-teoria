@@ -4,7 +4,7 @@ Scale
 Scala cromatica
 ---------------
 
-La scala cromatica è la cosa più semplice e più fraintesa dell’armonia moderna: **dodici note, tutti i semitoni**. Sulla carta sembra un oggetto “totale”, quasi banale. Nella pratica è uno degli strumenti più raffinati che esistano, perché ti costringe a chiarire una domanda fondamentale:
+La scala cromatica è la cosa più semplice e più fraintesa dell'armonia moderna: **dodici note, tutti i semitoni**. Sulla carta sembra un oggetto “totale”, quasi banale. Nella pratica è uno degli strumenti più raffinati che esistano, perché ti costringe a chiarire una domanda fondamentale:
 
 Se posso suonare tutto... cosa fa sì che qualcosa suoni giusto?
 
@@ -38,7 +38,7 @@ In un senso stretto, la scala cromatica non è una scala come maggiore o minore,
 
 **È una griglia**: il materiale completo da cui poi ogni musica seleziona e organizza.
 
-Per questo la cromatica è un ottimo test di onestà: se pensi che l’armonia sia un codice di permessi (“queste sì, queste no”), la cromatica ti manda in crisi. Se invece capisci che l’armonia è un sistema di attrazioni (bersagli, risoluzioni, tensioni), la cromatica diventa chiarissima.
+Per questo la cromatica è un ottimo test di onestà: se pensi che l'armonia sia un codice di permessi (“queste sì, queste no”), la cromatica ti manda in crisi. Se invece capisci che l'armonia è un sistema di attrazioni (bersagli, risoluzioni, tensioni), la cromatica diventa chiarissima.
 
 Cromatismo... e tonalità: non sono nemici
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -72,9 +72,9 @@ In tutti e tre i casi, il cromatismo non è un mondo separato. È un modo di aum
 Perché la cromatica sembra “jazz”
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Il jazz, specialmente in certe epoche (swing, bebop e oltre), ha reso il cromatismo un elemento di lingua. Non per fare confusione, ma per aumentare l’illusione del parlato: la linea melodica diventa più continua, più “vocale”, meno fatta di gradini.
+Il jazz, specialmente in certe epoche (swing, bebop e oltre), ha reso il cromatismo un elemento di lingua. Non per fare confusione, ma per aumentare l'illusione del parlato: la linea melodica diventa più continua, più “vocale”, meno fatta di gradini.
 
-Il cromatismo è una delle ragioni per cui il jazz può suonare sofisticato anche quando sta facendo una cosa semplicissima: andare da una nota importante a un’altra nota importante... con più sfumature.
+Il cromatismo è una delle ragioni per cui il jazz può suonare sofisticato anche quando sta facendo una cosa semplicissima: andare da una nota importante a un'altra nota importante... con più sfumature.
 
 La cromatica come idea filosofica
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -101,7 +101,7 @@ La cromatica è tutto il vocabolario... ma la musica nasce quando scegli quali p
 La scala maggiore
 -----------------
 
-Una scala è una successione ordinata di altezze all’interno di un’ottava, organizzata secondo intervalli precisi, che definisce un campo di possibilità sonore.
+Una scala è una successione ordinata di altezze all'interno di un'ottava, organizzata secondo intervalli precisi, che definisce un campo di possibilità sonore.
 
 Non è un esercizio tecnico, né un elenco di note da memorizzare. **È una mappa di relazioni**.
 
@@ -115,7 +115,7 @@ Se togli la gravità, restano solo punti nello spazio.
 
 Se togli le funzioni, resta solo un esercizio meccanico.
 
-La scala maggiore è una scala di sette suoni organizzata secondo una precisa sequenza di intervalli all’interno dell’ottava:
+La scala maggiore è una scala di sette suoni organizzata secondo una precisa sequenza di intervalli all'interno dell'ottava:
 
 **tono – tono – semitono – tono – tono – tono – semitono**
 
@@ -139,14 +139,14 @@ La musica nasce quando:
 - una nota viene scelta
 - in un momento preciso
 - con una durata
-- **con un’intenzione**
+- **con un'intenzione**
 
 Usare una scala come se fosse un contenitore di note “giuste” porta a suonare **correttamente ma senza senso**.
 
 Gradi che vogliono andare da qualche parte
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Ogni grado della scala maggiore ha una direzione implicita. Non perché lo dice la teoria, ma perché l’orecchio lo percepisce così.
+Ogni grado della scala maggiore ha una direzione implicita. Non perché lo dice la teoria, ma perché l'orecchio lo percepisce così.
 
 Alcune note sembrano voler restare dove sono. Altre sembrano chiedere di muoversi.
 
@@ -160,7 +160,7 @@ Improvvisare non significa scegliere note corrette.
 
 Significa decidere quando creare tensione e quando lasciarla andare.
 
-All’interno della scala maggiore i gradi sono:
+All'interno della scala maggiore i gradi sono:
 
 I. (tonica) stabilità
 II. movimento
@@ -172,7 +172,7 @@ VII. (sensibile) attrazione inevitabile verso la tonica
 
 La scala maggiore **non è un esercizio e non è una diteggiatura**.
 
-È una **struttura percettiva** che l’orecchio riconosce come “casa”.
+È una **struttura percettiva** che l'orecchio riconosce come “casa”.
 
 Suonarla su e giù non significa usarla. Usarla significa **sentire il peso di ogni grado**.
 
@@ -230,15 +230,15 @@ La scala maggiore di Do è il modello base attraverso cui si comprende la strutt
 Altre tonalità
 ~~~~~~~~~~~~~~
 
-Se una scala maggiore inizia su una tonica diversa da Do, la formula della scala maggiore richiede che vengano apportate modifiche alle note dell’alfabeto musicale.
+Se una scala maggiore inizia su una tonica diversa da Do, la formula della scala maggiore richiede che vengano apportate modifiche alle note dell'alfabeto musicale.
 
 Per capire perché, proviamo a costruire una scala maggiore partendo dalla tonica Sol (G), seguendo passo dopo passo la formula (T-T-S-T-T-T-S).
 
-La formula stabilisce che ci debba essere un tono tra il sesto e il settimo grado, e un semitono tra il settimo grado e l’ottava. Tuttavia, il semitono naturale tra Mi e Fa crea una discrepanza. 
+La formula stabilisce che ci debba essere un tono tra il sesto e il settimo grado, e un semitono tra il settimo grado e l'ottava. Tuttavia, il semitono naturale tra Mi e Fa crea una discrepanza. 
 
-La soluzione è alzare il settimo grado, Fa, di un semitono, aumentando così la distanza da Mi e diminuendo quella da Sol, cioè l’ottava. 
+La soluzione è alzare il settimo grado, Fa, di un semitono, aumentando così la distanza da Mi e diminuendo quella da Sol, cioè l'ottava. 
 
-Questo si ottiene usando il diesis (#) davanti al Fa. Il diesis ha l’effetto di alzare la nota che segue di un semitono.
+Questo si ottiene usando il diesis (#) davanti al Fa. Il diesis ha l'effetto di alzare la nota che segue di un semitono.
 
 .. image:: 
    _static/music/scala-g-maggiore.*
@@ -269,9 +269,9 @@ Scale maggiori con diesis:
    :width: 100%
 
 
-Poiché ciascuna di queste scale richiede sempre l’uso di uno o più diesis (o bemolle) per essere costruita, per comodità questi vengono raccolti all’inizio di un brano musicale, accanto alla chiave. Questo insieme è chiamato armatura di chiave.
+Poiché ciascuna di queste scale richiede sempre l'uso di uno o più diesis (o bemolle) per essere costruita, per comodità questi vengono raccolti all'inizio di un brano musicale, accanto alla chiave. Questo insieme è chiamato armatura di chiave.
 
-Collocare l’armatura all’inizio indica che i diesis devono essere applicati automaticamente per tutto il brano, in tutte le ottave (evitando così di doverli scrivere ogni volta davanti a ogni singola nota).
+Collocare l'armatura all'inizio indica che i diesis devono essere applicati automaticamente per tutto il brano, in tutte le ottave (evitando così di doverli scrivere ogni volta davanti a ogni singola nota).
 
 .. image:: 
    _static/music/armatura-di-chiave.png
@@ -287,7 +287,7 @@ La differenza fondamentale tra una scala maggiore e una scala minore sta nel ter
 - Scala maggiore → *terza* **maggiore**
 - Scala minore → *terza* **minore**
 
-Questa singola distanza cambia l’identità dell’intero sistema.
+Questa singola distanza cambia l'identità dell'intero sistema.
 
 Lo schema essenziale è **tutto nelle prime cinque note**:
 
@@ -336,7 +336,7 @@ Nel minore:
    - alcuni gradi cambiano identità
    - la scala non è mai una sola
    - le tensioni si adattano al contesto
-   - l’orecchio accetta più versioni dello stesso suono
+   - l'orecchio accetta più versioni dello stesso suono
 
 Tristezza, dramma, instabilità
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -373,7 +373,7 @@ Rimangono solo **2 gradi**: il sesto (VI) e il settimo (VII). Abbiamo 4 possibil
 
 .. tip::
    
-   Dal punto di vista dell’orecchio, però, non esistono quattro mondi separati.
+   Dal punto di vista dell'orecchio, però, non esistono quattro mondi separati.
    
    Esistono diverse risposte a uno stesso problema percettivo:
 
@@ -522,9 +522,9 @@ La sua struttura è:
 **tono – semitono – tono – tono – tono – semitono – tono**
 
 
-L’effetto è un minore più luminoso, aperto, meno tragico.
+L'effetto è un minore più luminoso, aperto, meno tragico.
 
-L’orecchio la percepisce come minore, ma **non drammatico**.
+L'orecchio la percepisce come minore, ma **non drammatico**.
 
 Perché la musica non sceglie mai una sola versione
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -542,7 +542,7 @@ La musica:
 - torna alla settima minore quando vuole sospensione
 - modifica il sesto grado per ammorbidire o accentuare il movimento
 
-Tutto questo avviene **prima della teoria**. La teoria arriva dopo, per descrivere ciò che l’orecchio ha già accettato.
+Tutto questo avviene **prima della teoria**. La teoria arriva dopo, per descrivere ciò che l'orecchio ha già accettato.
 
 .. important::
 
@@ -550,7 +550,7 @@ Tutto questo avviene **prima della teoria**. La teoria arriva dopo, per descrive
 
    La musica non è un sistema di scelte binarie, ma un equilibrio continuo tra possibilità.
 
-Capire il minore significa accettare che l’**ambiguità non è un difetto**, ma una delle sue risorse più potenti.
+Capire il minore significa accettare che l'**ambiguità non è un difetto**, ma una delle sue risorse più potenti.
 
 Ed è proprio qui che la musica smette di essere una formula e diventa linguaggio.
 
@@ -558,17 +558,17 @@ Ed è proprio qui che la musica smette di essere una formula e diventa linguaggi
 Scale minori "esotiche"
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-Se c’è un intervallo che cambia immediatamente il sapore di una scala, è la **seconda minore**.
+Se c'è un intervallo che cambia immediatamente il sapore di una scala, è la **seconda minore**.
 
 È quella distanza ravvicinata, quasi “a contatto”, che crea attrito… e proprio per questo **direzione**.
 
 Se inseriamo questo intervallo nelle scale minori viste in precedenza (al posto della seconda maggiore) otteniamo tensione che non è un incidente: è una caratteristica strutturale. Non è qualcosa da evitare… è qualcosa da abitare e che crea un effetto, potremmo dire, "esotico".
 
-Il termine "esotiche" è un po’ fuorviante, ma utile.
+Il termine "esotiche" è un po' fuorviante, ma utile.
 
-Chiamiamo così quelle scale che escono dal sistema maggiore/minore “classico” occidentale e introducono combinazioni intervallari meno familiari, spesso legate a tradizioni mediorientali, indiane o dell’Europa dell’est.
+Chiamiamo così quelle scale che escono dal sistema maggiore/minore “classico” occidentale e introducono combinazioni intervallari meno familiari, spesso legate a tradizioni mediorientali, indiane o dell'Europa dell'est.
 
-Ma al di là dell’etichetta geografica, quello che conta davvero è questo:  la presenza della seconda minore crea un **campo di tensione stabile**, non momentaneo.
+Ma al di là dell'etichetta geografica, quello che conta davvero è questo:  la presenza della seconda minore crea un **campo di tensione stabile**, non momentaneo.
 
 Non è una nota di passaggio. È una relazione strutturale.
 
@@ -620,7 +620,7 @@ Quindi hai contemporaneamente:
 
 Rispetto alla frigia è meno “statica” e più direzionale.
 
-Rispetto alla minore armonica pè iù scura all’inizio (per via della ♭2) ma con la stessa spinta a risolvere.
+Rispetto alla minore armonica pè iù scura all'inizio (per via della ♭2) ma con la stessa spinta a risolvere.
 
 Attenzione a come usarla (senza “usarla”)!
 
@@ -688,7 +688,7 @@ Risultato:
 
 - meno “chiusa” della frigia
 - meno “direzionale” della minore melodica
-- ma con un’identità fortissima
+- ma con un'identità fortissima
 
 Il circolo delle quinte
 -----------------------
@@ -716,12 +716,12 @@ Ma questa è solo la superficie.
    :width: 80%
 
 
-Il circolo delle quinte esiste perché **la quinta giusta è l’intervallo strutturalmente più stabile dopo l’ottava**. 
+Il circolo delle quinte esiste perché **la quinta giusta è l'intervallo strutturalmente più stabile dopo l'ottava**. 
 
-È il primo legame forte che l’orecchio riconosce tra due altezze diverse.
+È il primo legame forte che l'orecchio riconosce tra due altezze diverse.
 
 
-Quando una tonalità si muove verso la sua dominante (una quinta sopra), l’orecchio percepisce continuità.
+Quando una tonalità si muove verso la sua dominante (una quinta sopra), l'orecchio percepisce continuità.
 
 Quando si muove verso la sottodominante (una quarta sopra), percepisce allontanamento controllato.
 
@@ -765,11 +765,11 @@ Serve a capire:
 
 - perché certe progressioni funzionano sempre
 - perché alcune modulazioni sono naturali
-- perché l’armonia tende a muoversi in certi modi
+- perché l'armonia tende a muoversi in certi modi
 
 È una mappa delle attrazioni, non un esercizio mnemonico.
 
-Il circolo delle quinte è la rappresentazione delle relazioni di massima stabilità tra i centri tonali, ordinata secondo l’intervallo che l’orecchio riconosce come più naturale dopo l’ottava.
+Il circolo delle quinte è la rappresentazione delle relazioni di massima stabilità tra i centri tonali, ordinata secondo l'intervallo che l'orecchio riconosce come più naturale dopo l'ottava.
 
 Quando lo capisci così, smette di essere un disegno e diventa un modo di ascoltare il movimento armonico.
 
@@ -780,7 +780,7 @@ La pentatonica è una di quelle cose che, se la prendi nel modo giusto, ti cambi
 
 È una scala di **5 note**. Sembra poco. In realtà è un set di note **stabili, cantabili, resistenti**: funziona su tanti accordi, regge il tempo, e soprattutto si presta a quel tipo di fraseggio “parlato” che fa subito musica.
 
-Che cos’è davvero
+Che cos'è davvero
 ~~~~~~~~~~~~~~~~~
 
 “Pentatonica” significa semplicemente “a cinque suoni”. Le due famiglie più usate sono:
@@ -811,14 +811,14 @@ Che cos’è davvero
    </audio>
 
 
-La cosa importante non è la formula... è l’effetto: togliendo due gradi della scala diatonica, elimini molte frizioni “automatiche” e ottieni una tavolozza che suona bene anche quando l’armonia sotto si muove.
+La cosa importante non è la formula... è l'effetto: togliendo due gradi della scala diatonica, elimini molte frizioni “automatiche” e ottieni una tavolozza che suona bene anche quando l'armonia sotto si muove.
 
 Perché suona bene quasi sempre
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 La pentatonica contiene soprattutto:
 
-- note dell’accordo (o note vicinissime)
+- note dell'accordo (o note vicinissime)
 - intervalli molto cantabili
 - poche “spine” che ti costringono a risolvere subito
 
@@ -826,13 +826,13 @@ Ecco perché la senti ovunque: folk, rock, blues, pop, jazz... è una lingua tra
 
 Un modo molto “pulito” di capire perché la pentatonica suona così bene è questo: non pensare a una scala... pensa a una pila di quinte.
 
-La pentatonica maggiore (e di riflesso la relativa minore) può essere ottenuta prendendo cinque note consecutive nel circolo delle quinte. Quello che ottieni è un insieme di suoni che si incastrano naturalmente, perché la quinta è l’intervallo più stabile dopo l’ottava.
+La pentatonica maggiore (e di riflesso la relativa minore) può essere ottenuta prendendo cinque note consecutive nel circolo delle quinte. Quello che ottieni è un insieme di suoni che si incastrano naturalmente, perché la quinta è l'intervallo più stabile dopo l'ottava.
 
 .. image:: 
    _static/music/pentatonica-pila.*
    :width: 500px
 
-Ora “metti in ordine” queste note dentro un’ottava:
+Ora “metti in ordine” queste note dentro un'ottava:
 
 .. image:: 
    _static/music/pentatonica-ordinata.*
@@ -856,7 +856,7 @@ Questa cosa è pratica perché ti insegna una lezione enorme: non sono le note a
 Pentatonica minore e blues
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-La pentatonica minore è la spina dorsale del blues. E il motivo è proprio quella b3 sopra accordi spesso maggiori: crea l’ambiguità espressiva del blues, quel “pianto e sorriso insieme”.
+La pentatonica minore è la spina dorsale del blues. E il motivo è proprio quella b3 sopra accordi spesso maggiori: crea l'ambiguità espressiva del blues, quel “pianto e sorriso insieme”.
 
 Se aggiungi anche la **quinta diminuita** (♭5) ottieni la famosa "**scala blues**":
 
@@ -876,18 +876,18 @@ Se aggiungi anche la **quinta diminuita** (♭5) ottieni la famosa "**scala blue
 Non serve pensare “aggiungo la blue note” come teoria... pensa “aggiungo una nota di passaggio, un graffio”. È un gesto, non un calcolo.
 
 
-L’errore classico: la pentatonica come ginnastica
+L'errore classico: la pentatonica come ginnastica
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Molti imparano la pentatonica come cinque box e poi la suonano su e giù. Funziona per due giorni... poi suona sempre uguale.
 
-La via d’uscita è semplice: pensala come intervalli e bersagli, non come disegno.
+La via d'uscita è semplice: pensala come intervalli e bersagli, non come disegno.
 
 Prova a chiederti sempre:
 
 - Qual è la nota di arrivo che voglio sentire?
 - Sto atterrando su 1... 3/b3... 5... b7?
-- Sto ripetendo un’idea o sto solo correndo?
+- Sto ripetendo un'idea o sto solo correndo?
 
 
 Pentatonica nel jazz
@@ -900,7 +900,7 @@ Due esempi di concetto (senza matematica pesante):
 - su un accordo minore... la pentatonica minore spesso coincide con il suo colore base
 - su dominanti e cadenze... una pentatonica scelta bene può dare 9, 11, 13 o alterazioni senza dover “pensare la scala intera”
 
-Qui l’orecchio comanda: scegli la pentatonica che ti dà le tensioni che vuoi sentire... e poi fraseggia.
+Qui l'orecchio comanda: scegli la pentatonica che ti dà le tensioni che vuoi sentire... e poi fraseggia.
 
 Pentatonica... universale, non “blues”
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -917,7 +917,7 @@ La pentatonica maggiore è una scala *anemitonica*, cioè **senza semitoni**. Qu
 - molto adatta a sistemi musicali e strumenti diversi
 
 
-Per questo la trovi in repertori tradizionali dell’Asia orientale ma anche in musiche celtiche, africane, americane, mediterranee. Chiamarla “cinese” è più una semplificazione storica occidentale che una definizione teorica precisa.
+Per questo la trovi in repertori tradizionali dell'Asia orientale ma anche in musiche celtiche, africane, americane, mediterranee. Chiamarla “cinese” è più una semplificazione storica occidentale che una definizione teorica precisa.
 
 La pentatonica “pura” è neutra nel senso migliore del termine: non impone una grammatica armonica rigida.
 
@@ -939,7 +939,7 @@ Cosa rende blues quel materiale è un comportamento melodico e armonico.
 
 3. **Armonia “non accademica” ma coerente**
 
-   Il blues usa spesso accordi di dominante anche dove l’armonia classica si aspetterebbe altro. Il risultato non è caos: è una coerenza diversa, basata su colore e funzione emotiva più che su regole di risoluzione.
+   Il blues usa spesso accordi di dominante anche dove l'armonia classica si aspetterebbe altro. Il risultato non è caos: è una coerenza diversa, basata su colore e funzione emotiva più che su regole di risoluzione.
 
 In sintesi: la pentatonica è un set di suoni estremamente antico e diffuso, che può suonare “neutro” o “tradizionale” in tanti modi. Il blues prende parte di quel materiale e lo trasforma in lingua... grazie a un contesto storico, a una pronuncia (intonazione e gesto) e a una logica armonica propria.
 
@@ -957,7 +957,7 @@ La parola *“modale”* deriva dal latino *modus*. Tradotta in modo libero, sig
 
 In pratica, qualunque principio di organizzazione può essere visto come una forma di modalità. Tuttavia, come musicisti, in genere associamo la parola “modale” alle scale. 
 
-Storicamente è facile capire perché: la musica, all’inizio, era basata quasi esclusivamente su melodia e ritmo... le relazioni armoniche si sono evolute dalla melodia solo in una fase successiva.
+Storicamente è facile capire perché: la musica, all'inizio, era basata quasi esclusivamente su melodia e ritmo... le relazioni armoniche si sono evolute dalla melodia solo in una fase successiva.
 
 Nella tradizione della musica classica europea, con il suo linguaggio armonico altamente sofisticato, le composizioni per moltissimo tempo si sono basate su ciò che, al massimo, potremmo chiamare polifonia lineare (più voci o parti dipendenti o indipendenti). 
 
@@ -965,9 +965,9 @@ A partire da corali cantati sopra un *bordone*, una singola nota di basso tenuta
 
 Solo a partire dal XV secolo gli accordi e le progressioni armoniche diventano una parte integrante del linguaggio musicale.
 
-La didattica si concentra soprattutto su ciò che è generalmente noto come approccio “**scala-accordo**” (*chord-scale approach*)... un sistema di pensiero armonico ampiamente accettato a partire dagli anni ’70, nel quale a ogni accordo è associata una scala specifica e, viceversa, ogni scala è collegata a un accordo. Gli accordi rappresentano l’aspetto verticale della musica, mentre le scale esprimono quello orizzontale. Le scale traducono la struttura armonica in movimento melodico.
+La didattica si concentra soprattutto su ciò che è generalmente noto come approccio “**scala-accordo**” (*chord-scale approach*)... un sistema di pensiero armonico ampiamente accettato a partire dagli anni '70, nel quale a ogni accordo è associata una scala specifica e, viceversa, ogni scala è collegata a un accordo. Gli accordi rappresentano l'aspetto verticale della musica, mentre le scale esprimono quello orizzontale. Le scale traducono la struttura armonica in movimento melodico.
 
-Quindi, quando si usa il termine “modalità”, si intende prima di tutto i molti tipi di scale che possono essere usate come base per l’improvvisazione. 
+Quindi, quando si usa il termine “modalità”, si intende prima di tutto i molti tipi di scale che possono essere usate come base per l'improvvisazione. 
 
 .. attention::
 
@@ -995,15 +995,15 @@ VII. Locrio
 
 Anche le stesse scale maggiore e minore naturale appartengono ai modi ecclesiastici e sono note rispettivamente come Ionico (I grado) ed Eolio (VI grado). 
 
-I modi nascono quando prendi una stessa collezione di note e sposti il centro di gravità. Le note non cambiano, ma cambia il punto da cui l’orecchio le misura. 
+I modi nascono quando prendi una stessa collezione di note e sposti il centro di gravità. Le note non cambiano, ma cambia il punto da cui l'orecchio le misura. 
 
-Questo è l’aspetto fondamentale: un modo non è una scala “aggiuntiva”, è una riorganizzazione delle relazioni interne a un insieme di suoni.
+Questo è l'aspetto fondamentale: un modo non è una scala “aggiuntiva”, è una riorganizzazione delle relazioni interne a un insieme di suoni.
 
 Dal punto di vista costruttivo, i modi della scala maggiore si ottengono considerando come centro ciascun grado della scala stessa. 
 
 Se prendi la scala maggiore e la “ascolti” partendo ogni volta da una nota diversa, mantenendo però le stesse altezze complessive, ottieni sette modi differenti. 
 
-Ma ciò che li rende diversi non è l’ordine delle note, bensì gli intervalli che ciascun modo forma rispetto al proprio centro.
+Ma ciò che li rende diversi non è l'ordine delle note, bensì gli intervalli che ciascun modo forma rispetto al proprio centro.
 
 Ogni modo è definito dalla sua struttura intervallare interna. 
 
@@ -1087,7 +1087,7 @@ Lidio
 
 Il Lidio si distingue per la quarta aumentata, che elimina la gravità sottodominante tipica del maggiore. Quando parliamo di gravità sottodominante, non stiamo parlando di un accordo in sé, ma di una forza percettiva.
 
-È una tendenza dell’orecchio, non una regola scritta.
+È una tendenza dell'orecchio, non una regola scritta.
 
 Nella scala maggiore esiste una nota – e una funzione – che crea una spinta molto particolare: il quarto grado rispetto alla tonica.
 
@@ -1100,7 +1100,7 @@ Se prendi una scala maggiore e la ascolti rispetto alla tonica, succede una cosa
 Ma **la quarta no**.
 
 
-La quarta, nel contesto maggiore, è una nota che **non si appoggia bene sul centro**. L’orecchio la percepisce come una tensione morbida, diversa da quella della sensibile, ma comunque direzionale.
+La quarta, nel contesto maggiore, è una nota che **non si appoggia bene sul centro**. L'orecchio la percepisce come una tensione morbida, diversa da quella della sensibile, ma comunque direzionale.
 
 *Non chiede di salire*. **Chiede di scendere**.
 
@@ -1160,7 +1160,7 @@ Modo misolidio riportato a Do:
 Eolio
 ~~~~~
 
-L’Eolio, la scala minore naturale, presenta terza, sesta e settima minori, creando un assetto più instabile e introspettivo. 
+L'Eolio, la scala minore naturale, presenta terza, sesta e settima minori, creando un assetto più instabile e introspettivo. 
 
 .. image:: 
    _static/music/a-eolio.*
@@ -1224,7 +1224,7 @@ Visti in questo modo, i modi non sono etichette teoriche ma configurazioni di in
 
    Capire i modi significa quindi riconoscere quali intervalli sono stabili, quali spingono e quali restano sospesi rispetto a un centro. 
 
-   È questo, e solo questo, che dà senso all’esperienza modale.
+   È questo, e solo questo, che dà senso all'esperienza modale.
 
 
 Un modo non è una scala diversa. È la stessa materia sonora vista da un altro centro di gravità. Quando cambia il centro, non cambiano le note. Cambia il ruolo delle note.
@@ -1245,7 +1245,7 @@ Sono punti di vista.
 
 Il Lidio non è “più aperto” perché ha una #4.
 
-È aperto perché quella #4 non è più percepita come tensione da risolvere, ma come parte dell’equilibrio.
+È aperto perché quella #4 non è più percepita come tensione da risolvere, ma come parte dell'equilibrio.
 
 Il Dorico non è “funky” per natura.
 
@@ -1255,17 +1255,17 @@ Il Misolidio non è “dominante rilassata”.
 
 È una prospettiva in cui la settima minore non spinge più come spingerebbe in un contesto tonale classico.
 
-Non c’è nulla di magico. C’è solo un centro che cambia.
+Non c'è nulla di magico. C'è solo un centro che cambia.
 
 .. attention::
 
-   Il grande equivoco dell’approccio modale:
+   Il grande equivoco dell'approccio modale:
 
    *Su questo accordo puoi usare questo modo*
 
    Questa frase è comoda, **ma è profondamente fuorviante.**
 
-Questo sposto l’attenzione:
+Questo sposto l'attenzione:
 
 - dalle **relazioni** alla *scelta*
 - dal **suono** al *permesso*
@@ -1316,7 +1316,7 @@ Scale simmetriche e sintetiche
 
 Quando si esce dal territorio “diatonico” (maggiore, minore, modi) si incontra una famiglia di scale che sembrano nate più da una geometria che da una tonalità. In genere vengono chiamate **simmetriche** e, più in generale, **sintetiche**.
 
-“Sintetiche” qui non vuol dire artificiali in senso negativo... vuol dire costruite per progetto: scelte di intervalli pensate per produrre un colore preciso, spesso senza l’idea di una tonalità stabile come nella musica tradizionale.
+“Sintetiche” qui non vuol dire artificiali in senso negativo... vuol dire costruite per progetto: scelte di intervalli pensate per produrre un colore preciso, spesso senza l'idea di una tonalità stabile come nella musica tradizionale.
 
 Una scala è **“simmetrica”** quando la sua struttura intervallare si ripete regolarmente. Questo ha due conseguenze teoriche molto importanti:
 
@@ -1345,7 +1345,7 @@ Proprietà:
 
 Colore teorico: suono “senza gravità”, molto adatto a situazioni in cui vuoi evitare la sensazione di risoluzione inevitabile. 
 
-Contiene naturalmente l’idea di accordo aumentato e tende a evocare alterazioni come #5 e #4.
+Contiene naturalmente l'idea di accordo aumentato e tende a evocare alterazioni come #5 e #4.
 
 .. image:: 
    _static/music/scala-c-esatonale.*
@@ -1420,7 +1420,7 @@ Perché queste scale contano davvero (anche se non “sono tonalità”)
 Il punto non è trattarle come nuovi mondi con nuove regole ma capire la loro funzione pratica:
 
 - sono palette di colore, non sistemi di appartenenza
-- spiegano l’ambiguità in modo ordinato (non come “eccezione”)
-- ridimensionano l’ossessione delle 12 tonalità: qui la struttura è più importante della tonica
+- spiegano l'ambiguità in modo ordinato (non come “eccezione”)
+- ridimensionano l'ossessione delle 12 tonalità: qui la struttura è più importante della tonica
 - rendono naturale il passaggio tra tensioni e accordi che, in armonia tradizionale, richiederebbe mille giustificazioni
 
