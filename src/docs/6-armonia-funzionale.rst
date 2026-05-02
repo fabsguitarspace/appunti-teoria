@@ -174,7 +174,7 @@ Questi due gradi non sono instabili “per convenzione”, ma perché creano att
 
    La presenza o assenza di questi gradi negli accordi è ciò che determina il tipo di funzione e quindi l'area tonale.
 
-Area di TONICA
+Area di tonica
 ^^^^^^^^^^^^^^
 
 Gli accordi di tonica non contengono né il IV né il VII grado della scala maggiore.
@@ -195,7 +195,7 @@ Questi accordi:
 
 Sono “dentro casa”.
 
-Area di SOTTODOMINANTE
+Area di sottodominante
 ^^^^^^^^^^^^^^^^^^^^^^
 
 Gli accordi sottodominanti contengono il IV grado, ma non il VII.
@@ -219,7 +219,7 @@ Questi accordi:
 
 Sono il passaggio.
 
-Area di DOMINANTE
+Area di dominante
 ^^^^^^^^^^^^^^^^^
 
 Qui compare il VII grado, la sensibile.
