@@ -985,13 +985,32 @@ La maggior parte delle persone, quando si imbatte per la prima volta nei modi ec
 
 Partendo dai vari gradi di una qualunque scala maggiore e utilizzando la stessa sequenza di note, otteniamo una varietà di tipi di scala diversi: 
 
-I. Ionico
-II. Dorico
-III. Frigio
-IV. Lidio
-V. Misolidio
-VI. Eolio
-VII. Locrio
+.. list-table::
+   :header-rows: 1
+   * - Grado
+     - Nome
+     - Intervalli
+   * - I
+     - Ionico
+     - 1 2 3 4 5 6 7
+   * - II
+     - Dorico
+     - 1 2 ♭3 4 5 6 ♭7
+   * - III
+     - Frigio
+     - 1 ♭2 ♭3 4 5 ♭6 ♭7
+   * - IV
+     - Lidio
+     - 1 2 3 ♯4 5 6 7
+   * - V
+     - Misolidio
+     - 1 2 3 4 5 6 ♭7
+   * - VI
+     - Eolio
+     - 1 2 ♭3 4 5 ♭6 ♭7
+   * - VII
+     - Locrio
+     - 1 ♭2 ♭3 4 ♭5 ♭6 ♭7
 
 Anche le stesse scale maggiore e minore naturale appartengono ai modi ecclesiastici e sono note rispettivamente come Ionico (I grado) ed Eolio (VI grado). 
 

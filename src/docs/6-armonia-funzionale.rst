@@ -489,11 +489,13 @@ Quando improvvisi su questi accordi, cerca di percepire la qualità delle funzio
       <source src="_static/music/cadenza-composta2.mp3" type="audio/mp3">
    </audio>
 
-Armonizzare il minore: un sistema non stabile
----------------------------------------------
+Tonanlità minore: un sistema non stabile
+----------------------------------------
 
 Il minore non è una tonalità, è una famiglia
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Abbiamo visto come la scala maggiore produca i suoi accordi e modi diatonici. Anche la scala minore genera strutture e corrispondenti relazioni armoniche, pur differenziandosi nel numero di possibilità a disposizione: il che, ad un primo esame, potrebbe generare confusione. Non esiste solo una scala minore da cui estrarre tutti gli accordi che costituiscono la tonalità minore, ma ce n’è una primaria: dobbiamo quindi capire come utilizzare le scale appropriate rispetto ai diversi accordi che possiamo incontrare nei brani in minore.
 
 A differenza del maggiore, il mondo minore **non ha una sola scala di riferimento**.
 Non esiste “la” scala minore che organizza tutto in modo coerente e definitivo.
@@ -510,4 +512,289 @@ Questa pluralità non è un problema teorico. È la descrizione di un fatto musi
 Per questo gli accordi che nascono dal minore non sono mai oggetti fissi.
 Sono **adattamenti locali** a un contesto in movimento.
 
-Dobbiamo però vedere come si armonizza ciascuna delle quattro scale minori.
+Se analizzassimo tutti i brani in tonalità minore, in modo da isolare i modelli accordali più comuni, troveremmo che questi si basano principalmente sulla scala che conosciamo come il modo eolio. Esso viene spesso definito come minore naturale, minore puro, relativo minore. Fra tutte le scale minori, questa è considerata la più stabile.
+
+Occasionalmente, possiamo trovare accordi che derivano da altre scale, come la minore armonica, la minore melodica o la dorica.
+
+Com’è ormai noto, se suoniamo una scala maggiore partendo dal suo sesto grado, siamo nel modo eolio. 
+Questa scala, detta anche relativa minore, è la base delle tonalità minori ed eredita l’armatura di chiave dalla sua relativa maggiore. 
+È per questo che A minore è la “relativa” (in inglese, *relative* significa parente, ndt.) minore di C maggiore: entrambe usano le stesse note e prendono la stessa armatura di chiave, anche se da un punto di vista uditivo fanno chiaramente riferimento a diversi centri tonali. 
+La tonalità parallela minore è invece quella che parte dalla stessa tonica della tonalità maggiore, ma con una diversa armatura di chiave.
+
+.. image:: 
+   _static/music/minore-relativa-parallela.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/minore-relativa-parallela.mp3" type="audio/mp3">
+   </audio>
+
+Un brano non comincia necessariamente su un accordo di tonica. 
+Per capire la tonalità di un brano, il che include anche capire se esso è in una tonalità relativa maggiore o minore, guarda la **fine del brano stesso**, più precisamente la **cadenza finale**, in modo da capire qual è realmente l’accordo di tonica.
+
+Per esempio: se un’armatura di chiave indica tre bemolli, potrebbe essere in tonalità di E♭ maggiore o di C minore. Se il brano cadenza su un E♭ maggiore, il pezzo sarà in E♭ maggiore. Se il brano invece cadenza su un C minore, beh… indovina!
+
+Armonizzazione della scala minore
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Dato che in questa sede ci interessano i suoni e le relazioni tra accordi, scale e centro tonale, esaminiamo la tonalità parallela minore. Questo ci permette di ascoltare, confrontandole, le varie strutture accordali della tonalità minore con le controparti della sua parallela maggiore. Pur essendo vero che la relativa minore ha gli stessi accordi della sua relativa maggiore, se analizziamo con i numeri romani la tonalità minore parallela ci accorgiamo che, rispetto al centro tonale, la costruzione degli accordi è ben diversa.
+
+.. image:: 
+   _static/music/armonizzazione-minore-naturale.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/armonizzazione-minore-naturale.mp3" type="audio/mp3">
+   </audio>
+
+.. image:: 
+   _static/music/armonizzazione-minore-naturale-parallela.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/armonizzazione-minore-naturale-parallela.mp3" type="audio/mp3">
+   </audio>
+
+Caratteristiche chiave:
+
+- Dominante debole (V minore)
+- Nessuna sensibile
+- Assetto statico, modale
+
+Sentire il centro tonale
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+Se suonassimo tutti questi accordi a caso, comunque, non riusciremmo a sentire la tonica della scala come centro tonale, che tenderemmo invece ad associare al ♭IIIΔ7. Questo accade perché l’orecchio è condizionato a sentire la cadenza di dominante come un movimento che definisce il senso di tonalità. La cadenza in questione riguarda il ♭VII7 ed il ♭IIIΔ7 (relativa maggiore).
+
+Accentuando il Im più frequentemente degli altri accordi cominceremo a sentire la tonica della scala minore naturale come centro tonale. Usando solo gli accordi diatonici alla scala però dovremo riferirci alla sequenza di accordi in termini di armonia modale, non di tonalità minore, proprio a causa della mancanza di una cadenza forte sulla tonica.
+
+Per trasformarla in “tonalità” minore, abbiamo bisogno di una **cadenza di dominante** sul Im. Per ottenerla, dobbiamo alterare l’accordo posto sul quinto grado della scala. 
+
+Come puoi notare, la qualità dell’accordo in questione è minore settima. Per trasformarlo in un accordo di dominante, dobbiamo **alzare di mezzo tono la sua terza**: da minore a maggiore. Questa nota è la caratteristica dell’accordo di dominante ed è necessaria alla cadenza di dominante.
+
+Questa necessità *armonica* è ciò che genera una nuova scala in cui abbiamo alzato il settimo grado di mezzo tono: da una settima minore ad una settima maggiore. La scala risultante prende il nome di **minore armonica**. La funzione principale di questa scala è quella di fornire la cadenza di dominante sull’accordo di tonica. Raramente viene utilizzata per scopi diversi da questo.
+
+Nella scala minore naturale il modo che parte dal quinto grado è il modo frigio. La scala che parte dal quinto grado della minore armonica può anche essere vista come un modo frigio con la terza maggiore. Questa scala prende spesso il nome di **frigia dominante**, frigia maggiore o **misolidia ♭9♭13**, stiamo implicitamente dicendo che:
+
+- è una scala di dominante, e
+- che contiene le tensioni ♭9 e ♭13. Su un accordo di dominante invece queste note si possono usare come tensioni, ed è per questo che appaiono nel nome della scala-accordo.
+
+Armonizzazione della scala minore armonica
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+La minore armonica viene usata raramente per costruire sistemi tonali
+minori, perché genera accordi inconsueti e dissonanti:
+
+
+.. image:: 
+   _static/music/armonizzazione-minore-armonica.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/armonizzazione-minore-armonica.mp3" type="audio/mp3">
+   </audio>
+
+Gli accordi sono tutti diversi per funzione e comportamento, anche se non tutti “utilizzabili” allo stesso modo.
+
+Già a colpo d’occhio si vede che non c’è nessuna simmetria come nel maggiore.
+
+La scala minore armonica genera, così come la scala maggiore, 7 modi. Tuttavia è difficile trovare queste scale in brani
+di repertorio comune, ad eccezione della misolidia ♭9♭13, relativa al V grado:
+
+.. list-table::
+   :header-rows: 1
+
+   * - Grado
+     - Nome
+     - Intervalli
+   * - I
+     - Minore armonica
+     - 1 2 ♭3 4 5 ♭6 7
+   * - II
+     - Locrio ♮6
+     - 1 ♭2 ♭3 4 ♭5 6 ♭7
+   * - ♭III
+     - Ionico ♯5
+     - 1 2 3 4 ♯5 6 7
+   * - IV
+     - Dorico ♯4
+     - 1 2 ♭3 ♯4 5 6 ♭7
+   * - V
+     - Misolidio ♭9♭13
+     - 1 ♭2 3 4 5 ♭6 ♭7
+   * - ♭VI
+     - Lidia ♯2
+     - 1 ♯2 3 ♯4 5 6 7
+   * - VII
+     - Diminuita ♭2♭4
+     - 1 ♭2 ♭3 ♭4 ♭5 ♭6 𝄫7
+
+Armonizzazione della scala minore melodica
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Facciamo lo stesso esercizio di armonizzazione sulla scala minore melodica:
+
+
+.. image:: 
+   _static/music/armonizzazione-minore-melodica.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/armonizzazione-minore-melodica.mp3" type="audio/mp3">
+   </audio>
+
+La scala minore melodica genera anch'essa 7 modi:
+
+.. list-table::
+   :header-rows: 1
+
+   * - Grado
+     - Nome
+     - Intervalli
+   * - I
+     - Minore melodica
+     - 1 2 ♭3 4 5 6 7
+   * - II
+     - Dorico ♭2
+     - 1 ♭2 ♭3 4 5 6 ♭7
+   * - ♭III
+     - Lidio ♯5
+     - 1 2 3 ♯4 ♯5 6 7
+   * - IV
+     - Lidio ♭7 o Misolidio ♯11
+     - 1 2 3 ♯4 5 6 ♭7
+   * - V
+     - Misolidio ♭13
+     - 1 2 3 4 5 ♭6 ♭7
+   * - ♭VI
+     - Eolio ♭5 o Locrio ♮2
+     - 1 2 ♭3 4 ♭5 ♭6 ♭7
+   * - VII
+     - Super Locrio o Alterato
+     - 1 ♭2 ♭3 ♭4 ♭5 ♭6 ♭7
+       
+       oppure 1 ♭2 ♯2 3 ♯4 ♭6 ♭7
+
+
+Accordi atipici
+~~~~~~~~~~~~~~~
+
+Occasionalmente, come scale generatrici in tonalità minori si possono
+utilizzare la scala minore melodica o la dorica.
+
+Armonizzazione della scala dorica:
+
+.. image:: 
+   _static/music/armonizzazione-dorica.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/armonizzazione-dorica.mp3" type="audio/mp3">
+   </audio>
+
+Queste scale producono accordi diversi da quelli generalmente utilizzati. I più comuni, non derivanti dalla
+scala minore naturale, sono il **IIm7**, il **IV7** ed il **VI∅**.
+
+Se in un brano in minore trovi accordi meno consueti, verifica se le parti
+della composizione si basino sul modo dorico o sulla scala minore melodica.
+Devi imparare quali accordi segnalino l'una o l'altra come scala generatrice.
+
+Aree tonali nella tonalità minore
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Area della tonica minore:
+
+- Im- (triade)
+- Im7
+- Im6 (→ colore melodico)
+- ♭IIIΔ7 (relativa maggiore)
+
+Area della sottodominante minore:
+
+- IIø (deriva dalla minore armonica)
+- IVm7 (eolio/dorico)
+- ♭VIΔ7
+- ♭VII7 (molto usato nel jazz/blues)
+
+Area della dominante minore:
+
+- V7 (fondamentale)
+- V7alt
+- V7♭9♭13 (→ minore armonica)
+- VII°7
+
+L’accordo di tonica in tonalità minore si trova spesso espresso come triade anche in pezzi essenzialmente composti da accordi di settima, specialmente quando è l’accordo finale di un brano o la risoluzione di una cadenza. 
+
+La triade è considerata più stabile di un Im7, in quanto la settima ha la tendenza a muoversi. La triade minore è considerata sufficientemente complessa armonicamente da bilanciare la sonorità creata dagli accordi di settima.
+
+Dato che il suono della triade è in qualche modo ambiguo, possiamo assegnarle più di una scala. I musicisti la riarmonizzano spesso con accordi non generati dalla scala minore naturale: quando in uno spartito vediamo invece Im6, molto probabilmente indica l’uso della minore melodica.
+
+Nei brani Jazz in particolare, il Im7 prende spesso la scala dorica. Se il Im7 dura due o più misure ed il pezzo è firmato da un compositore Jazz, c’è una buona possibilità che la scala usata sia dorica. L’accordo dorico permette l’uso melodico della sesta maggiore. Se il brano è uno standard ed il Im7 dura una misura o meno, probabilmente la scala è la minore naturale. A causa di tale ambiguità, la teoria armonica che assegna alla tonalità minore unicamente la scala del Im7 spesso non funziona.
+
+Se armonizzi la scala minore naturale, ottieni un sistema povero di tensione dominante. La sensibile non c’è, la spinta verso la tonica è debole. L’orecchio sente un centro, ma non viene “convinto” come nel maggiore.
+
+Per questo, storicamente e musicalmente, la scala minore viene modificata:
+
+- si alza il VII grado per creare una dominante efficace
+- a volte si alza anche il VI per rendere il movimento melodico più fluido
+
+Queste modifiche non nascono per complicare la teoria ma per far funzionare il racconto armonico.
+
+Nel minore, quindi, gli accordi non derivano da una sola scala, ma da un compromesso continuo tra stabilità e direzione.
+
+Nel maggiore, un accordo diatonico tende a mantenere una funzione abbastanza stabile. Nel minore, no.
+
+Lo stesso grado può apparire con qualità diverse:
+
+- dominante maggiore o minore
+- sottodominante maggiore o minore
+- accordi con sensibile o senza
+
+Questo non è incoerenza. È flessibilità funzionale.
+
+Nel minore, gli accordi non rappresentano la scala, ma il momento.
+
+Nel minore naturale, la dominante è debole. 
+
+Per renderla efficace, si introduce la sensibile.
+
+Questo genera:
+
+- accordi di dominante maggiori
+- dominanti con alterazioni
+- dominanti secondarie più frequenti
+
+La dominante minore “diatonica” esiste, ma spesso non basta. La dominante maggiore è un evento narrativo, non un dato strutturale.
+
+Il ciclo minore
+~~~~~~~~~~~~~~~
+
+Il “ciclo minore” è il giro tipico costruito sul movimento per quinte discendenti dentro la tonalità minore, la forma più usata (in chiave jazz) è questa:
+
+IVm7 → ♭VII7 → ♭IIIΔ → ♭VIΔ → IIø → V7 → Im
+
+Esempio in E minore:
+
+.. image:: 
+   _static/music/ciclo-minore.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/ciclo-minore.mp3" type="audio/mp3">
+   </audio>
+
+Questa sequenza corrisponde alla progressione di accordi del brano "Autumn Leaves".

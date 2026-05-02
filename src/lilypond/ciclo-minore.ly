@@ -7,13 +7,14 @@
 
 
 accordi = \chordmode {
-  c1:maj
-  d1:m7
-  e1:m7
-  f1:maj
-  g1:7
   a1:m7
-  b1:m7.5-
+  d1:7
+  g1:maj7
+  c1:maj7
+  fs1:m7.5-
+  b1:7
+  e1:m7
+  e1:m6
 }
 
 
@@ -22,17 +23,14 @@ note = \relative c' {
   \clef treble
   \omit Staff.TimeSignature
 
-  <c e g b>1
-  <d f a c>1
-  <e g b d>1
-  <f a c e>1
-  <g b d f>1
   <a c e g>1
-  <b d f a>1
-}
-
-testo = \lyricmode {
-  "IΔ" "IIm7" "IIIm7" "IVΔ" "V7" "VIm7" "VII∅" 
+  <d fs a c>1
+  <g b d fs>1
+  <c, e g b>1
+  <fs a c e>1
+  <b, ds fs a>1
+  <e g b d>1
+  <e g b cf>1
 }
 
 \score {
@@ -43,9 +41,6 @@ testo = \lyricmode {
 
     \new Staff {
       \note
-    }
-    \addlyrics {
-      \testo
     }
   >>
 \layout {
