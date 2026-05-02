@@ -30,7 +30,7 @@ note = \relative c' {
   <fs a c e>1
   <b, ds fs a>1
   <e g b d>1
-  <e g b cf>1
+  <e g b cs>1
 }
 
 \score {
