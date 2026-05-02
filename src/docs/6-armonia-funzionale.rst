@@ -109,3 +109,44 @@ Le qualità degli accordi derivano direttamente dagli intervalli che contengono:
 - dove c'è terza minore + quinta diminuita, nasce un diminuito
 
 Non c'è arbitrarietà. È pura conseguenza.
+
+Accordi di settima diatonici
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: 
+   _static/music/accordi-settima-diatonici.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/accordi-settima-diatonici.mp3" type="audio/mp3">
+   </audio>
+
+Qui succede qualcosa di importante:
+
+  Gli accordi smettono di essere “luoghi” e diventano movimenti.
+
+La settima introduce **tensione, direzione, instabilità controllata**. È per questo che l’armonia tonale vive soprattutto a quattro voci.
+
+Questa armonizzazione non serve a dirti cosa devi suonare. Serve a mostrarti:
+
+- quali accordi appartengono a un’area tonale
+- quali sono più stabili
+- quali spingono
+- quali collegano
+
+È una **mappa di possibilità**, non un obbligo.
+
+Quando improvvisi o componi, non stai scegliendo dalla tabella. Ti stai muovendo dentro un campo di forze che questa tabella descrive.
+
+Un accordo come D7 non è diatonico in Do maggiore, perché contiene Fa#. Questo non lo rende “sbagliato”. Lo rende funzionale a qualcos’altro.
+
+Il termine cromatico indica invece l’usare note fuori dalla scala per creare tensione, collegamento, colore. Il cromatismo non è l’opposto del diatonico. È il suo completamento. Senza un contesto diatonico chiaro, il cromatismo perde significato.
+
+“Diatonico” non è una categoria morale. Non vuol dire giusto o sbagliato. È solo una descrizione del campo di gioco. 
+
+In una frase, diatonico significa: stare dentro un sistema di note che l’orecchio riconosce come coerente.
+
+Tutto il resto — tensione, sorpresa, movimento — nasce da lì.
+
