@@ -134,6 +134,13 @@ Questo tipo di comportamento si trova, anche parziale, in molti brani e prende i
       <source src="_static/music/caduta-dominanti.mp3" type="audio/mp3">
    </audio>
 
+Spesso si usa una serie di dominanti come **rampe di accesso** verso un punto di arrivo.
+
+Molti ponti (*bridge*) e molte sezioni B di standard sono costruiti proprio così: una serie di dominanti che scendono, creando energia e accelerazione narrativa.
+
+È facile fraintendere le dominanti in caduta come una lista di modulazioni. In realtà, nella maggior parte dei casi sono dominanti locali: accendono per un attimo il riflettore su un accordo, lo rendono più inevitabile... e poi spariscono.
+
+
 Cinque dominanti secondarie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -252,7 +259,6 @@ Le funzioni minori diatoniche (IIm7, IIIm7, VIm7) sono spesso precedute dalla **
 Sostituti di tritono secondari
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-
 Ogni centro tonale ha **sei sostituti di tritono**. Oltre al sostituto di tritono primario del I grado, avremo altri cinque **sostituti di tritono secondari**, che risolvono su II, III, IV, V7 e VI: sono il ♭II7, ♭III7, IV7, ♭VI7 e ♭VII7.
 
 È da notare che quasi tutti questi accordi sono posti su gradi cromatici della tonalità e che risolvono discendendo.
@@ -275,5 +281,113 @@ Anche se la sigla dominante ♭5 è piuttosto comune ed usata spesso per indicar
 
 Presta attenzione al fatto che l’undicesima eccedente è la **tonica dell’accordo sostitutivo**.
 
+Dominante funzionale e non funzionale
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Una **dominante funzionale** è un accordo di dominante che:
+
+- contiene una tensione interna chiara (tipicamente il tritono 3ª–7ª)
+- è collocato in un contesto in cui esiste un **centro tonale percepito**
+- ha una **risoluzione attesa** e riconoscibile (anche se ritardata o mascherata)
+
+Come la riconosci all’orecchio:
+
+- senti “adesso deve succedere qualcosa”
+- se resta fermo troppo a lungo, crea ansia/attesa
+- quando risolve, senti sollievo
+
+I segnali tipici sono:
+
+- movimento per quinte (o quarte discendenti)
+- presenza di una pre-dominante prima (IIm7 → V → I)
+- la nota “sensibile” che tende a salire verso la tonica (in tonalità maggiore o minore armonico/melodico)
+
+Una **dominante non funzionale** è un accordo con struttura di dominante (spesso 7) che:
+
+- non sta preparando una risoluzione tonale percepita
+- può rimanere statico come “centro”
+- viene trattato come accordo di colore o come sonorità modale/blues
+
+Come la riconosci all’orecchio:
+
+- non senti urgenza di risoluzione
+- può durare a lungo senza bisogno di “tornare a casa”
+- spesso la melodia gira intorno all’accordo come se fosse un I (anche se è un 7)
+
+Quindi lo stesso G7 può essere:
+
+- funzionale se porta a C
+- non funzionale se è un vamp su G7 e la musica lo tratta come centro
+
+La sigla è identica. La sensazione è diversa.
+
+
 Interscambio modale
 -------------------
+
+Un’altra forma comune di armonia cromatica è l’**interscambio modale**. Il termine si riferisce ad accordi derivati da un modo (scala) nel contesto di un altro modo parallelo.
+
+Teoricamente si può prendere qualsiasi accordo da un determinato modo ed inserirlo arbitrariamente in un qualsiasi altro modo che cominci con la stessa tonica (posto che suoni bene).
+
+L’uso più comune di questa tecnica è comunque quello di inserire accordi presi dalla **tonalità minore nella sua parallela maggiore**.
+
+Il termine **parallelo** si riferisce a modi che partono dalla stessa nota.
+
+.. important::
+
+   L’interscambio modale è l’uso degli accordi di un modo nel contesto di un altro modo parallelo.
+
+Questo concetto crea una sorta di centro tonale dotato di **modi misti**, in cui sono presenti armonie minori e maggiori. 
+
+Di solito la tonalità maggiore rappresenta il centro tonale principale, con alcuni accordi presi in prestito dalla parallela minore. Occasionalmente avviene il contrario.
+
+.. image:: 
+   _static/music/interscambio-modale.*
+   :width: 500px
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/interscambio-modale.mp3" type="audio/mp3">
+   </audio>
+
+
+Funzione di sottodominante minore
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Molti accordi di interscambio modale hanno anche una funzione armonica che abbiamo definito di sottodominante minore.
+
+La funzione di sottodominante minore è caratterizzata dall’uso della risoluzione ♭6 → 5 (nella tonalità), insieme alla risoluzione convenzionale di sottodominante 4 → 3.
+
+Questi accordi possono essere usati per cadenzare sul primo grado della tonalità maggiore, come sostituti della tonica stessa o di altri accordi diatonici.
+
+Sonorità comune a tutti gli accordi con funzione di sottodominante minore è la risoluzione ♭6 → 5.
+
+
+.. image:: 
+   _static/music/risoluzione-sottodominante-minore.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/risoluzione-sottodominante-minore.mp3" type="audio/mp3">
+   </audio>
+
+I seguenti cinque accordi svolgono una funzione di sottodominante minore. Contengono tutti la sesta minore della tonalità. 
+
+Possono risolvere sul primo grado o su qualsiasi altro accordo diatonico come il V o il IIIm.
+
+Talvolta questi accordi vengono usati in combinazione o abbinati ad altri modelli di cadenza. 
+
+È importante usare un buon voice leading per creare un movimento il più morbido possibile.
+
+.. image:: 
+   _static/music/accordi-sottodominante-minore.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/accordi-sottodominante-minore.mp3" type="audio/mp3">
+   </audio>
