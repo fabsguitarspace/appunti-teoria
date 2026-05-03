@@ -221,7 +221,7 @@ Ogni tipologia di accordo di dominante può essere introdotta dal relativo IIm7 
 
 Il IIm7 è posizionato sulla parte forte della misura, mentre l'accordo di dominante viene spostato su quella debole.
 
-L’accordo aggiuntivo dà vita ad un ritmo armonico più complesso. La funzione essenziale del IIm7 è solo quella di creare il modello di II – V, mentre l’accordo più importante è sempre quello di dominante (il V7).
+L'accordo aggiuntivo dà vita ad un ritmo armonico più complesso. La funzione essenziale del IIm7 è solo quella di creare il modello di II – V, mentre l'accordo più importante è sempre quello di dominante (il V7).
 
 Quando analizzi un brano, determina sempre la direzione del V7: il IIm7 è solo un “ospite”.
 
@@ -244,7 +244,7 @@ Se il IIm7 che introduce una dominante secondaria è diatonico ad una tonalità 
 
 In questo caso possiamo etichettare la sequenza con: **II-V/x**
 
-Le funzioni minori diatoniche (IIm7, IIIm7, VIm7) sono spesso precedute dalla **cadenza minore** IIø – V7 piuttosto che da IIm7 – V7, quest’ultima più adatta per accordi di arrivo con qualità maggiore.
+Le funzioni minori diatoniche (IIm7, IIIm7, VIm7) sono spesso precedute dalla **cadenza minore** IIø – V7 piuttosto che da IIm7 – V7, quest'ultima più adatta per accordi di arrivo con qualità maggiore.
 
 .. image:: 
    _static/music/II-V-secondarie-5.*
@@ -277,9 +277,9 @@ Possiamo etichettare questi sostituti di tritono secondari come: **SubV/x**
 
 Quando trovi un accordo dominante su uno spartito siglato con 7♯11 o 7♭5, spesso si tratta di un accordo con funzione di sostituzione di tritono, enarmonicamente, ♭5 e #11 sono equivalenti.
 
-Anche se la sigla dominante ♭5 è piuttosto comune ed usata spesso per indicare una sostituzione di tritono, la quinta dell’accordo non è stata alterata: è invece la quarta ad essere alzata di mezzo tono e a prendere così il posto della quinta nel voicing.
+Anche se la sigla dominante ♭5 è piuttosto comune ed usata spesso per indicare una sostituzione di tritono, la quinta dell'accordo non è stata alterata: è invece la quarta ad essere alzata di mezzo tono e a prendere così il posto della quinta nel voicing.
 
-Presta attenzione al fatto che l’undicesima eccedente è la **tonica dell’accordo sostitutivo**.
+Presta attenzione al fatto che l'undicesima eccedente è la **tonica dell'accordo sostitutivo**.
 
 Dominante funzionale e non funzionale
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -290,7 +290,7 @@ Una **dominante funzionale** è un accordo di dominante che:
 - è collocato in un contesto in cui esiste un **centro tonale percepito**
 - ha una **risoluzione attesa** e riconoscibile (anche se ritardata o mascherata)
 
-Come la riconosci all’orecchio:
+Come la riconosci all'orecchio:
 
 - senti “adesso deve succedere qualcosa”
 - se resta fermo troppo a lungo, crea ansia/attesa
@@ -308,11 +308,11 @@ Una **dominante non funzionale** è un accordo con struttura di dominante (spess
 - può rimanere statico come “centro”
 - viene trattato come accordo di colore o come sonorità modale/blues
 
-Come la riconosci all’orecchio:
+Come la riconosci all'orecchio:
 
 - non senti urgenza di risoluzione
 - può durare a lungo senza bisogno di “tornare a casa”
-- spesso la melodia gira intorno all’accordo come se fosse un I (anche se è un 7)
+- spesso la melodia gira intorno all'accordo come se fosse un I (anche se è un 7)
 
 Quindi lo stesso G7 può essere:
 
@@ -325,17 +325,17 @@ La sigla è identica. La sensazione è diversa.
 Interscambio modale
 -------------------
 
-Un’altra forma comune di armonia cromatica è l’**interscambio modale**. Il termine si riferisce ad accordi derivati da un modo (scala) nel contesto di un altro modo parallelo.
+Un'altra forma comune di armonia cromatica è l'**interscambio modale**. Il termine si riferisce ad accordi derivati da un modo (scala) nel contesto di un altro modo parallelo.
 
 Teoricamente si può prendere qualsiasi accordo da un determinato modo ed inserirlo arbitrariamente in un qualsiasi altro modo che cominci con la stessa tonica (posto che suoni bene).
 
-L’uso più comune di questa tecnica è comunque quello di inserire accordi presi dalla **tonalità minore nella sua parallela maggiore**.
+L'uso più comune di questa tecnica è comunque quello di inserire accordi presi dalla **tonalità minore nella sua parallela maggiore**.
 
 Il termine **parallelo** si riferisce a modi che partono dalla stessa nota.
 
 .. important::
 
-   L’interscambio modale è l’uso degli accordi di un modo nel contesto di un altro modo parallelo.
+   L'interscambio modale è l'uso degli accordi di un modo nel contesto di un altro modo parallelo.
 
 Questo concetto crea una sorta di centro tonale dotato di **modi misti**, in cui sono presenti armonie minori e maggiori. 
 
@@ -357,7 +357,7 @@ Funzione di sottodominante minore
 
 Molti accordi di interscambio modale hanno anche una funzione armonica che abbiamo definito di sottodominante minore.
 
-La funzione di sottodominante minore è caratterizzata dall’uso della risoluzione ♭6 → 5 (nella tonalità), insieme alla risoluzione convenzionale di sottodominante 4 → 3.
+La funzione di sottodominante minore è caratterizzata dall'uso della risoluzione ♭6 → 5 (nella tonalità), insieme alla risoluzione convenzionale di sottodominante 4 → 3.
 
 Questi accordi possono essere usati per cadenzare sul primo grado della tonalità maggiore, come sostituti della tonica stessa o di altri accordi diatonici.
 
@@ -390,4 +390,86 @@ Talvolta questi accordi vengono usati in combinazione o abbinati ad altri modell
 
    <audio controls class="audio-controls">
       <source src="_static/music/accordi-sottodominante-minore.mp3" type="audio/mp3">
+   </audio>
+
+Qui il filo rosso è chiarissimo: **tutti contengono la ♭6**
+
+Quindi di nuovo: non pensare “nome dell'accordo” ma pensa **che nota sta muovendo cosa**
+
+E infatti:
+
+- ♭6 → 5
+- 4 → 3
+- = sottodominante minore
+
+Dominante minore 
+^^^^^^^^^^^^^^^^
+
+È anche possibile avere un accordo con funzione di **dominante minore** (V7♭9) che risolva su un primo grado maggiore per mezzo di una risoluzione ♭6 → 5. Tutti questi accordi fanno parte della categoria delle cadenze di sottodominante minore.
+
+Interscambio modale ma non sottodominante minore
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Solo gli accordi contenenti la sesta minore della tonalità hanno la funzione di sottodominante minore. Ecco alcuni accordi di interscambio modale che non sono sottodominanti minori.
+
+.. image:: 
+   _static/music/accordi-interscambio-non-sottodominante.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/accordi-interscambio-non-sottodominante.mp3" type="audio/mp3">
+   </audio>
+
+Cadenze di sottodominante minore
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Analizzando il repertorio degli standard, possiamo isolare tre importanti cadenze di sottodominante minore che risolvono sull'accordo di tonica o sulle sostituzioni di quest'ultimo come IIIm7 e VIm7. 
+
+Queste cadenze sono d'uso comune, perciò è importante essere in grado di riconoscerle al volo.
+
+La cadenza IVm7 – ♭VII7 – I (backdoor)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Il modello IVm7 – ♭VII7 – I è la prima cadenza di sottodominante minore che osserveremo. 
+
+Essa può essere usata per risolvere direttamente sul primo grado oppure prima o dopo una cadenza di dominante convenzionale.
+
+Fai caso al fatto che gli accordi sono in relazione di II–V, ma non implicano una cadenza di dominante.
+
+Qui c'è una cosa molto sottile ma fondamentale:
+
+- sembra un II–V
+- ma non è un II–V di dominante
+
+.. image:: 
+   _static/music/backdoor.*
+   :width: 600px
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/backdoor.mp3" type="audio/mp3">
+   </audio>
+
+Sebbene questo possa essere etichettato come una risoluzione ingannevole (*deceptive*), suggerendo un caso particolare, in realtà è di gran lunga l'alternativa più comune.
+
+È così ben radicata come uno dei modelli cadenzali fondamentali che ha un nome proprio ed è frequentemente chiamata **cadenza “backdoor”** (o *backdoor progression*), perché torna alla tonica e risolve dal basso anziché dall'alto.
+
+Ed è per questo che ha quel sapore così diverso… più morbido, più “soul”, meno dichiarato.
+
+La cadenza II∅ – V7♭9 – I
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Questa cadenza non è altro che una **cadenza minore nel contesto di una tonalità maggiore**; presta attenzione al fatto che non soltanto è di dominante, ma contiene anche il movimento ♭6 – 5, caratteristico della funzione di sottodominante minore.
+
+.. image:: 
+   _static/music/cadenza-minore-maggiore.*
+   :width: 600px
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/cadenza-minore-maggiore.mp3" type="audio/mp3">
    </audio>
