@@ -11,6 +11,7 @@ accordi = \chordmode {
 
 
 musica = \relative c' {
+   \omit Staff.TimeSignature
   <g' b d f>1
   <e g b d>1
 }

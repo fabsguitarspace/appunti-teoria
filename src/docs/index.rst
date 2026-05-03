@@ -13,6 +13,7 @@ Appunti di Teoria e Armonia per Chitarra Jazz
   4-scale
   5-accordi
   6-armonia-funzionale
-  7-armonia-diminuita
-  8-sostituzione-di-accordi
-  9-armonia-non-funzionale
+  7-armonia-cromatica
+  8-armonia-diminuita
+  9-sostituzione-di-accordi
+  10-armonia-non-funzionale

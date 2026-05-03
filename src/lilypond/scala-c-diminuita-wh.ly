@@ -10,11 +10,11 @@ melodia = \relative c' {
   \clef treble
   \omit Staff.TimeSignature
 
-  c d ef f gf af a b
+  c d ef f gf af bff b
 }
 
 testo = \lyricmode {
-  "1" "2" "♭3" "4" "♭5" "♭6" "6" "7"
+  "1" "2" "♭3" "4" "♭5" "♭6" "𝄫7" "7"
 }
 
 \score {

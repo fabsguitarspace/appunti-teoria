@@ -10,6 +10,7 @@ accordi = \chordmode {
 
 
 musica = \relative c' {
+   \omit Staff.TimeSignature
     \repeat volta 2 {
 \bar ".|:"
   <c e g b>1

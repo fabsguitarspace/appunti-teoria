@@ -495,7 +495,7 @@ Tonanlità minore: un sistema non stabile
 Il minore non è una tonalità, è una famiglia
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Abbiamo visto come la scala maggiore produca i suoi accordi e modi diatonici. Anche la scala minore genera strutture e corrispondenti relazioni armoniche, pur differenziandosi nel numero di possibilità a disposizione: il che, ad un primo esame, potrebbe generare confusione. Non esiste solo una scala minore da cui estrarre tutti gli accordi che costituiscono la tonalità minore, ma ce n’è una primaria: dobbiamo quindi capire come utilizzare le scale appropriate rispetto ai diversi accordi che possiamo incontrare nei brani in minore.
+Abbiamo visto come la scala maggiore produca i suoi accordi e modi diatonici. Anche la scala minore genera strutture e corrispondenti relazioni armoniche, pur differenziandosi nel numero di possibilità a disposizione: il che, ad un primo esame, potrebbe generare confusione. Non esiste solo una scala minore da cui estrarre tutti gli accordi che costituiscono la tonalità minore, ma ce n'è una primaria: dobbiamo quindi capire come utilizzare le scale appropriate rispetto ai diversi accordi che possiamo incontrare nei brani in minore.
 
 A differenza del maggiore, il mondo minore **non ha una sola scala di riferimento**.
 Non esiste “la” scala minore che organizza tutto in modo coerente e definitivo.
@@ -516,8 +516,8 @@ Se analizzassimo tutti i brani in tonalità minore, in modo da isolare i modelli
 
 Occasionalmente, possiamo trovare accordi che derivano da altre scale, come la minore armonica, la minore melodica o la dorica.
 
-Com’è ormai noto, se suoniamo una scala maggiore partendo dal suo sesto grado, siamo nel modo eolio. 
-Questa scala, detta anche relativa minore, è la base delle tonalità minori ed eredita l’armatura di chiave dalla sua relativa maggiore. 
+Com'è ormai noto, se suoniamo una scala maggiore partendo dal suo sesto grado, siamo nel modo eolio. 
+Questa scala, detta anche relativa minore, è la base delle tonalità minori ed eredita l'armatura di chiave dalla sua relativa maggiore. 
 È per questo che A minore è la “relativa” (in inglese, *relative* significa parente, ndt.) minore di C maggiore: entrambe usano le stesse note e prendono la stessa armatura di chiave, anche se da un punto di vista uditivo fanno chiaramente riferimento a diversi centri tonali. 
 La tonalità parallela minore è invece quella che parte dalla stessa tonica della tonalità maggiore, ma con una diversa armatura di chiave.
 
@@ -532,9 +532,9 @@ La tonalità parallela minore è invece quella che parte dalla stessa tonica del
    </audio>
 
 Un brano non comincia necessariamente su un accordo di tonica. 
-Per capire la tonalità di un brano, il che include anche capire se esso è in una tonalità relativa maggiore o minore, guarda la **fine del brano stesso**, più precisamente la **cadenza finale**, in modo da capire qual è realmente l’accordo di tonica.
+Per capire la tonalità di un brano, il che include anche capire se esso è in una tonalità relativa maggiore o minore, guarda la **fine del brano stesso**, più precisamente la **cadenza finale**, in modo da capire qual è realmente l'accordo di tonica.
 
-Per esempio: se un’armatura di chiave indica tre bemolli, potrebbe essere in tonalità di E♭ maggiore o di C minore. Se il brano cadenza su un E♭ maggiore, il pezzo sarà in E♭ maggiore. Se il brano invece cadenza su un C minore, beh… indovina!
+Per esempio: se un'armatura di chiave indica tre bemolli, potrebbe essere in tonalità di E♭ maggiore o di C minore. Se il brano cadenza su un E♭ maggiore, il pezzo sarà in E♭ maggiore. Se il brano invece cadenza su un C minore, beh… indovina!
 
 Armonizzazione della scala minore
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -570,15 +570,15 @@ Caratteristiche chiave:
 Sentire il centro tonale
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-Se suonassimo tutti questi accordi a caso, comunque, non riusciremmo a sentire la tonica della scala come centro tonale, che tenderemmo invece ad associare al ♭IIIΔ7. Questo accade perché l’orecchio è condizionato a sentire la cadenza di dominante come un movimento che definisce il senso di tonalità. La cadenza in questione riguarda il ♭VII7 ed il ♭IIIΔ7 (relativa maggiore).
+Se suonassimo tutti questi accordi a caso, comunque, non riusciremmo a sentire la tonica della scala come centro tonale, che tenderemmo invece ad associare al ♭IIIΔ7. Questo accade perché l'orecchio è condizionato a sentire la cadenza di dominante come un movimento che definisce il senso di tonalità. La cadenza in questione riguarda il ♭VII7 ed il ♭IIIΔ7 (relativa maggiore).
 
 Accentuando il Im più frequentemente degli altri accordi cominceremo a sentire la tonica della scala minore naturale come centro tonale. Usando solo gli accordi diatonici alla scala però dovremo riferirci alla sequenza di accordi in termini di armonia modale, non di tonalità minore, proprio a causa della mancanza di una cadenza forte sulla tonica.
 
-Per trasformarla in “tonalità” minore, abbiamo bisogno di una **cadenza di dominante** sul Im. Per ottenerla, dobbiamo alterare l’accordo posto sul quinto grado della scala. 
+Per trasformarla in “tonalità” minore, abbiamo bisogno di una **cadenza di dominante** sul Im. Per ottenerla, dobbiamo alterare l'accordo posto sul quinto grado della scala. 
 
-Come puoi notare, la qualità dell’accordo in questione è minore settima. Per trasformarlo in un accordo di dominante, dobbiamo **alzare di mezzo tono la sua terza**: da minore a maggiore. Questa nota è la caratteristica dell’accordo di dominante ed è necessaria alla cadenza di dominante.
+Come puoi notare, la qualità dell'accordo in questione è minore settima. Per trasformarlo in un accordo di dominante, dobbiamo **alzare di mezzo tono la sua terza**: da minore a maggiore. Questa nota è la caratteristica dell'accordo di dominante ed è necessaria alla cadenza di dominante.
 
-Questa necessità *armonica* è ciò che genera una nuova scala in cui abbiamo alzato il settimo grado di mezzo tono: da una settima minore ad una settima maggiore. La scala risultante prende il nome di **minore armonica**. La funzione principale di questa scala è quella di fornire la cadenza di dominante sull’accordo di tonica. Raramente viene utilizzata per scopi diversi da questo.
+Questa necessità *armonica* è ciò che genera una nuova scala in cui abbiamo alzato il settimo grado di mezzo tono: da una settima minore ad una settima maggiore. La scala risultante prende il nome di **minore armonica**. La funzione principale di questa scala è quella di fornire la cadenza di dominante sull'accordo di tonica. Raramente viene utilizzata per scopi diversi da questo.
 
 Nella scala minore naturale il modo che parte dal quinto grado è il modo frigio. La scala che parte dal quinto grado della minore armonica può anche essere vista come un modo frigio con la terza maggiore. Questa scala prende spesso il nome di **frigia dominante**, frigia maggiore o **misolidia ♭9♭13**, stiamo implicitamente dicendo che:
 
@@ -604,7 +604,7 @@ minori, perché genera accordi inconsueti e dissonanti:
 
 Gli accordi sono tutti diversi per funzione e comportamento, anche se non tutti “utilizzabili” allo stesso modo.
 
-Già a colpo d’occhio si vede che non c’è nessuna simmetria come nel maggiore.
+Già a colpo d'occhio si vede che non c'è nessuna simmetria come nel maggiore.
 
 La scala minore armonica genera, così come la scala maggiore, 7 modi. Tuttavia è difficile trovare queste scale in brani
 di repertorio comune, ad eccezione della misolidia ♭9♭13, relativa al V grado:
@@ -735,15 +735,15 @@ Area della dominante minore:
 - V7♭9♭13 (→ minore armonica)
 - VII°7
 
-L’accordo di tonica in tonalità minore si trova spesso espresso come triade anche in pezzi essenzialmente composti da accordi di settima, specialmente quando è l’accordo finale di un brano o la risoluzione di una cadenza. 
+L'accordo di tonica in tonalità minore si trova spesso espresso come triade anche in pezzi essenzialmente composti da accordi di settima, specialmente quando è l'accordo finale di un brano o la risoluzione di una cadenza. 
 
 La triade è considerata più stabile di un Im7, in quanto la settima ha la tendenza a muoversi. La triade minore è considerata sufficientemente complessa armonicamente da bilanciare la sonorità creata dagli accordi di settima.
 
-Dato che il suono della triade è in qualche modo ambiguo, possiamo assegnarle più di una scala. I musicisti la riarmonizzano spesso con accordi non generati dalla scala minore naturale: quando in uno spartito vediamo invece Im6, molto probabilmente indica l’uso della minore melodica.
+Dato che il suono della triade è in qualche modo ambiguo, possiamo assegnarle più di una scala. I musicisti la riarmonizzano spesso con accordi non generati dalla scala minore naturale: quando in uno spartito vediamo invece Im6, molto probabilmente indica l'uso della minore melodica.
 
-Nei brani Jazz in particolare, il Im7 prende spesso la scala dorica. Se il Im7 dura due o più misure ed il pezzo è firmato da un compositore Jazz, c’è una buona possibilità che la scala usata sia dorica. L’accordo dorico permette l’uso melodico della sesta maggiore. Se il brano è uno standard ed il Im7 dura una misura o meno, probabilmente la scala è la minore naturale. A causa di tale ambiguità, la teoria armonica che assegna alla tonalità minore unicamente la scala del Im7 spesso non funziona.
+Nei brani Jazz in particolare, il Im7 prende spesso la scala dorica. Se il Im7 dura due o più misure ed il pezzo è firmato da un compositore Jazz, c'è una buona possibilità che la scala usata sia dorica. L'accordo dorico permette l'uso melodico della sesta maggiore. Se il brano è uno standard ed il Im7 dura una misura o meno, probabilmente la scala è la minore naturale. A causa di tale ambiguità, la teoria armonica che assegna alla tonalità minore unicamente la scala del Im7 spesso non funziona.
 
-Se armonizzi la scala minore naturale, ottieni un sistema povero di tensione dominante. La sensibile non c’è, la spinta verso la tonica è debole. L’orecchio sente un centro, ma non viene “convinto” come nel maggiore.
+Se armonizzi la scala minore naturale, ottieni un sistema povero di tensione dominante. La sensibile non c'è, la spinta verso la tonica è debole. L'orecchio sente un centro, ma non viene “convinto” come nel maggiore.
 
 Per questo, storicamente e musicalmente, la scala minore viene modificata:
 

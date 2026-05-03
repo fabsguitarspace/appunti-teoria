@@ -987,6 +987,7 @@ Partendo dai vari gradi di una qualunque scala maggiore e utilizzando la stessa 
 
 .. list-table::
    :header-rows: 1
+   
    * - Grado
      - Nome
      - Intervalli
@@ -1395,6 +1396,13 @@ Per questo in realtà si parla di due forme:
    <audio controls class="audio-controls">
       <source src="_static/music/scala-c-diminuita-wh.mp3" type="audio/mp3">
    </audio>
+
+Ora, quel penultimo passaggio può essere scritto in due modi 𝄫7 o 6. Scrivere 𝄫7 mantiene la logica intervallare coerente ma sicuramente 6 rende più leggibile la scala. 
+Non è teoria… è libertà percettiva. Se una nota per te è “solo quella”, sei bloccato. Se la vedi solo in un modo: ti perdi metà delle possibilità. Se invece la vedi in entrambi:
+
+- colleghi forme diverse
+- trovi diteggiature senza pensarci
+- le “mappe” diventano comunicanti (non compartimenti stagni)
 
 **Half Whole** (HW): semitono - tono (H W H W...)
 
