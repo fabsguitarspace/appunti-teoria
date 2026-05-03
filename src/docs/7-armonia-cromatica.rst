@@ -473,3 +473,25 @@ Questa cadenza non è altro che una **cadenza minore nel contesto di una tonalit
    <audio controls class="audio-controls">
       <source src="_static/music/cadenza-minore-maggiore.mp3" type="audio/mp3">
    </audio>
+
+
+La cadenza ♭VIΔ7 – ♭IIΔ7 – I
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Anche questa è abbastanza comune e consiste di due accordi di settima maggiore che si muovono per ciclo, il secondo dei quali risolve discendendo di un semitono sull'accordo di tonica.
+
+Questi accordi sono spesso preceduti da uno di settima maggiore, posto una quarta giusta sotto il primo (♭IIIΔ7 – ♭VIΔ7 – ♭IIΔ7 – I).
+
+Talvolta questa cadenza non risolve direttamente, ma è seguita da una cadenza di dominante convenzionale per andare all'accordo di tonica (un esempio è “Here's That Rainy Day”).
+
+Dato che impiega tutti accordi di settima maggiore che si muovono per ciclo, viene spesso usata nelle modulazioni poiché è simile al movimento IΔ7 – IVΔ7.
+
+.. image:: 
+   _static/music/cadenza-maggiore7.*
+   :width: 600px
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/cadenza-maggiore7.mp3" type="audio/mp3">
+   </audio>
