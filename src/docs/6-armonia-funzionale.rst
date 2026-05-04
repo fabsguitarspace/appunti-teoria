@@ -177,7 +177,7 @@ Questi due gradi non sono instabili “per convenzione”, ma perché creano att
 Area di tonica
 ^^^^^^^^^^^^^^
 
-Gli accordi di tonica non contengono IV grado della scala maggiore.
+Gli accordi di tonica non contengono il IV grado della scala maggiore.
 
 Accordi: I, IIIm, VIm
 
