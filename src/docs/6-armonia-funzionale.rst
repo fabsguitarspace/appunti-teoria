@@ -177,7 +177,7 @@ Questi due gradi non sono instabili “per convenzione”, ma perché creano att
 Area di tonica
 ^^^^^^^^^^^^^^
 
-Gli accordi di tonica non contengono né il IV né il VII grado della scala maggiore.
+Gli accordi di tonica non contengono IV grado della scala maggiore.
 
 Accordi: I, IIIm, VIm
 
@@ -222,9 +222,9 @@ Sono il passaggio.
 Area di dominante
 ^^^^^^^^^^^^^^^^^
 
-Qui compare il VII grado, la sensibile.
+Qui compare sia il IV sia il VII grado (la sensibile).
 
-Accordi tipici:V, VII∅
+Accordi tipici: V, VII∅
 
 La sensibile:
 
