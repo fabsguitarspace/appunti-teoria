@@ -373,21 +373,21 @@ Intervalli perfetti:
 - Unisono (P1)
 - Quarta perfetta (P4)
 - Quinta perfetta (P5)
-- Ottava ((P8))
+- Ottava (P8)
 
 Intervalli maggiori:
 
 - Seconda maggiore (M2)
 - Terza maggiore (M3)
 - Sesta maggiore (M6)
-- Sesta maggiore (M7)
+- Settima maggiore (M7)
 
 Intervalli minori:
 
 - Seconda minore (m2)
 - Terza minore (m3)
 - Sesta minore (m6)
-- Sesta minore (m7)
+- Settima minore (m7)
 
 Se alziamo di un semitono gli intervalli maggiori e perfetti, essi prendo il nome di **aumentati**.
 Se invece abbassiamo di un semitono gli intervalli minori o perfetti, essi prendono il nome di **diminuiti**.
