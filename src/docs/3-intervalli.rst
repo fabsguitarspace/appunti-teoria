@@ -389,15 +389,19 @@ Intervalli minori:
 - Sesta minore (m6)
 - Settima minore (m7)
 
+
 Se alziamo di un semitono gli intervalli maggiori e perfetti, essi prendo il nome di **aumentati**.
+
 Se invece abbassiamo di un semitono gli intervalli minori o perfetti, essi prendono il nome di **diminuiti**.
 
-
 Gli intervalli più piccoli di un'ottava sono detti **semplici**, altrimenti sono detti **composti**.
+
 Gli intervalli composti hanno la stessa qualità della loro controparte all'interno dell'ottava, ma il numero che li identifica è alzato di sette unità:
 
 Seconda maggiore → Nona maggiore
+
 Sesta minore → Tredicesima minore
+
 Quarta aumentata → Undicesima aumentata
 
 Rivolti degli intervalli
