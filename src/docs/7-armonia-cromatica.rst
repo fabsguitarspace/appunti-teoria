@@ -256,6 +256,59 @@ Le funzioni minori diatoniche (IIm7, IIIm7, VIm7) sono spesso precedute dalla **
       <source src="_static/music/II-V-secondarie-5.mp3" type="audio/mp3">
    </audio>
 
+Sosituzione di tritono
+----------------------
+
+Il tritono
+~~~~~~~~~~
+
+Il **tritono** è uno degli intervalli più strani e più utili di tutta la musica occidentale. Non perché sia “diabolico” (quella è folklore), ma perché è instabile e simmetrico allo stesso tempo.
+
+È **instabile** perché contiene una tensione che chiede movimento.
+
+È **simmetrico** perché **divide l’ottava in due parti uguali**.
+
+E la simmetria è una cosa che il cervello riconosce immediatamente, anche se non la sa nominare. È come una figura geometrica: non hai bisogno di fare i conti per percepirla.
+
+Nel mondo tonale il tritono appare dentro l’accordo dominante: è lì che nasce quella sensazione di “devo risolvere”. Ma la cosa interessante è che proprio perché è simmetrico, il tritono può essere reinterpretato con grande facilità. L’armonia può piegarsi senza spezzarsi: cambi la cornice e la tensione resta credibile.
+
+La **sostituzione di tritono** è una delle “pieghe” più eleganti dell’armonia e funziona per un motivo semplicissimo: **la dominante è dominante perché contiene il tritono**.
+
+.. important::
+
+   Una dominante (V7) può essere sostituita da un altro accordo di settima di dominante posto a distanza di tritono (tre toni) dalla sua fondamentale, perché condivide lo stesso tritono interno (le note che creano la tensione).
+
+Un accordo di dominante 7 ha dentro di sé una coppia di note “critiche”:
+
+- la terza
+- la settima
+
+Quelle due note formano un tritono (intervallo instabile) che è la vera sorgente della spinta verso la risoluzione.
+
+Se prendi un altro dominante 7 la cui fondamentale è a tritono di distanza, il suo tritono interno sarà lo stesso, ma con terza e settima scambiate.
+
+In Do maggiore, la dominante è:
+
+G7 = G B D F
+
+Tritono: B F
+
+La sostituzione di tritono è l’accordo di dominante a tritono da G, cioè Db7 (o C#7 enarmonico):
+
+Db7 = Db F Ab B (Cb)
+
+Tritono: F Cb (cioè F B)
+
+Il tritono è appunto lo stesso B F solo riscritto.
+
+Quindi:
+
+G7 → C 	può diventare	Db7 → C
+
+La sostituzione di tritono si usa soprattutto su V7 che risolve (il caso più comune) ovvero quando è davvero percepito come dominante funzionale, non come accordo statico.
+
+La notazione tipica della sostituzione è di tritono è **SubV7**.
+
 Sostituti di tritono secondari
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
