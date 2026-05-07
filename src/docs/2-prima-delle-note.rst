@@ -576,11 +576,14 @@ Se lo usi come un comando in tempo reale, rallenta tutto.
 
 Se lo usi come mappa di riferimento, chiarisce moltissimo.
 
-.. tip::
+.. hint::
 
    La musica è continua. La notazione è discreta.
+
    Tra una nota scritta e l'altra c'è sempre molto di più di quello che vedi.
+
    Il tuo compito non è riempire le caselle, ma far vivere lo spazio tra di esse.
+
    Il pentagramma non suona. Tu sì.
 
 

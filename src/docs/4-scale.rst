@@ -371,7 +371,7 @@ Ripartiamo dalla prime 5 note della scala di Do resa *minore* abbassando di un s
 
 Rimangono solo **2 gradi**: il sesto (VI) e il settimo (VII). Abbiamo 4 possibilità di combinazione di questi due gradi (minore o maggiore) da cui derivano **4 scale minori**.
 
-.. tip::
+.. hint::
    
    Dal punto di vista dell'orecchio, però, non esistono quattro mondi separati.
    
