@@ -680,7 +680,7 @@ La scala minore melodica genera anch'essa 7 modi:
      - Eolio ♭5 o Locrio ♮2
      - 1 2 ♭3 4 ♭5 ♭6 ♭7
    * - VII
-     - Super Locrio o Alterato
+     - Superlocrio o Alterato
      - 1 ♭2 ♭3 ♭4 ♭5 ♭6 ♭7
        
        oppure 1 ♭2 ♯2 3 ♯4 ♭6 ♭7
