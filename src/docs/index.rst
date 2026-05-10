@@ -15,5 +15,5 @@ Appunti di Teoria e Armonia per Chitarra Jazz
   6-armonia-funzionale
   7-armonia-cromatica
   8-armonia-diminuita
-  9-sostituzione-di-accordi
+  9-modulazione
   10-armonia-non-funzionale
