@@ -66,7 +66,7 @@ Per esempio::
    | CΔ     | Bm7   E7  | Am7  D7 | GΔ     |
    | IΔ     | IIIm7 VI7 | IIm7 V7 | IΔ     |
 
-- ma se conduce stabilmente a G maggiore può diventare il V7 di Sol
+- ma se conduce stabilmente a G maggiore può diventare il V7 di G, facendo percepire appunto G come nuova tonalità.
 
 Quindi i numeri romani non rappresentano solo “nomi teorici”, ma il modo in cui l’orecchio interpreta il movimento armonico.
 
@@ -85,12 +85,24 @@ L’errore più comune è continuare ad analizzare tutto rispetto alla tonalità
 
 In questi casi l’analisi smette di descrivere il suono reale del brano.
 
-
-La musica segue l’orecchio, non le etichette
---------------------------------------------
-
 La modulazione è prima di tutto un fenomeno percettivo.
 
 Non è l’alterazione cromatica in sé a creare una nuova tonalità, ma il modo in cui le tensioni armoniche vengono risolte e confermate.
 
 Per questo motivo, nell’analisi jazzistica, riconoscere i centri tonali è molto più importante che limitarsi a catalogare gli accordi uno per uno.
+
+Modulazione diretta
+~~~~~~~~~~~~~~~~~~~
+
+Al cadenzare di una progressione sul centro tonale (risoluzione sul primo grado), si può modulare *direttamente* verso una nuova tonalità. La cadenza annulla tutte le tendenze armoniche della tonalità d’impianto, rendendo così possibile saltare su qualsiasi accordo (cromatico o diatonico) di un nuovo centro tonale. Questa forma di modulazione è detta semplicemente **modulazione diretta**. Spesso la scelta della nuova tonalità segue modelli precisi, come seconde maggiori discendenti.
+
+
+.. image:: 
+   _static/music/modulazione-diretta1.*
+   :width: 100%
+
+oppure per toni discendenti:
+
+.. image:: 
+   _static/music/modulazione-diretta2.*
+   :width: 100%
