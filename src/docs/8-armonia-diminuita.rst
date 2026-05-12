@@ -78,7 +78,7 @@ Osserva l'esempio seguente e prova ad applicarne l'effetto ai brani, nel modello
 Evoluzione storica degli accordi diminuiti
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Ti sarai forse accorto che gli accordi diminuiti sono tipici del repertorio standard degli anni ‘20 e ‘30. Se ti procuri gli spartiti originali di molti dei brani di quel periodo, troverai gli accordi diminuiti in tutte le applicazioni che abbiamo studiato e molte altre, alcune delle quali un po’ meno efficaci.
+Ti sarai forse accorto che gli accordi diminuiti sono tipici del repertorio standard degli anni ‘20 e ‘30. Se ti procuri gli spartiti originali di molti dei brani di quel periodo, troverai gli accordi diminuiti in tutte le applicazioni che abbiamo studiato e molte altre, alcune delle quali un po' meno efficaci.
 
 Negli ultimi anni, con la riscoperta del repertorio standard e l'espansione del repertorio jazz, gli accordi diminuiti sono tornati in auge. Molti musicisti li utilizzano regolarmente, sia per le funzioni di passaggio che per il colore, e spesso li inseriscono anche in contesti più moderni, come il jazz contemporaneo e la fusion.
 
@@ -116,12 +116,12 @@ Il metodo di Barry Harris
 
 **Barry Harris** non ha lasciato “un sistema” nel senso accademico del termine. Ha lasciato un modo di pensare il jazz che è più vicino a una lingua che a una teoria: pochi principi forti, ripetuti fino a diventare automatici, con un obiettivo chiaro... far suonare il bebop come se fosse la cosa più naturale del mondo.
 
-Il cuore del suo approccio è questo: **l’armonia non è una lista di accordi da “coprire” con scale diverse, ma un flusso di voci che si muovono in modo inevitabile**. E quel flusso, nel bebop, vive di due ingredienti: il suono di sesta come base, e l’uso del diminuito come collante.
+Il cuore del suo approccio è questo: **l'armonia non è una lista di accordi da “coprire” con scale diverse, ma un flusso di voci che si muovono in modo inevitabile**. E quel flusso, nel bebop, vive di due ingredienti: il suono di sesta come base, e l'uso del diminuito come collante.
 
 Il suono “di casa” non è Maj7... è 6
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Una delle idee più riconoscibili di Barry Harris è trattare l’accordo di tonica maggiore non come CΔ, ma come **C6**.
+Una delle idee più riconoscibili di Barry Harris è trattare l'accordo di tonica maggiore non come CΔ, ma come **C6**.
 
 Non perché CΔ “sia sbagliato”... ma perché nel linguaggio bebop il 6 è percepito come un suono stabile, caldo, cantabile, e soprattutto funziona benissimo come base per costruire movimento interno.
 
@@ -134,7 +134,7 @@ Questa scelta cambia il modo in cui leggi la tonalità:
 
 Il diminuito come ponte... non come accordo “strano”
 
-Il secondo pilastro è la famosa idea della **6th diminished scale**: una scala costruita alternando le note dell’accordo di sesta e un accordo diminuito che funge da passaggio.
+Il secondo pilastro è la famosa idea della **6th diminished scale**: una scala costruita alternando le note dell'accordo di sesta e un accordo diminuito che funge da passaggio.
 
 Esempio in Do:
 
@@ -163,7 +163,7 @@ Questa è la famosa C6 diminished scale: suona come una “maggiore” con un co
 
 In pratica, invece di pensare “scala maggiore di Do”, pensi a una collezione di note che contiene:
 
-* le note stabili dell’accordo (C6)
+* le note stabili dell'accordo (C6)
 * le note di passaggio (D°7) che creano cromatismo controllato
 
 Il punto teorico non è la formula... è la funzione: il diminuito ti permette di muoverti cromaticamente mantenendo il centro. Non è “fuori”. È un meccanismo interno di scorrimento.
@@ -171,9 +171,9 @@ Il punto teorico non è la formula... è la funzione: il diminuito ti permette d
 La scala come “scala di accordi”
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Un altro aspetto fondamentale del metodo di Barry Harris è che la scala non è un’entità astratta, ma è sempre legata a un accordo. La scala è una “scala di accordi”, cioè una collezione di note che si ottiene combinando le note di un accordo stabile (come C6) con le note di un accordo diminuito che funge da passaggio (come D°7).
+Un altro aspetto fondamentale del metodo di Barry Harris è che la scala non è un'entità astratta, ma è sempre legata a un accordo. La scala è una “scala di accordi”, cioè una collezione di note che si ottiene combinando le note di un accordo stabile (come C6) con le note di un accordo diminuito che funge da passaggio (come D°7).
 
-Qui arriva l’aspetto più potente: nel metodo di Barry Harris, la scala non è solo un set di note... è un set di **accordi**.
+Qui arriva l'aspetto più potente: nel metodo di Barry Harris, la scala non è solo un set di note... è un set di **accordi**.
 
 Quando nel metodo di Barry Harris parliamo di C6 diminished scale, non stiamo solo nominando una scala di 8 note... stiamo descrivendo un piccolo “ecosistema” armonico che, se lo armonizzi in modo tradizionale (a terze), rivela subito la sua natura.
 
@@ -195,7 +195,7 @@ Costruendo tetradi a terze su ciascun grado della scala, ottieni:
       <source src="_static/music/6th-diminished-scale-accordi.mp3" type="audio/mp3">
    </audio>
 
-Quindi l’armonizzazione “non genera otto accordi diversi”... genera quattro rivolti di C6 alternati con quattro rivolti dello stesso diminuito.
+Quindi l'armonizzazione “non genera otto accordi diversi”... genera quattro rivolti di C6 alternati con quattro rivolti dello stesso diminuito.
 
 Un accordo °7 è simmetrico (è fatto di terze minori sovrapposte). Per questo:
 
@@ -212,7 +212,7 @@ Dentro quel materiale puoi estrarre:
 * accordi diminuiti (passaggio)
 * e una rete di triadi e settime che si incastrano con voice leading minimale
 
-Questa prospettiva ribalta l’approccio scolastico: non stai pensando “quale scala su questo accordo”... stai pensando “quali voci sto muovendo, e dove voglio atterrare”.
+Questa prospettiva ribalta l'approccio scolastico: non stai pensando “quale scala su questo accordo”... stai pensando “quali voci sto muovendo, e dove voglio atterrare”.
 
 È anche il motivo per cui tanti esercizi “alla Barry Harris” sembrano più musicali di altri: perché, anche quando sono meccanici, sono costruiti come micro-armonia in movimento, non come ginnastica.
 
@@ -223,7 +223,7 @@ Il bebop non è cromatismo casuale. È cromatismo con una regola semplice: le no
 
 Barry Harris, in mille modi diversi, riporta sempre lì:
 
-* scegli un bersaglio (spesso una nota dell’accordo)
+* scegli un bersaglio (spesso una nota dell'accordo)
 * usa note di passaggio (spesso cromatiche)
 * mantieni il flusso ritmico
 
@@ -232,7 +232,7 @@ Il cromatismo non serve a “colorare”... serve a rendere la linea continua e 
 Dominanti... famiglia, tritono, diminuito
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Nel linguaggio bebop la dominante non è solo “il V grado”. Nell’armonizzazione della C6 diminished scale succede una cosa che, se la guardi con gli occhiali “classici”, sembra strana... ma nel linguaggio di Barry Harris è normale: l’accordo diminuito che alterna con C6 può essere inteso come un V7♭9 senza fondamentale.
+Nel linguaggio bebop la dominante non è solo “il V grado”. Nell'armonizzazione della C6 diminished scale succede una cosa che, se la guardi con gli occhiali “classici”, sembra strana... ma nel linguaggio di Barry Harris è normale: l'accordo diminuito che alterna con C6 può essere inteso come un V7♭9 senza fondamentale.
 
 E quando lo leggi così, la sequenza smette di essere “I... diminuito... I... diminuito” e diventa, di fatto, una sequenza di I... V7♭9... I... V7♭9.
 
@@ -249,7 +249,7 @@ Quindi puoi scrivere (come equivalenza di suono, non come “nome unico”):
 
 D°7 = G7♭9 senza fondamentale
 
-Se ogni volta che appare D°7 lo ascolti come “cluster di dominante” (cioè come G7♭9 senza G), l’alternanza diventa:
+Se ogni volta che appare D°7 lo ascolti come “cluster di dominante” (cioè come G7♭9 senza G), l'alternanza diventa:
 
 C6 ... G7♭9 ... C6 ... G7♭9 ...
 
@@ -259,7 +259,7 @@ I6 ... V7♭9 ... I6 ... V7♭9 ...
 
 Non stai davvero cambiando accordo a ogni nota, ma stai alternando stabilità (I6) e tensione di dominante (V7♭9) dentro lo stesso materiale.
 
-Possiamo inoltre notare un’altra cosa,  C6 contiene le stesse note di Am7:
+Possiamo inoltre notare un'altra cosa,  C6 contiene le stesse note di Am7:
 
 C6 = C E G A
 
@@ -293,9 +293,9 @@ ovvero
 
 Im7 ... V7♭9 ... Im7 ... V7♭9 ...
 
-Questo è uno dei segreti del suono bebop: l’armonia può rimanere “semplice” (I e V) mentre le linee melodiche si muovono cromaticamente con una logica fortissima.
+Questo è uno dei segreti del suono bebop: l'armonia può rimanere “semplice” (I e V) mentre le linee melodiche si muovono cromaticamente con una logica fortissima.
 
-Dentro l’estetica Barry Harris compaiono spesso:
+Dentro l'estetica Barry Harris compaiono spesso:
 
 * dominanti che si trasformano in diminuiti di passaggio
 * sostituzioni e deviazioni che mantengono il voice leading
@@ -306,7 +306,7 @@ Perché questo metodo è così prezioso (anche se non lo “segui”)
 
 Il valore del metodo di Barry Harris, per un chitarrista curioso, non è imparare un pacchetto di formule. È assorbire tre idee sane:
 
-#. **L’armonia è movimento di voci**
+#. **L'armonia è movimento di voci**
 
    Se muovi bene terze e settime, tutto il resto si sistema.
 
@@ -320,6 +320,6 @@ Il valore del metodo di Barry Harris, per un chitarrista curioso, non è imparar
 
 .. hint::
 
-   Questo approccio è potentissimo... ma non va trasformato in religione. Non esiste un solo modo corretto di pensare il jazz. La cosa giusta da prendere da Barry Harris è la qualità della logica: pochi principi che ti fanno sentire la musica più chiaramente, e che riducono l’ansia da “scala giusta”.
+   Questo approccio è potentissimo... ma non va trasformato in religione. Non esiste un solo modo corretto di pensare il jazz. La cosa giusta da prendere da Barry Harris è la qualità della logica: pochi principi che ti fanno sentire la musica più chiaramente, e che riducono l'ansia da “scala giusta”.
 
    Il metodo di Barry Harris non ti chiede di sapere di più... ti chiede di sentire meglio il collegamento tra le voci. E quando lo senti, il bebop smette di sembrare difficile e inizia a sembrare inevitabile.

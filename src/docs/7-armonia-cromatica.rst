@@ -266,13 +266,13 @@ Il **tritono** è uno degli intervalli più strani e più utili di tutta la musi
 
 È **instabile** perché contiene una tensione che chiede movimento.
 
-È **simmetrico** perché **divide l’ottava in due parti uguali**.
+È **simmetrico** perché **divide l'ottava in due parti uguali**.
 
 E la simmetria è una cosa che il cervello riconosce immediatamente, anche se non la sa nominare. È come una figura geometrica: non hai bisogno di fare i conti per percepirla.
 
-Nel mondo tonale il tritono appare dentro l’accordo dominante: è lì che nasce quella sensazione di “devo risolvere”. Ma la cosa interessante è che proprio perché è simmetrico, il tritono può essere reinterpretato con grande facilità. L’armonia può piegarsi senza spezzarsi: cambi la cornice e la tensione resta credibile.
+Nel mondo tonale il tritono appare dentro l'accordo dominante: è lì che nasce quella sensazione di “devo risolvere”. Ma la cosa interessante è che proprio perché è simmetrico, il tritono può essere reinterpretato con grande facilità. L'armonia può piegarsi senza spezzarsi: cambi la cornice e la tensione resta credibile.
 
-La **sostituzione di tritono** è una delle “pieghe” più eleganti dell’armonia e funziona per un motivo semplicissimo: **la dominante è dominante perché contiene il tritono**.
+La **sostituzione di tritono** è una delle “pieghe” più eleganti dell'armonia e funziona per un motivo semplicissimo: **la dominante è dominante perché contiene il tritono**.
 
 .. important::
 
@@ -293,7 +293,7 @@ G7 = G B D F
 
 Tritono: B F
 
-La sostituzione di tritono è l’accordo di dominante a tritono da G, cioè Db7 (o C#7 enarmonico):
+La sostituzione di tritono è l'accordo di dominante a tritono da G, cioè Db7 (o C#7 enarmonico):
 
 Db7 = Db F Ab B (Cb)
 
