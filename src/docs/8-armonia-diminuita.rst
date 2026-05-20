@@ -236,7 +236,7 @@ Nel linguaggio bebop la dominante non è solo “il V grado”. Nell'armonizzazi
 
 E quando lo leggi così, la sequenza smette di essere “I... diminuito... I... diminuito” e diventa, di fatto, una sequenza di I... V7♭9... I... V7♭9.
 
-Un accordo °7 può essere visto come un accordo di dominante 7 con b9 a cui manca la fondamentale.
+Un accordo °7 può essere visto come un accordo di dominante 7 con ♭9 a cui manca la fondamentale.
 
 Esempio in Do:
 
