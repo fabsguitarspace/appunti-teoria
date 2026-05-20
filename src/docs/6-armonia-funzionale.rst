@@ -683,7 +683,7 @@ La scala minore melodica genera anch'essa 7 modi:
      - Superlocrio o Alterato
      - 1 ♭2 ♭3 ♭4 ♭5 ♭6 ♭7
        
-       oppure 1 ♭2 ♯2 3 ♯4 ♭6 ♭7
+       oppure 1 ♭2 ♯2 3 ♭5 ♯5 ♭7
 
 
 Accordi atipici
