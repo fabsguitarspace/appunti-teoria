@@ -293,17 +293,17 @@ G7 = G B D F
 
 Tritono: B F
 
-La sostituzione di tritono è l'accordo di dominante a tritono da G, cioè Db7 (o C#7 enarmonico):
+La sostituzione di tritono è l'accordo di dominante a tritono da G, cioè D♭7 (o C#7 enarmonico):
 
-Db7 = Db F Ab B (Cb)
+D♭7 = D♭ F A♭ B (C♭)
 
-Tritono: F Cb (cioè F B)
+Tritono: F C♭ (cioè F B)
 
 Il tritono è appunto lo stesso B F solo riscritto.
 
 Quindi:
 
-G7 → C 	può diventare	Db7 → C
+G7 → C 	può diventare	D♭7 → C
 
 La sostituzione di tritono si usa soprattutto su V7 che risolve (il caso più comune) ovvero quando è davvero percepito come dominante funzionale, non come accordo statico.
 

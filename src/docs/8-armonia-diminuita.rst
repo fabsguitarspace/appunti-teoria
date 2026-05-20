@@ -159,7 +159,7 @@ Messe in ordine:
       <source src="_static/music/6th-diminished-scale.mp3" type="audio/mp3">
    </audio>
 
-Questa è la famosa C6 diminished scale: suona come una “maggiore” con un colore bebop molto tipico perché introduce b6 (Ab) dentro un contesto stabile di C6, e ti dà cromatismo e voice leading senza “cambiare mondo”.
+Questa è la famosa C6 diminished scale: suona come una “maggiore” con un colore bebop molto tipico perché introduce ♭6 (A♭) dentro un contesto stabile di C6, e ti dà cromatismo e voice leading senza “cambiare mondo”.
 
 In pratica, invece di pensare “scala maggiore di Do”, pensi a una collezione di note che contiene:
 
@@ -199,7 +199,7 @@ Quindi l'armonizzazione “non genera otto accordi diversi”... genera quattro 
 
 Un accordo °7 è simmetrico (è fatto di terze minori sovrapposte). Per questo:
 
-D°7 = F°7 = Ab°7 = B°7 (stesso insieme di suoni, cambia solo quale nota consideri “radice”).
+D°7 = F°7 = A♭°7 = B°7 (stesso insieme di suoni, cambia solo quale nota consideri “radice”).
 
 Questa simmetria spiega due cose importanti:
 
@@ -240,10 +240,10 @@ Un accordo °7 può essere visto come un accordo di dominante 7 con b9 a cui man
 
 Esempio in Do:
 
-G7♭9 = G B D F Ab
+G7♭9 = G B D F A♭
 
-* togli la fondamentale G e rimane: B D F Ab
-* ma B D F Ab è esattamente lo stesso insieme di note di D°7 (D F Ab B)
+* togli la fondamentale G e rimane: B D F A♭
+* ma B D F A♭ è esattamente lo stesso insieme di note di D°7 (D F A♭ B)
 
 Quindi puoi scrivere (come equivalenza di suono, non come “nome unico”):
 
@@ -269,9 +269,9 @@ Quindi, se invece di sentire il centro come Do, lo senti come La minore, la stes
 
 Ora guardiamo il “collante” diminuito:
 
-D°7 = D F Ab B
+D°7 = D F A♭ B
 
-(dove Ab è enarmonico di G#)
+(dove A♭ è enarmonico di G#)
 
 Se lo confronti con E7♭9 (dominante di La minore):
 
@@ -281,7 +281,7 @@ Togli la fondamentale E e rimane:
 
 G# B D F
 
-che è esattamente lo stesso materiale di D F Ab B (stesse note, solo riscritte). Quindi:
+che è esattamente lo stesso materiale di D F A♭ B (stesse note, solo riscritte). Quindi:
 
 D°7 = E7♭9 senza fondamentale
 

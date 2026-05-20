@@ -798,7 +798,7 @@ Che cos'è davvero
    </audio>
 
 
-**Pentatonica minore: 1 - b3 - 4 - 5 - b7**
+**Pentatonica minore: 1 - ♭3 - 4 - 5 - ♭7**
 
 .. image:: 
    _static/music/scala-c-pentatonica-minore.*
@@ -856,7 +856,7 @@ Questa cosa è pratica perché ti insegna una lezione enorme: non sono le note a
 Pentatonica minore e blues
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-La pentatonica minore è la spina dorsale del blues. E il motivo è proprio quella b3 sopra accordi spesso maggiori: crea l'ambiguità espressiva del blues, quel “pianto e sorriso insieme”.
+La pentatonica minore è la spina dorsale del blues. E il motivo è proprio quella ♭3 sopra accordi spesso maggiori: crea l'ambiguità espressiva del blues, quel “pianto e sorriso insieme”.
 
 Se aggiungi anche la **quinta diminuita** (♭5) ottieni la famosa "**scala blues**":
 
@@ -886,7 +886,7 @@ La via d'uscita è semplice: pensala come intervalli e bersagli, non come disegn
 Prova a chiederti sempre:
 
 - Qual è la nota di arrivo che voglio sentire?
-- Sto atterrando su 1... 3/b3... 5... b7?
+- Sto atterrando su 1... 3/♭3... 5... ♭7?
 - Sto ripetendo un'idea o sto solo correndo?
 
 
@@ -931,11 +931,11 @@ Cosa rende blues quel materiale è un comportamento melodico e armonico.
 
 1. **Ambiguità maggiore/minore**
 
-   Il blues fa convivere gradi “minori” nella melodia (b3, b7) con un contesto armonico spesso “maggiore” (il tipico I7). Questa convivenza non è un errore teorico... è identità stilistica.
+   Il blues fa convivere gradi “minori” nella melodia (♭3, ♭7) con un contesto armonico spesso “maggiore” (il tipico I7). Questa convivenza non è un errore teorico... è identità stilistica.
 
 2. **Blue notes come zona, non come tasto**
 
-   Le cosiddette blue notes (soprattutto intorno alla terza e alla quinta) non sono sempre altezze fisse. Sono spesso percepite come una zona espressiva, una flessione tra due poli (per esempio tra b3 e 3). Questo è un punto cruciale: molte descrizioni teoriche scrivono b3 o b5 come se fossero note “uguali alle altre”, ma nel blues la loro forza nasce proprio dal fatto che non sono semplicemente gradi... sono inflessioni.
+   Le cosiddette blue notes (soprattutto intorno alla terza e alla quinta) non sono sempre altezze fisse. Sono spesso percepite come una zona espressiva, una flessione tra due poli (per esempio tra ♭3 e 3). Questo è un punto cruciale: molte descrizioni teoriche scrivono ♭3 o ♭5 come se fossero note “uguali alle altre”, ma nel blues la loro forza nasce proprio dal fatto che non sono semplicemente gradi... sono inflessioni.
 
 3. **Armonia “non accademica” ma coerente**
 

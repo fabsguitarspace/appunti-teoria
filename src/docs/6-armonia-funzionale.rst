@@ -809,11 +809,11 @@ Nel linguaggio pratico di tanti musicisti bebop e pre-bebop, quella sonorità ve
 
 Per esempio:
 
-Dø: D F Ab C
+Dø: D F A♭ C
 
 può essere visto come:
 
-Fm6: F Ab C D
+Fm6: F A♭ C D
 
 cioè le stesse note.
 
