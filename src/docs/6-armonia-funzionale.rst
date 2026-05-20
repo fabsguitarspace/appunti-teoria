@@ -798,3 +798,72 @@ Esempio in E minore:
    </audio>
 
 Questa sequenza corrisponde alla progressione di accordi del brano "Autumn Leaves".
+
+
+L'accordo semidiminuito
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Il concetto di “semidiminuito” (indicato sia come m7♭5 sia come ø) come entità autonoma e separata è molto moderno e scolastico.
+
+Nel linguaggio pratico di tanti musicisti bebop e pre-bebop, quella sonorità veniva spesso percepita come una **forma mobile del minore con la sesta**.
+
+Per esempio:
+
+Dø: D F Ab C
+
+può essere visto come:
+
+Fm6: F Ab C D
+
+cioè le stesse note.
+
+E improvvisamente cambia completamente la percezione mentale.
+
+Non stai più pensando:
+
+- “accordo instabile locrio”
+- “modo della scala maggiore”
+- “settima minore quinta diminuita”
+
+ma:
+
+- un minore con una sesta,
+- una sonorità compatta,
+- un colore molto naturale nel jazz.
+
+Ed è qui che entrano mondi come Barry Harris o Thelonious Monk, ma anche tante intuizioni implicite già presenti molto prima. Perché il minore 6:
+
+- suona più “musicale”,
+- più melodico,
+- meno teorico,
+- più integrato col movimento diminuito.
+
+Infatti il m6 vive benissimo dentro la logica:
+
+- minore ↔ diminuito
+- tonicizzazione mobile
+- movimento cromatico delle voci
+
+che è molto più vicina al vero linguaggio bebop rispetto alla mentalità:
+
+“qui applico il modo locrio.”
+
+Anche perché il locrio, storicamente, come centro sonoro stabile nel jazz classico… praticamente non esiste.
+
+Molti jazzisti sentivano:
+
+Dm7♭5 → G7
+
+più come:
+
+Fm6 → G7
+
+Questo spiega anche perché tanti grandi improvvisatori:
+
+- non “suonavano il locrio”,
+- non enfatizzavano la tonica del m7♭5,
+- non trattavano quel momento come una vera area modale autonoma.
+
+Era tensione funzionale in movimento.
+
+Non un “modo da applicare”.
