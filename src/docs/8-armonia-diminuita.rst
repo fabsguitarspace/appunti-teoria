@@ -21,13 +21,12 @@ Sebbene storicamente gli accordi diminuiti siano stati utilizzati per armonizzar
 #. ♯V°7 - VIm7
 #. ♭III°7 - IIm7
 
-Le cinque funzioni diminuite
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Abbiamo **cinque movimenti specifici**: 
 
-Abbiamo cinque movimenti specifici: quattro ascendenti per semitono ed uno discendente, anch'esso per semitono. Gli accordi indicati con il diesis (♯I°7, ♯II°7, ♯IV°7 e ♯V°7) si muovono salendo, mentre quello indicato con il bemolle (♭III°7) è l'unico a scendere. Per essere considerato tale, un accordo diminuito di passaggio deve risolvere muovendosi di mezzo tono su uno dei cinque modelli sopraindicati. Fai attenzione al fatto che il ♯II°7 ed il ♯IV°7 possono anche risolvere su un rivolto dell'accordo di tonica.
+- quattro ascendenti per semitono
+- uno discendente, anch'esso per semitono. 
 
-Scale-accordo diminuite
-^^^^^^^^^^^^^^^^^^^^^^^
+Gli accordi indicati con il diesis (♯I°7, ♯II°7, ♯IV°7 e ♯V°7) si muovono salendo, mentre quello indicato con il bemolle (♭III°7) è l'unico a scendere. Per essere considerato tale, un accordo diminuito di passaggio deve risolvere muovendosi di mezzo tono su uno dei cinque modelli sopraindicati. Fai attenzione al fatto che il ♯II°7 ed il ♯IV°7 possono anche risolvere su un rivolto dell'accordo di tonica.
 
 Un'ulteriore considerazione su questi accordi è che essi prendono scale relative alla tonalità, come gli accordi di dominante secondaria. Tendono a provenire da (e a risolvere su) accordi diatonici, per cui vengono percepiti nel contesto della tonalità. Le scale si ottengono “completando” i Chord Tone dei diminuiti con le restanti note diatoniche.
 
