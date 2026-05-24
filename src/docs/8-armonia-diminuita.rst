@@ -139,7 +139,7 @@ Il secondo pilastro è la famosa idea della **6th diminished scale**: una scala 
 Esempio in Do:
 
 * C6: C E G A
-* D°*7 (come collante): D F A♭ B (enarmonie a parte)
+* D°7 (come collante): D F A♭ B (enarmonie a parte)
 
 Si ottiene una scala a 8 suoni intervallando (interleaving) le note dei due accordi:
 
