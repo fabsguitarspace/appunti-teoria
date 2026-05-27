@@ -54,12 +54,11 @@ Serve soprattutto a descrivere come percepiamo il loro comportamento tonale.
 
 Un accordo può quindi cambiare significato a seconda del contesto.
 
-Per esempio::
+Per esempio:
 
 .. image:: 
    _static/music/modulazione1.*
    :width: 100%
-
 
 - D7 in Do maggiore può essere percepito come II7 cromatico
 
