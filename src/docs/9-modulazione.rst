@@ -56,15 +56,17 @@ Un accordo può quindi cambiare significato a seconda del contesto.
 
 Per esempio::
 
-    | CΔ     | D7     | Dm7  G7 | CΔ     |
-    | IΔ     | II7    | IIm7 V7 | IΔ     |
+.. image:: 
+   _static/music/modulazione1.*
+   :width: 100%
+
 
 - D7 in Do maggiore può essere percepito come II7 cromatico
 
-.. code:: text
 
-   | CΔ     | Bm7   E7  | Am7  D7 | GΔ     |
-   | IΔ     | IIIm7 VI7 | IIm7 V7 | IΔ     |
+.. image:: 
+   _static/music/modulazione2.*
+   :width: 100%
 
 - ma se conduce stabilmente a G maggiore può diventare il V7 di G, facendo percepire appunto G come nuova tonalità.
 
