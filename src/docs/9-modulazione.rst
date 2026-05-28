@@ -107,3 +107,18 @@ oppure per toni discendenti:
 .. image:: 
    _static/music/modulazione-diretta2.*
    :width: 100%
+
+Durante una progressione è possibile modulare direttamente, anche senza la
+cadenza sul primo grado: basta condurre le parti per grado congiunto. Nel caso
+in cui la cadenza sul primo grado non sia ancora avvenuta, la progressione è
+ancora in movimento ed un salto improvviso ad una nuova tonalità potrebbe
+risultare un po' duro. L'uso di una buon voiceleading funziona sempre, a
+prescindere dal tipo di modulazione.
+
+.. hint::
+
+   Utilizza un corretto voiceleading per modulare a partire da accordi diversi dal primo grado
+
+.. image:: 
+   _static/music/modulazione-diretta3.*
+   :width: 100%
