@@ -359,7 +359,7 @@ Oltre a questi accordi possiamo trovare altre forme, meno frequenti:
      - 1 4 5 ♭7
    * - **Minore settima maggiore**
      - CmΔ
-     - 1 ♭3 5 ♭7
+     - 1 ♭3 5 7
    * - **Maggiore settima quinta eccedente**
      - CΔ♯5
      - 1 3 ♯5 7
