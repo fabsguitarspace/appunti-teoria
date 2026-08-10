@@ -10,7 +10,7 @@ melodia = \relative c' {
   \clef treble
   \omit Staff.TimeSignature
 
-  e f g a b c r
+  e f g a b c d r
 }
 
 testo = \lyricmode {
