@@ -1,0 +1,2820 @@
+[
+  {
+    "path": "src/docs/_static/music/6th-diminished-scale-accordi.mp3",
+    "references": [
+      "src/docs/8-armonia-diminuita.rst:194"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/6th-diminished-scale-accordi.pdf",
+    "references": [
+      "src/docs/8-armonia-diminuita.rst:188"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/6th-diminished-scale.mp3",
+    "references": [
+      "src/docs/8-armonia-diminuita.rst:158"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/6th-diminished-scale.pdf",
+    "references": [
+      "src/docs/8-armonia-diminuita.rst:152"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/II-V-secondarie-5.mp3",
+    "references": [
+      "src/docs/7-armonia-cromatica.rst:256"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/II-V-secondarie-5.pdf",
+    "references": [
+      "src/docs/7-armonia-cromatica.rst:250"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/a-eolio.mp3",
+    "references": [
+      "src/docs/4-scale.rst:1192"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/a-eolio.pdf",
+    "references": [
+      "src/docs/4-scale.rst:1186"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/accordi-4-note1.mp3",
+    "references": [
+      "src/docs/5-accordi.rst:343"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/accordi-4-note1.pdf",
+    "references": [
+      "src/docs/5-accordi.rst:337"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/accordi-interscambio-non-sottodominante.mp3",
+    "references": [
+      "src/docs/7-armonia-cromatica.rst:475"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/accordi-interscambio-non-sottodominante.pdf",
+    "references": [
+      "src/docs/7-armonia-cromatica.rst:469"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/accordi-settima-diatonici.mp3",
+    "references": [
+      "src/docs/6-armonia-funzionale.rst:122"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/accordi-settima-diatonici.pdf",
+    "references": [
+      "src/docs/6-armonia-funzionale.rst:116"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/accordi-sottodominante-minore.mp3",
+    "references": [
+      "src/docs/7-armonia-cromatica.rst:445"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/accordi-sottodominante-minore.pdf",
+    "references": [
+      "src/docs/7-armonia-cromatica.rst:439"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/accordo-maj7-fondamentale.mp3",
+    "references": [],
+    "used_by_pages": false
+  },
+  {
+    "path": "src/docs/_static/music/accordo-maj7-fondamentale.pdf",
+    "references": [
+      "src/docs/5-accordi.rst:382"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/accordo-maj7-primo-rivolto.mp3",
+    "references": [],
+    "used_by_pages": false
+  },
+  {
+    "path": "src/docs/_static/music/accordo-maj7-primo-rivolto.pdf",
+    "references": [
+      "src/docs/5-accordi.rst:386"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/accordo-maj7-secondo-rivolto.mp3",
+    "references": [],
+    "used_by_pages": false
+  },
+  {
+    "path": "src/docs/_static/music/accordo-maj7-secondo-rivolto.pdf",
+    "references": [
+      "src/docs/5-accordi.rst:390"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/accordo-maj7-terzo-rivolto.mp3",
+    "references": [],
+    "used_by_pages": false
+  },
+  {
+    "path": "src/docs/_static/music/accordo-maj7-terzo-rivolto.pdf",
+    "references": [
+      "src/docs/5-accordi.rst:394"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/armonizzazione-dorica.mp3",
+    "references": [
+      "src/docs/6-armonia-funzionale.rst:704"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/armonizzazione-dorica.pdf",
+    "references": [
+      "src/docs/6-armonia-funzionale.rst:698"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/armonizzazione-minore-armonica.mp3",
+    "references": [
+      "src/docs/6-armonia-funzionale.rst:602"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/armonizzazione-minore-armonica.pdf",
+    "references": [
+      "src/docs/6-armonia-funzionale.rst:596"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/armonizzazione-minore-melodica.mp3",
+    "references": [
+      "src/docs/6-armonia-funzionale.rst:653"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/armonizzazione-minore-melodica.pdf",
+    "references": [
+      "src/docs/6-armonia-funzionale.rst:647"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/armonizzazione-minore-naturale-parallela.mp3",
+    "references": [
+      "src/docs/6-armonia-funzionale.rst:561"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/armonizzazione-minore-naturale-parallela.pdf",
+    "references": [
+      "src/docs/6-armonia-funzionale.rst:555"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/armonizzazione-minore-naturale.mp3",
+    "references": [
+      "src/docs/6-armonia-funzionale.rst:551"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/armonizzazione-minore-naturale.pdf",
+    "references": [
+      "src/docs/6-armonia-funzionale.rst:545"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/b-locrio.mp3",
+    "references": [
+      "src/docs/4-scale.rst:1222"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/b-locrio.pdf",
+    "references": [
+      "src/docs/4-scale.rst:1216"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/backdoor.mp3",
+    "references": [
+      "src/docs/7-armonia-cromatica.rst:506"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/backdoor.pdf",
+    "references": [
+      "src/docs/7-armonia-cromatica.rst:500"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/c-dorico.mp3",
+    "references": [
+      "src/docs/4-scale.rst:1071"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/c-dorico.pdf",
+    "references": [
+      "src/docs/4-scale.rst:1065"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/c-eolio.mp3",
+    "references": [
+      "src/docs/4-scale.rst:1205"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/c-eolio.pdf",
+    "references": [
+      "src/docs/4-scale.rst:1199"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/c-frigio.mp3",
+    "references": [
+      "src/docs/4-scale.rst:1100"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/c-frigio.pdf",
+    "references": [
+      "src/docs/4-scale.rst:1094"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/c-ionico.mp3",
+    "references": [
+      "src/docs/4-scale.rst:1042"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/c-ionico.pdf",
+    "references": [
+      "src/docs/4-scale.rst:1036"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/c-lidio.mp3",
+    "references": [
+      "src/docs/4-scale.rst:1148"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/c-lidio.pdf",
+    "references": [
+      "src/docs/4-scale.rst:1142"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/c-locrio.mp3",
+    "references": [
+      "src/docs/4-scale.rst:1235"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/c-locrio.pdf",
+    "references": [
+      "src/docs/4-scale.rst:1229"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/c-misolidio.mp3",
+    "references": [
+      "src/docs/4-scale.rst:1176"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/c-misolidio.pdf",
+    "references": [
+      "src/docs/4-scale.rst:1170"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/cadenza-composta-perfetta.mp3",
+    "references": [
+      "src/docs/6-armonia-funzionale.rst:465"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/cadenza-composta-perfetta.pdf",
+    "references": [
+      "src/docs/6-armonia-funzionale.rst:459"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/cadenza-composta.mp3",
+    "references": [
+      "src/docs/6-armonia-funzionale.rst:455"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/cadenza-composta.pdf",
+    "references": [
+      "src/docs/6-armonia-funzionale.rst:449"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/cadenza-composta2.mp3",
+    "references": [
+      "src/docs/6-armonia-funzionale.rst:489"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/cadenza-composta2.pdf",
+    "references": [
+      "src/docs/6-armonia-funzionale.rst:483"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/cadenza-inganno1.mp3",
+    "references": [
+      "src/docs/6-armonia-funzionale.rst:424"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/cadenza-inganno1.pdf",
+    "references": [
+      "src/docs/6-armonia-funzionale.rst:418"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/cadenza-inganno2.mp3",
+    "references": [
+      "src/docs/6-armonia-funzionale.rst:435"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/cadenza-inganno2.pdf",
+    "references": [
+      "src/docs/6-armonia-funzionale.rst:429"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/cadenza-maggiore7.mp3",
+    "references": [
+      "src/docs/7-armonia-cromatica.rst:549"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/cadenza-maggiore7.pdf",
+    "references": [
+      "src/docs/7-armonia-cromatica.rst:543"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/cadenza-minore-maggiore.mp3",
+    "references": [
+      "src/docs/7-armonia-cromatica.rst:527"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/cadenza-minore-maggiore.pdf",
+    "references": [
+      "src/docs/7-armonia-cromatica.rst:521"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/cadenza-perfetta.mp3",
+    "references": [
+      "src/docs/6-armonia-funzionale.rst:335"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/cadenza-perfetta.pdf",
+    "references": [
+      "src/docs/6-armonia-funzionale.rst:329"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/cadenza-plagale1.mp3",
+    "references": [
+      "src/docs/6-armonia-funzionale.rst:374"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/cadenza-plagale1.pdf",
+    "references": [
+      "src/docs/6-armonia-funzionale.rst:368"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/cadenza-plagale2.mp3",
+    "references": [
+      "src/docs/6-armonia-funzionale.rst:384"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/cadenza-plagale2.pdf",
+    "references": [
+      "src/docs/6-armonia-funzionale.rst:378"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/cadenza-plagale3.mp3",
+    "references": [
+      "src/docs/6-armonia-funzionale.rst:394"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/cadenza-plagale3.pdf",
+    "references": [
+      "src/docs/6-armonia-funzionale.rst:388"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/cadenza-plagale4.mp3",
+    "references": [
+      "src/docs/6-armonia-funzionale.rst:404"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/cadenza-plagale4.pdf",
+    "references": [
+      "src/docs/6-armonia-funzionale.rst:398"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/cadenza-sottodominante-minore.mp3",
+    "references": [],
+    "used_by_pages": false
+  },
+  {
+    "path": "src/docs/_static/music/cadenza-sottodominante-minore.pdf",
+    "references": [],
+    "used_by_pages": false
+  },
+  {
+    "path": "src/docs/_static/music/caduta-dominanti.mp3",
+    "references": [
+      "src/docs/7-armonia-cromatica.rst:134"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/caduta-dominanti.pdf",
+    "references": [
+      "src/docs/7-armonia-cromatica.rst:128"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/ciclo-minore.mp3",
+    "references": [
+      "src/docs/6-armonia-funzionale.rst:797"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/ciclo-minore.pdf",
+    "references": [
+      "src/docs/6-armonia-funzionale.rst:791"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/d-dorico.mp3",
+    "references": [
+      "src/docs/4-scale.rst:1058"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/d-dorico.pdf",
+    "references": [
+      "src/docs/4-scale.rst:1052"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/dominanti-estese.mp3",
+    "references": [
+      "src/docs/7-armonia-cromatica.rst:117"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/dominanti-estese.pdf",
+    "references": [
+      "src/docs/7-armonia-cromatica.rst:111"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/dominanti-secondarie-5.mp3",
+    "references": [
+      "src/docs/7-armonia-cromatica.rst:158"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/dominanti-secondarie-5.pdf",
+    "references": [
+      "src/docs/7-armonia-cromatica.rst:152"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/dominanti-secondarie.mp3",
+    "references": [
+      "src/docs/7-armonia-cromatica.rst:72"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/dominanti-secondarie.pdf",
+    "references": [
+      "src/docs/7-armonia-cromatica.rst:66"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/durate1.pdf",
+    "references": [
+      "src/docs/2-prima-delle-note.rst:385"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/durate2.pdf",
+    "references": [
+      "src/docs/2-prima-delle-note.rst:387"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/e-frigio.mp3",
+    "references": [
+      "src/docs/4-scale.rst:1088"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/e-frigio.pdf",
+    "references": [
+      "src/docs/4-scale.rst:1082"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/estensione-13.mp3",
+    "references": [
+      "src/docs/5-accordi.rst:575"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/estensione-13.pdf",
+    "references": [
+      "src/docs/5-accordi.rst:569"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/estensione-13f9.mp3",
+    "references": [
+      "src/docs/5-accordi.rst:676"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/estensione-13f9.pdf",
+    "references": [
+      "src/docs/5-accordi.rst:670"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/estensione-69.mp3",
+    "references": [
+      "src/docs/5-accordi.rst:462"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/estensione-69.pdf",
+    "references": [
+      "src/docs/5-accordi.rst:456"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/estensione-711.mp3",
+    "references": [
+      "src/docs/5-accordi.rst:565"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/estensione-711.pdf",
+    "references": [
+      "src/docs/5-accordi.rst:559"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/estensione-7f13.mp3",
+    "references": [
+      "src/docs/5-accordi.rst:605"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/estensione-7f13.pdf",
+    "references": [
+      "src/docs/5-accordi.rst:599"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/estensione-7f9.mp3",
+    "references": [
+      "src/docs/5-accordi.rst:585"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/estensione-7f9.pdf",
+    "references": [
+      "src/docs/5-accordi.rst:579"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/estensione-7f9f13.mp3",
+    "references": [
+      "src/docs/5-accordi.rst:646"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/estensione-7f9f13.pdf",
+    "references": [
+      "src/docs/5-accordi.rst:640"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/estensione-7f9s11.mp3",
+    "references": [
+      "src/docs/5-accordi.rst:626"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/estensione-7f9s11.pdf",
+    "references": [
+      "src/docs/5-accordi.rst:620"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/estensione-7s9.mp3",
+    "references": [
+      "src/docs/5-accordi.rst:595"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/estensione-7s9.pdf",
+    "references": [
+      "src/docs/5-accordi.rst:589"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/estensione-7s9f13.mp3",
+    "references": [
+      "src/docs/5-accordi.rst:656"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/estensione-7s9f13.pdf",
+    "references": [
+      "src/docs/5-accordi.rst:650"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/estensione-7s9s11.mp3",
+    "references": [
+      "src/docs/5-accordi.rst:636"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/estensione-7s9s11.pdf",
+    "references": [
+      "src/docs/5-accordi.rst:630"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/estensione-9.mp3",
+    "references": [
+      "src/docs/5-accordi.rst:555"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/estensione-9.pdf",
+    "references": [
+      "src/docs/5-accordi.rst:549"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/estensione-9f13.mp3",
+    "references": [
+      "src/docs/5-accordi.rst:666"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/estensione-9f13.pdf",
+    "references": [
+      "src/docs/5-accordi.rst:660"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/estensione-add9.mp3",
+    "references": [
+      "src/docs/5-accordi.rst:452"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/estensione-add9.pdf",
+    "references": [
+      "src/docs/5-accordi.rst:446"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/estensione-m11.mp3",
+    "references": [
+      "src/docs/5-accordi.rst:523"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/estensione-m11.pdf",
+    "references": [
+      "src/docs/5-accordi.rst:517"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/estensione-m9.mp3",
+    "references": [
+      "src/docs/5-accordi.rst:513"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/estensione-m9.pdf",
+    "references": [
+      "src/docs/5-accordi.rst:507"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/estensione-madd9.mp3",
+    "references": [
+      "src/docs/5-accordi.rst:503"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/estensione-madd9.pdf",
+    "references": [
+      "src/docs/5-accordi.rst:497"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/estensione-maj11.mp3",
+    "references": [
+      "src/docs/5-accordi.rst:482"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/estensione-maj11.pdf",
+    "references": [
+      "src/docs/5-accordi.rst:476"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/estensione-maj9.mp3",
+    "references": [
+      "src/docs/5-accordi.rst:472"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/estensione-maj9.pdf",
+    "references": [
+      "src/docs/5-accordi.rst:466"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/estensione-mmaj9.mp3",
+    "references": [
+      "src/docs/5-accordi.rst:533"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/estensione-mmaj9.pdf",
+    "references": [
+      "src/docs/5-accordi.rst:527"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/f-lidio.mp3",
+    "references": [
+      "src/docs/4-scale.rst:1136"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/f-lidio.pdf",
+    "references": [
+      "src/docs/4-scale.rst:1130"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/g-misolidio.mp3",
+    "references": [
+      "src/docs/4-scale.rst:1163"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/g-misolidio.pdf",
+    "references": [
+      "src/docs/4-scale.rst:1157"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/interscambio-modale.mp3",
+    "references": [
+      "src/docs/7-armonia-cromatica.rst:404"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/interscambio-modale.pdf",
+    "references": [
+      "src/docs/7-armonia-cromatica.rst:398"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/intervallo-2.mp3",
+    "references": [
+      "src/docs/3-intervalli.rst:146"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/intervallo-2.pdf",
+    "references": [
+      "src/docs/3-intervalli.rst:140"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/intervallo-3.mp3",
+    "references": [
+      "src/docs/3-intervalli.rst:185"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/intervallo-3.pdf",
+    "references": [
+      "src/docs/3-intervalli.rst:179"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/intervallo-6.mp3",
+    "references": [
+      "src/docs/3-intervalli.rst:282"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/intervallo-6.pdf",
+    "references": [
+      "src/docs/3-intervalli.rst:276"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/intervallo-d5.mp3",
+    "references": [
+      "src/docs/3-intervalli.rst:225"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/intervallo-d5.pdf",
+    "references": [
+      "src/docs/3-intervalli.rst:219"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/intervallo-m2.mp3",
+    "references": [
+      "src/docs/3-intervalli.rst:126"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/intervallo-m2.pdf",
+    "references": [
+      "src/docs/3-intervalli.rst:120"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/intervallo-m3.mp3",
+    "references": [
+      "src/docs/3-intervalli.rst:165"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/intervallo-m3.pdf",
+    "references": [
+      "src/docs/3-intervalli.rst:159"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/intervallo-m6.mp3",
+    "references": [
+      "src/docs/3-intervalli.rst:263"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/intervallo-m6.pdf",
+    "references": [
+      "src/docs/3-intervalli.rst:257"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/intervallo-m7.mp3",
+    "references": [
+      "src/docs/3-intervalli.rst:301"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/intervallo-m7.pdf",
+    "references": [
+      "src/docs/3-intervalli.rst:295"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/intervallo-maj7.mp3",
+    "references": [
+      "src/docs/3-intervalli.rst:320"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/intervallo-maj7.pdf",
+    "references": [
+      "src/docs/3-intervalli.rst:314"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/intervallo-ottava.mp3",
+    "references": [
+      "src/docs/3-intervalli.rst:357"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/intervallo-ottava.pdf",
+    "references": [
+      "src/docs/3-intervalli.rst:351"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/intervallo-p4.mp3",
+    "references": [
+      "src/docs/3-intervalli.rst:205"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/intervallo-p4.pdf",
+    "references": [
+      "src/docs/3-intervalli.rst:199"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/intervallo-p5.mp3",
+    "references": [
+      "src/docs/3-intervalli.rst:244"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/intervallo-p5.pdf",
+    "references": [
+      "src/docs/3-intervalli.rst:238"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/intervallo-unisono.mp3",
+    "references": [
+      "src/docs/3-intervalli.rst:105"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/intervallo-unisono.pdf",
+    "references": [
+      "src/docs/3-intervalli.rst:99"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/maggiore-sesta-minore-settima.pdf",
+    "references": [
+      "src/docs/5-accordi.rst:409"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/minore-relativa-parallela.mp3",
+    "references": [
+      "src/docs/6-armonia-funzionale.rst:531"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/minore-relativa-parallela.pdf",
+    "references": [
+      "src/docs/6-armonia-funzionale.rst:525"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/minore-sesta-semidiminuito.pdf",
+    "references": [
+      "src/docs/5-accordi.rst:415"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/modulazione-diretta1.pdf",
+    "references": [
+      "src/docs/9-modulazione.rst:102"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/modulazione-diretta2.pdf",
+    "references": [
+      "src/docs/9-modulazione.rst:108"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/modulazione-diretta3.pdf",
+    "references": [
+      "src/docs/9-modulazione.rst:123"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/modulazione1.pdf",
+    "references": [
+      "src/docs/9-modulazione.rst:60"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/modulazione2.pdf",
+    "references": [
+      "src/docs/9-modulazione.rst:67"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/pentagramma.pdf",
+    "references": [
+      "src/docs/2-prima-delle-note.rst:343"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/pentatonica-ordinata.pdf",
+    "references": [
+      "src/docs/4-scale.rst:838"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/pentatonica-pila.pdf",
+    "references": [
+      "src/docs/4-scale.rst:832"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/progressione-dom-secondarie1.mp3",
+    "references": [
+      "src/docs/7-armonia-cromatica.rst:172"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/progressione-dom-secondarie1.pdf",
+    "references": [
+      "src/docs/7-armonia-cromatica.rst:166"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/progressione-dom-secondarie2.mp3",
+    "references": [
+      "src/docs/7-armonia-cromatica.rst:184"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/progressione-dom-secondarie2.pdf",
+    "references": [
+      "src/docs/7-armonia-cromatica.rst:178"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/progressione-dom-secondarie3.mp3",
+    "references": [
+      "src/docs/7-armonia-cromatica.rst:197"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/progressione-dom-secondarie3.pdf",
+    "references": [
+      "src/docs/7-armonia-cromatica.rst:191"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/risoluzione-diretta.mp3",
+    "references": [
+      "src/docs/7-armonia-cromatica.rst:237"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/risoluzione-diretta.pdf",
+    "references": [
+      "src/docs/7-armonia-cromatica.rst:231"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/risoluzione-dominante1.mp3",
+    "references": [
+      "src/docs/7-armonia-cromatica.rst:41"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/risoluzione-dominante1.pdf",
+    "references": [
+      "src/docs/7-armonia-cromatica.rst:35"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/risoluzione-dominante2.mp3",
+    "references": [
+      "src/docs/7-armonia-cromatica.rst:51"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/risoluzione-dominante2.pdf",
+    "references": [
+      "src/docs/7-armonia-cromatica.rst:45"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/risoluzione-sottodominante-minore.mp3",
+    "references": [
+      "src/docs/7-armonia-cromatica.rst:427"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/risoluzione-sottodominante-minore.pdf",
+    "references": [
+      "src/docs/7-armonia-cromatica.rst:421"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/ritardo-risoluzione.mp3",
+    "references": [
+      "src/docs/8-armonia-diminuita.rst:73"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/ritardo-risoluzione.pdf",
+    "references": [
+      "src/docs/8-armonia-diminuita.rst:67"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/scala-c-blues.mp3",
+    "references": [
+      "src/docs/4-scale.rst:872"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/scala-c-blues.pdf",
+    "references": [
+      "src/docs/4-scale.rst:866"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/scala-c-diminuita-hw.mp3",
+    "references": [
+      "src/docs/4-scale.rst:1417"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/scala-c-diminuita-hw.pdf",
+    "references": [
+      "src/docs/4-scale.rst:1411"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/scala-c-diminuita-hw2.mp3",
+    "references": [
+      "src/docs/4-scale.rst:1432"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/scala-c-diminuita-hw2.pdf",
+    "references": [
+      "src/docs/4-scale.rst:1426"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/scala-c-diminuita-wh.mp3",
+    "references": [
+      "src/docs/4-scale.rst:1397"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/scala-c-diminuita-wh.pdf",
+    "references": [
+      "src/docs/4-scale.rst:1391"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/scala-c-esatonale.mp3",
+    "references": [
+      "src/docs/4-scale.rst:1377"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/scala-c-esatonale.pdf",
+    "references": [
+      "src/docs/4-scale.rst:1371"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/scala-c-frigia.mp3",
+    "references": [
+      "src/docs/4-scale.rst:587"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/scala-c-frigia.pdf",
+    "references": [
+      "src/docs/4-scale.rst:581"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/scala-c-maggiore-5note.mp3",
+    "references": [
+      "src/docs/4-scale.rst:303"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/scala-c-maggiore-5note.pdf",
+    "references": [
+      "src/docs/4-scale.rst:297"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/scala-c-maggiore-napoletana.mp3",
+    "references": [
+      "src/docs/4-scale.rst:661"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/scala-c-maggiore-napoletana.pdf",
+    "references": [
+      "src/docs/4-scale.rst:655"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/scala-c-maggiore.mp3",
+    "references": [
+      "src/docs/4-scale.rst:206"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/scala-c-maggiore.pdf",
+    "references": [
+      "src/docs/4-scale.rst:200"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/scala-c-minore-5note.mp3",
+    "references": [
+      "src/docs/4-scale.rst:317"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/scala-c-minore-5note.pdf",
+    "references": [
+      "src/docs/4-scale.rst:311",
+      "src/docs/4-scale.rst:369"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/scala-c-minore-armonica.mp3",
+    "references": [
+      "src/docs/4-scale.rst:425"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/scala-c-minore-armonica.pdf",
+    "references": [
+      "src/docs/4-scale.rst:419"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/scala-c-minore-dorica-b2.mp3",
+    "references": [
+      "src/docs/4-scale.rst:678"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/scala-c-minore-dorica-b2.pdf",
+    "references": [
+      "src/docs/4-scale.rst:672"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/scala-c-minore-dorica.mp3",
+    "references": [
+      "src/docs/4-scale.rst:517"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/scala-c-minore-dorica.pdf",
+    "references": [
+      "src/docs/4-scale.rst:511"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/scala-c-minore-melodica-asc-desc.mp3",
+    "references": [
+      "src/docs/4-scale.rst:492"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/scala-c-minore-melodica-asc-desc.pdf",
+    "references": [
+      "src/docs/4-scale.rst:486"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/scala-c-minore-melodica.mp3",
+    "references": [
+      "src/docs/4-scale.rst:458"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/scala-c-minore-melodica.pdf",
+    "references": [
+      "src/docs/4-scale.rst:452"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/scala-c-minore-napoletana.mp3",
+    "references": [
+      "src/docs/4-scale.rst:610"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/scala-c-minore-napoletana.pdf",
+    "references": [
+      "src/docs/4-scale.rst:604"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/scala-c-minore-naturale.mp3",
+    "references": [
+      "src/docs/4-scale.rst:395"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/scala-c-minore-naturale.pdf",
+    "references": [
+      "src/docs/4-scale.rst:389"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/scala-c-pentatonica-maggiore.mp3",
+    "references": [
+      "src/docs/4-scale.rst:797"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/scala-c-pentatonica-maggiore.pdf",
+    "references": [
+      "src/docs/4-scale.rst:791"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/scala-c-pentatonica-minore.mp3",
+    "references": [
+      "src/docs/4-scale.rst:810"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/scala-c-pentatonica-minore.pdf",
+    "references": [
+      "src/docs/4-scale.rst:804"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/scala-cromatica-ascendente.mp3",
+    "references": [
+      "src/docs/4-scale.rst:20"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/scala-cromatica-ascendente.pdf",
+    "references": [
+      "src/docs/4-scale.rst:14"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/scala-cromatica-discendente.mp3",
+    "references": [
+      "src/docs/4-scale.rst:30"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/scala-cromatica-discendente.pdf",
+    "references": [
+      "src/docs/4-scale.rst:24"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/scala-g-maggiore.mp3",
+    "references": [
+      "src/docs/4-scale.rst:250"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/scala-g-maggiore.pdf",
+    "references": [
+      "src/docs/4-scale.rst:244"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/scale-maggiori-bemolle.mp3",
+    "references": [],
+    "used_by_pages": false
+  },
+  {
+    "path": "src/docs/_static/music/scale-maggiori-bemolle.pdf",
+    "references": [
+      "src/docs/4-scale.rst:262"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/scale-maggiori-diesis.pdf",
+    "references": [
+      "src/docs/4-scale.rst:268"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/sostituti-tritono-secondari.mp3",
+    "references": [
+      "src/docs/7-armonia-cromatica.rst:328"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/sostituti-tritono-secondari.pdf",
+    "references": [
+      "src/docs/7-armonia-cromatica.rst:322"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/tempo.pdf",
+    "references": [
+      "src/docs/2-prima-delle-note.rst:409"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/triade-aumentata-rivolti.mp3",
+    "references": [
+      "src/docs/5-accordi.rst:168"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/triade-aumentata-rivolti.pdf",
+    "references": [
+      "src/docs/5-accordi.rst:162"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/triade-csus4.mp3",
+    "references": [
+      "src/docs/5-accordi.rst:269"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/triade-csus4.pdf",
+    "references": [
+      "src/docs/5-accordi.rst:263"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/triade-diminuita-rivolti.mp3",
+    "references": [
+      "src/docs/5-accordi.rst:157"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/triade-diminuita-rivolti.pdf",
+    "references": [
+      "src/docs/5-accordi.rst:151"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/triade-maggiore-rivolti.mp3",
+    "references": [
+      "src/docs/5-accordi.rst:135"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/triade-maggiore-rivolti.pdf",
+    "references": [
+      "src/docs/5-accordi.rst:129"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/triade-maggiore-spread.mp3",
+    "references": [
+      "src/docs/5-accordi.rst:186"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/triade-maggiore-spread.pdf",
+    "references": [
+      "src/docs/5-accordi.rst:180"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/triade-minore-rivolti.mp3",
+    "references": [
+      "src/docs/5-accordi.rst:146"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/triade-minore-rivolti.pdf",
+    "references": [
+      "src/docs/5-accordi.rst:140"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/triade-sus2-rivolti.mp3",
+    "references": [
+      "src/docs/5-accordi.rst:232"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/triade-sus2-rivolti.pdf",
+    "references": [
+      "src/docs/5-accordi.rst:226"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/triade-sus4-rivolti.mp3",
+    "references": [
+      "src/docs/5-accordi.rst:251"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/triade-sus4-rivolti.pdf",
+    "references": [
+      "src/docs/5-accordi.rst:245"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/triadi-diatoniche.mp3",
+    "references": [
+      "src/docs/6-armonia-funzionale.rst:53"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/triadi-diatoniche.pdf",
+    "references": [
+      "src/docs/6-armonia-funzionale.rst:47"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/triadi.mp3",
+    "references": [
+      "src/docs/5-accordi.rst:97"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/docs/_static/music/triadi.pdf",
+    "references": [
+      "src/docs/5-accordi.rst:91"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/6th-diminished-scale-accordi.ly",
+    "references": [
+      "output referenziato: 6th-diminished-scale-accordi.mp3, 6th-diminished-scale-accordi.pdf, 6th-diminished-scale-accordi.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/6th-diminished-scale.ly",
+    "references": [
+      "output referenziato: 6th-diminished-scale.mp3, 6th-diminished-scale.pdf, 6th-diminished-scale.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/II-V-secondarie-5.ly",
+    "references": [
+      "output referenziato: II-V-secondarie-5.mp3, II-V-secondarie-5.pdf, II-V-secondarie-5.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/a-eolio.ly",
+    "references": [
+      "output referenziato: a-eolio.mp3, a-eolio.pdf, a-eolio.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/accordi-4-note1.ly",
+    "references": [
+      "output referenziato: accordi-4-note1.mp3, accordi-4-note1.pdf, accordi-4-note1.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/accordi-interscambio-non-sottodominante.ly",
+    "references": [
+      "output referenziato: accordi-interscambio-non-sottodominante.mp3, accordi-interscambio-non-sottodominante.pdf, accordi-interscambio-non-sottodominante.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/accordi-settima-diatonici.ly",
+    "references": [
+      "output referenziato: accordi-settima-diatonici.mp3, accordi-settima-diatonici.pdf, accordi-settima-diatonici.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/accordi-sottodominante-minore.ly",
+    "references": [
+      "output referenziato: accordi-sottodominante-minore.mp3, accordi-sottodominante-minore.pdf, accordi-sottodominante-minore.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/accordo-maj7-fondamentale.ly",
+    "references": [
+      "output referenziato: accordo-maj7-fondamentale.pdf, accordo-maj7-fondamentale.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/accordo-maj7-primo-rivolto.ly",
+    "references": [
+      "output referenziato: accordo-maj7-primo-rivolto.pdf, accordo-maj7-primo-rivolto.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/accordo-maj7-secondo-rivolto.ly",
+    "references": [
+      "output referenziato: accordo-maj7-secondo-rivolto.pdf, accordo-maj7-secondo-rivolto.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/accordo-maj7-terzo-rivolto.ly",
+    "references": [
+      "output referenziato: accordo-maj7-terzo-rivolto.pdf, accordo-maj7-terzo-rivolto.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/armonizzazione-dorica.ly",
+    "references": [
+      "output referenziato: armonizzazione-dorica.mp3, armonizzazione-dorica.pdf, armonizzazione-dorica.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/armonizzazione-minore-armonica.ly",
+    "references": [
+      "output referenziato: armonizzazione-minore-armonica.mp3, armonizzazione-minore-armonica.pdf, armonizzazione-minore-armonica.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/armonizzazione-minore-melodica.ly",
+    "references": [
+      "output referenziato: armonizzazione-minore-melodica.mp3, armonizzazione-minore-melodica.pdf, armonizzazione-minore-melodica.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/armonizzazione-minore-naturale-parallela.ly",
+    "references": [
+      "output referenziato: armonizzazione-minore-naturale-parallela.mp3, armonizzazione-minore-naturale-parallela.pdf, armonizzazione-minore-naturale-parallela.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/armonizzazione-minore-naturale.ly",
+    "references": [
+      "output referenziato: armonizzazione-minore-naturale.mp3, armonizzazione-minore-naturale.pdf, armonizzazione-minore-naturale.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/b-locrio.ly",
+    "references": [
+      "output referenziato: b-locrio.mp3, b-locrio.pdf, b-locrio.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/backdoor.ly",
+    "references": [
+      "output referenziato: backdoor.mp3, backdoor.pdf, backdoor.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/c-dorico.ly",
+    "references": [
+      "output referenziato: c-dorico.mp3, c-dorico.pdf, c-dorico.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/c-eolio.ly",
+    "references": [
+      "output referenziato: c-eolio.mp3, c-eolio.pdf, c-eolio.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/c-frigio.ly",
+    "references": [
+      "output referenziato: c-frigio.mp3, c-frigio.pdf, c-frigio.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/c-ionico.ly",
+    "references": [
+      "output referenziato: c-ionico.mp3, c-ionico.pdf, c-ionico.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/c-lidio.ly",
+    "references": [
+      "output referenziato: c-lidio.mp3, c-lidio.pdf, c-lidio.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/c-locrio.ly",
+    "references": [
+      "output referenziato: c-locrio.mp3, c-locrio.pdf, c-locrio.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/c-misolidio.ly",
+    "references": [
+      "output referenziato: c-misolidio.mp3, c-misolidio.pdf, c-misolidio.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/cadenza-composta-perfetta.ly",
+    "references": [
+      "output referenziato: cadenza-composta-perfetta.mp3, cadenza-composta-perfetta.pdf, cadenza-composta-perfetta.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/cadenza-composta.ly",
+    "references": [
+      "output referenziato: cadenza-composta.mp3, cadenza-composta.pdf, cadenza-composta.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/cadenza-composta2.ly",
+    "references": [
+      "output referenziato: cadenza-composta2.mp3, cadenza-composta2.pdf, cadenza-composta2.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/cadenza-inganno1.ly",
+    "references": [
+      "output referenziato: cadenza-inganno1.mp3, cadenza-inganno1.pdf, cadenza-inganno1.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/cadenza-inganno2.ly",
+    "references": [
+      "output referenziato: cadenza-inganno2.mp3, cadenza-inganno2.pdf, cadenza-inganno2.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/cadenza-maggiore7.ly",
+    "references": [
+      "output referenziato: cadenza-maggiore7.mp3, cadenza-maggiore7.pdf, cadenza-maggiore7.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/cadenza-minore-maggiore.ly",
+    "references": [
+      "output referenziato: cadenza-minore-maggiore.mp3, cadenza-minore-maggiore.pdf, cadenza-minore-maggiore.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/cadenza-perfetta.ly",
+    "references": [
+      "output referenziato: cadenza-perfetta.mp3, cadenza-perfetta.pdf, cadenza-perfetta.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/cadenza-plagale1.ly",
+    "references": [
+      "output referenziato: cadenza-plagale1.mp3, cadenza-plagale1.pdf, cadenza-plagale1.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/cadenza-plagale2.ly",
+    "references": [
+      "output referenziato: cadenza-plagale2.mp3, cadenza-plagale2.pdf, cadenza-plagale2.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/cadenza-plagale3.ly",
+    "references": [
+      "output referenziato: cadenza-plagale3.mp3, cadenza-plagale3.pdf, cadenza-plagale3.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/cadenza-plagale4.ly",
+    "references": [
+      "output referenziato: cadenza-plagale4.mp3, cadenza-plagale4.pdf, cadenza-plagale4.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/cadenza-sottodominante-minore.ly",
+    "references": [],
+    "used_by_pages": false
+  },
+  {
+    "path": "src/lilypond/caduta-dominanti.ly",
+    "references": [
+      "output referenziato: caduta-dominanti.mp3, caduta-dominanti.pdf, caduta-dominanti.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/ciclo-minore.ly",
+    "references": [
+      "output referenziato: ciclo-minore.mp3, ciclo-minore.pdf, ciclo-minore.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/d-dorico.ly",
+    "references": [
+      "output referenziato: d-dorico.mp3, d-dorico.pdf, d-dorico.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/dominanti-estese.ly",
+    "references": [
+      "output referenziato: dominanti-estese.mp3, dominanti-estese.pdf, dominanti-estese.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/dominanti-secondarie-5.ly",
+    "references": [
+      "output referenziato: dominanti-secondarie-5.mp3, dominanti-secondarie-5.pdf, dominanti-secondarie-5.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/dominanti-secondarie.ly",
+    "references": [
+      "output referenziato: dominanti-secondarie.mp3, dominanti-secondarie.pdf, dominanti-secondarie.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/durate1.ly",
+    "references": [
+      "output referenziato: durate1.pdf, durate1.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/durate2.ly",
+    "references": [
+      "output referenziato: durate2.pdf, durate2.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/e-frigio.ly",
+    "references": [
+      "output referenziato: e-frigio.mp3, e-frigio.pdf, e-frigio.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/estensione-13.ly",
+    "references": [
+      "output referenziato: estensione-13.mp3, estensione-13.pdf, estensione-13.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/estensione-13f9.ly",
+    "references": [
+      "output referenziato: estensione-13f9.mp3, estensione-13f9.pdf, estensione-13f9.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/estensione-69.ly",
+    "references": [
+      "output referenziato: estensione-69.mp3, estensione-69.pdf, estensione-69.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/estensione-711.ly",
+    "references": [
+      "output referenziato: estensione-711.mp3, estensione-711.pdf, estensione-711.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/estensione-7f13.ly",
+    "references": [
+      "output referenziato: estensione-7f13.mp3, estensione-7f13.pdf, estensione-7f13.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/estensione-7f9.ly",
+    "references": [
+      "output referenziato: estensione-7f9.mp3, estensione-7f9.pdf, estensione-7f9.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/estensione-7f9f13.ly",
+    "references": [
+      "output referenziato: estensione-7f9f13.mp3, estensione-7f9f13.pdf, estensione-7f9f13.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/estensione-7f9s11.ly",
+    "references": [
+      "output referenziato: estensione-7f9s11.mp3, estensione-7f9s11.pdf, estensione-7f9s11.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/estensione-7s9.ly",
+    "references": [
+      "output referenziato: estensione-7s9.mp3, estensione-7s9.pdf, estensione-7s9.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/estensione-7s9f13.ly",
+    "references": [
+      "output referenziato: estensione-7s9f13.mp3, estensione-7s9f13.pdf, estensione-7s9f13.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/estensione-7s9s11.ly",
+    "references": [
+      "output referenziato: estensione-7s9s11.mp3, estensione-7s9s11.pdf, estensione-7s9s11.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/estensione-9.ly",
+    "references": [
+      "output referenziato: estensione-9.mp3, estensione-9.pdf, estensione-9.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/estensione-9f13.ly",
+    "references": [
+      "output referenziato: estensione-9f13.mp3, estensione-9f13.pdf, estensione-9f13.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/estensione-add9.ly",
+    "references": [
+      "output referenziato: estensione-add9.mp3, estensione-add9.pdf, estensione-add9.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/estensione-m11.ly",
+    "references": [
+      "output referenziato: estensione-m11.mp3, estensione-m11.pdf, estensione-m11.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/estensione-m9.ly",
+    "references": [
+      "output referenziato: estensione-m9.mp3, estensione-m9.pdf, estensione-m9.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/estensione-madd9.ly",
+    "references": [
+      "output referenziato: estensione-madd9.mp3, estensione-madd9.pdf, estensione-madd9.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/estensione-maj11.ly",
+    "references": [
+      "output referenziato: estensione-maj11.mp3, estensione-maj11.pdf, estensione-maj11.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/estensione-maj9.ly",
+    "references": [
+      "output referenziato: estensione-maj9.mp3, estensione-maj9.pdf, estensione-maj9.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/estensione-mmaj9.ly",
+    "references": [
+      "output referenziato: estensione-mmaj9.mp3, estensione-mmaj9.pdf, estensione-mmaj9.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/f-lidio.ly",
+    "references": [
+      "output referenziato: f-lidio.mp3, f-lidio.pdf, f-lidio.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/g-misolidio.ly",
+    "references": [
+      "output referenziato: g-misolidio.mp3, g-misolidio.pdf, g-misolidio.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/include/my-chart.ly",
+    "references": [
+      "include da src/lilypond/pentagramma.ly"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/include/my-scales.ly",
+    "references": [],
+    "used_by_pages": false
+  },
+  {
+    "path": "src/lilypond/interscambio-modale.ly",
+    "references": [
+      "output referenziato: interscambio-modale.mp3, interscambio-modale.pdf, interscambio-modale.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/intervallo-2.ly",
+    "references": [
+      "output referenziato: intervallo-2.mp3, intervallo-2.pdf, intervallo-2.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/intervallo-3.ly",
+    "references": [
+      "output referenziato: intervallo-3.mp3, intervallo-3.pdf, intervallo-3.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/intervallo-6.ly",
+    "references": [
+      "output referenziato: intervallo-6.mp3, intervallo-6.pdf, intervallo-6.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/intervallo-d5.ly",
+    "references": [
+      "output referenziato: intervallo-d5.mp3, intervallo-d5.pdf, intervallo-d5.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/intervallo-m2.ly",
+    "references": [
+      "output referenziato: intervallo-m2.mp3, intervallo-m2.pdf, intervallo-m2.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/intervallo-m3.ly",
+    "references": [
+      "output referenziato: intervallo-m3.mp3, intervallo-m3.pdf, intervallo-m3.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/intervallo-m6.ly",
+    "references": [
+      "output referenziato: intervallo-m6.mp3, intervallo-m6.pdf, intervallo-m6.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/intervallo-m7.ly",
+    "references": [
+      "output referenziato: intervallo-m7.mp3, intervallo-m7.pdf, intervallo-m7.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/intervallo-maj7.ly",
+    "references": [
+      "output referenziato: intervallo-maj7.mp3, intervallo-maj7.pdf, intervallo-maj7.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/intervallo-ottava.ly",
+    "references": [
+      "output referenziato: intervallo-ottava.mp3, intervallo-ottava.pdf, intervallo-ottava.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/intervallo-p4.ly",
+    "references": [
+      "output referenziato: intervallo-p4.mp3, intervallo-p4.pdf, intervallo-p4.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/intervallo-p5.ly",
+    "references": [
+      "output referenziato: intervallo-p5.mp3, intervallo-p5.pdf, intervallo-p5.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/intervallo-unisono.ly",
+    "references": [
+      "output referenziato: intervallo-unisono.mp3, intervallo-unisono.pdf, intervallo-unisono.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/maggiore-sesta-minore-settima.ly",
+    "references": [
+      "output referenziato: maggiore-sesta-minore-settima.pdf, maggiore-sesta-minore-settima.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/minore-relativa-parallela.ly",
+    "references": [
+      "output referenziato: minore-relativa-parallela.mp3, minore-relativa-parallela.pdf, minore-relativa-parallela.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/minore-sesta-semidiminuito.ly",
+    "references": [
+      "output referenziato: minore-sesta-semidiminuito.pdf, minore-sesta-semidiminuito.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/modulazione-diretta1.ly",
+    "references": [
+      "output referenziato: modulazione-diretta1.pdf, modulazione-diretta1.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/modulazione-diretta2.ly",
+    "references": [
+      "output referenziato: modulazione-diretta2.pdf, modulazione-diretta2.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/modulazione-diretta3.ly",
+    "references": [
+      "output referenziato: modulazione-diretta3.pdf, modulazione-diretta3.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/modulazione1.ly",
+    "references": [
+      "output referenziato: modulazione1.pdf, modulazione1.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/modulazione2.ly",
+    "references": [
+      "output referenziato: modulazione2.pdf, modulazione2.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/pentagramma.ly",
+    "references": [
+      "output referenziato: pentagramma.pdf, pentagramma.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/pentatonica-ordinata.ly",
+    "references": [
+      "output referenziato: pentatonica-ordinata.pdf, pentatonica-ordinata.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/pentatonica-pila.ly",
+    "references": [
+      "output referenziato: pentatonica-pila.pdf, pentatonica-pila.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/progressione-dom-secondarie1.ly",
+    "references": [
+      "output referenziato: progressione-dom-secondarie1.mp3, progressione-dom-secondarie1.pdf, progressione-dom-secondarie1.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/progressione-dom-secondarie2.ly",
+    "references": [
+      "output referenziato: progressione-dom-secondarie2.mp3, progressione-dom-secondarie2.pdf, progressione-dom-secondarie2.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/progressione-dom-secondarie3.ly",
+    "references": [
+      "output referenziato: progressione-dom-secondarie3.mp3, progressione-dom-secondarie3.pdf, progressione-dom-secondarie3.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/risoluzione-diretta.ly",
+    "references": [
+      "output referenziato: risoluzione-diretta.mp3, risoluzione-diretta.pdf, risoluzione-diretta.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/risoluzione-dominante1.ly",
+    "references": [
+      "output referenziato: risoluzione-dominante1.mp3, risoluzione-dominante1.pdf, risoluzione-dominante1.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/risoluzione-dominante2.ly",
+    "references": [
+      "output referenziato: risoluzione-dominante2.mp3, risoluzione-dominante2.pdf, risoluzione-dominante2.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/risoluzione-sottodominante-minore.ly",
+    "references": [
+      "output referenziato: risoluzione-sottodominante-minore.mp3, risoluzione-sottodominante-minore.pdf, risoluzione-sottodominante-minore.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/ritardo-risoluzione.ly",
+    "references": [
+      "output referenziato: ritardo-risoluzione.mp3, ritardo-risoluzione.pdf, ritardo-risoluzione.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/scala-c-blues.ly",
+    "references": [
+      "output referenziato: scala-c-blues.mp3, scala-c-blues.pdf, scala-c-blues.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/scala-c-diminuita-hw.ly",
+    "references": [
+      "output referenziato: scala-c-diminuita-hw.mp3, scala-c-diminuita-hw.pdf, scala-c-diminuita-hw.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/scala-c-diminuita-hw2.ly",
+    "references": [
+      "output referenziato: scala-c-diminuita-hw2.mp3, scala-c-diminuita-hw2.pdf, scala-c-diminuita-hw2.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/scala-c-diminuita-wh.ly",
+    "references": [
+      "output referenziato: scala-c-diminuita-wh.mp3, scala-c-diminuita-wh.pdf, scala-c-diminuita-wh.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/scala-c-esatonale.ly",
+    "references": [
+      "output referenziato: scala-c-esatonale.mp3, scala-c-esatonale.pdf, scala-c-esatonale.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/scala-c-frigia.ly",
+    "references": [
+      "output referenziato: scala-c-frigia.mp3, scala-c-frigia.pdf, scala-c-frigia.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/scala-c-maggiore-5note.ly",
+    "references": [
+      "output referenziato: scala-c-maggiore-5note.mp3, scala-c-maggiore-5note.pdf, scala-c-maggiore-5note.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/scala-c-maggiore-napoletana.ly",
+    "references": [
+      "output referenziato: scala-c-maggiore-napoletana.mp3, scala-c-maggiore-napoletana.pdf, scala-c-maggiore-napoletana.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/scala-c-maggiore.ly",
+    "references": [
+      "output referenziato: scala-c-maggiore.mp3, scala-c-maggiore.pdf, scala-c-maggiore.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/scala-c-minore-5note.ly",
+    "references": [
+      "output referenziato: scala-c-minore-5note.mp3, scala-c-minore-5note.pdf, scala-c-minore-5note.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/scala-c-minore-armonica.ly",
+    "references": [
+      "output referenziato: scala-c-minore-armonica.mp3, scala-c-minore-armonica.pdf, scala-c-minore-armonica.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/scala-c-minore-dorica-b2.ly",
+    "references": [
+      "output referenziato: scala-c-minore-dorica-b2.mp3, scala-c-minore-dorica-b2.pdf, scala-c-minore-dorica-b2.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/scala-c-minore-dorica.ly",
+    "references": [
+      "output referenziato: scala-c-minore-dorica.mp3, scala-c-minore-dorica.pdf, scala-c-minore-dorica.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/scala-c-minore-melodica-asc-desc.ly",
+    "references": [
+      "output referenziato: scala-c-minore-melodica-asc-desc.mp3, scala-c-minore-melodica-asc-desc.pdf, scala-c-minore-melodica-asc-desc.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/scala-c-minore-melodica.ly",
+    "references": [
+      "output referenziato: scala-c-minore-melodica.mp3, scala-c-minore-melodica.pdf, scala-c-minore-melodica.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/scala-c-minore-napoletana.ly",
+    "references": [
+      "output referenziato: scala-c-minore-napoletana.mp3, scala-c-minore-napoletana.pdf, scala-c-minore-napoletana.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/scala-c-minore-naturale.ly",
+    "references": [
+      "output referenziato: scala-c-minore-naturale.mp3, scala-c-minore-naturale.pdf, scala-c-minore-naturale.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/scala-c-pentatonica-maggiore.ly",
+    "references": [
+      "output referenziato: scala-c-pentatonica-maggiore.mp3, scala-c-pentatonica-maggiore.pdf, scala-c-pentatonica-maggiore.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/scala-c-pentatonica-minore.ly",
+    "references": [
+      "output referenziato: scala-c-pentatonica-minore.mp3, scala-c-pentatonica-minore.pdf, scala-c-pentatonica-minore.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/scala-cromatica-ascendente.ly",
+    "references": [
+      "output referenziato: scala-cromatica-ascendente.mp3, scala-cromatica-ascendente.pdf, scala-cromatica-ascendente.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/scala-cromatica-discendente.ly",
+    "references": [
+      "output referenziato: scala-cromatica-discendente.mp3, scala-cromatica-discendente.pdf, scala-cromatica-discendente.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/scala-g-maggiore.ly",
+    "references": [
+      "output referenziato: scala-g-maggiore.mp3, scala-g-maggiore.pdf, scala-g-maggiore.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/scale-maggiori-bemolle.ly",
+    "references": [
+      "output referenziato: scale-maggiori-bemolle.pdf, scale-maggiori-bemolle.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/scale-maggiori-diesis.ly",
+    "references": [
+      "output referenziato: scale-maggiori-diesis.pdf, scale-maggiori-diesis.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/sostituti-tritono-secondari.ly",
+    "references": [
+      "output referenziato: sostituti-tritono-secondari.mp3, sostituti-tritono-secondari.pdf, sostituti-tritono-secondari.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/tempo.ly",
+    "references": [
+      "output referenziato: tempo.pdf, tempo.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/triade-aumentata-rivolti.ly",
+    "references": [
+      "output referenziato: triade-aumentata-rivolti.mp3, triade-aumentata-rivolti.pdf, triade-aumentata-rivolti.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/triade-csus4.ly",
+    "references": [
+      "output referenziato: triade-csus4.mp3, triade-csus4.pdf, triade-csus4.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/triade-diminuita-rivolti.ly",
+    "references": [
+      "output referenziato: triade-diminuita-rivolti.mp3, triade-diminuita-rivolti.pdf, triade-diminuita-rivolti.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/triade-maggiore-rivolti.ly",
+    "references": [
+      "output referenziato: triade-maggiore-rivolti.mp3, triade-maggiore-rivolti.pdf, triade-maggiore-rivolti.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/triade-maggiore-spread.ly",
+    "references": [
+      "output referenziato: triade-maggiore-spread.mp3, triade-maggiore-spread.pdf, triade-maggiore-spread.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/triade-minore-rivolti.ly",
+    "references": [
+      "output referenziato: triade-minore-rivolti.mp3, triade-minore-rivolti.pdf, triade-minore-rivolti.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/triade-sus2-rivolti.ly",
+    "references": [
+      "output referenziato: triade-sus2-rivolti.mp3, triade-sus2-rivolti.pdf, triade-sus2-rivolti.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/triade-sus4-rivolti.ly",
+    "references": [
+      "output referenziato: triade-sus4-rivolti.mp3, triade-sus4-rivolti.pdf, triade-sus4-rivolti.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/triadi-diatoniche.ly",
+    "references": [
+      "output referenziato: triadi-diatoniche.mp3, triadi-diatoniche.pdf, triadi-diatoniche.svg"
+    ],
+    "used_by_pages": true
+  },
+  {
+    "path": "src/lilypond/triadi.ly",
+    "references": [
+      "output referenziato: triadi.mp3, triadi.pdf, triadi.svg"
+    ],
+    "used_by_pages": true
+  }
+]
