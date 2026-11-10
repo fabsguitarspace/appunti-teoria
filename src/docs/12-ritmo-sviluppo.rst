@@ -50,7 +50,7 @@ Il basso alterna tonica, quinta e ottava con alcune pause.
 La partitura mostra basso e batteria; l'audio aggiunge un sostegno armonico.
 Il conteggio iniziale di quattro quarti non appartiene alla partitura.
 
-.. image:: _static/music/modern-groove-44.svg
+.. image:: _static/music/modern-groove-44.*
    :alt: Basso e batteria: incastri in quattro quarti
 
 .. raw:: html
@@ -97,7 +97,7 @@ Una scelta deve risultare udibile nella frase e nell'accompagnamento.
 rilievo il primo e il quarto. Qui una battuta contiene dieci crome;
 il conteggio iniziale ha cinque colpi di semiminima a 80 BPM.
 
-.. image:: _static/music/modern-groove-54.svg
+.. image:: _static/music/modern-groove-54.*
    :alt: Cinque quarti: tre più due semiminime
 
 .. raw:: html
@@ -111,7 +111,7 @@ rilievo il primo, il terzo e il quinto. A semiminima = 84, le crome
 scorrono a 168 al minuto. Il conteggio iniziale ha sette colpi di croma.
 Il gruppo finale di tre dura una croma più degli altri: non accelerarlo.
 
-.. image:: _static/music/modern-groove-78.svg
+.. image:: _static/music/modern-groove-78.*
    :alt: Sette ottavi: due più due più tre crome
 
 .. raw:: html
@@ -162,7 +162,7 @@ Nell'audio basso e batteria adottano la nuova pulsazione alla terza
 battuta. Il conteggio iniziale è una battuta a 80 BPM.
 La melodia è scritta alle altezze reali, senza trasposizione di ottava.
 
-.. image:: _static/music/modern-metric.svg
+.. image:: _static/music/modern-metric.*
    :alt: Modulazione metrica: dalla terzina a 80 alla semiminima a 120
 
 .. raw:: html
