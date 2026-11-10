@@ -58,3 +58,5 @@ I sorgenti prevalgono sulla KB. Dopo cambiamenti rilevanti aggiornare evidenze e
 - [Modern jazz, fusion e sviluppo ritmico](analisi/008-modern-jazz-fusion.md) — ampliamento armonico e nuovo percorso ritmico con spartiti/audio, 10 novembre 2026.
 
 Il nuovo capitolo `src/docs/12-ritmo-sviluppo.rst` precede le letture conclusive nell’indice.
+
+- [Ascoltare e analizzare i percorsi d’autore](analisi/009-percorsi-autore.md) — dieci analisi collegate al percorso operativo di Pratica; nuovo capitolo `src/docs/13-percorsi-autore.rst`, 10 novembre 2026.

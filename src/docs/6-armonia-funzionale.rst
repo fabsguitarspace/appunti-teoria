@@ -867,3 +867,12 @@ Questo spiega anche perché tanti grandi improvvisatori:
 Era tensione funzionale in movimento.
 
 Non un “modo da applicare”.
+
+
+Percorsi d’autore
+-----------------
+
+Il capitolo :doc:`13-percorsi-autore` applica queste domande all’analisi
+di esempi originali e rimanda agli ascolti e agli studi di Pratica.
+Confronta le note reali, il movimento delle voci e la posizione ritmica
+prima di ricondurre una frase a una formula di stile.

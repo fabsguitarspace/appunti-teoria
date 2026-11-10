@@ -238,3 +238,12 @@ che gli accordi abbiano funzioni tonali tradizionali.
 
 Il capitolo :doc:`11-letture-armoniche` riunisce queste domande in brevi
 percorsi di analisi.
+
+
+Percorsi d’autore
+-----------------
+
+Il capitolo :doc:`13-percorsi-autore` applica queste domande all’analisi
+di esempi originali e rimanda agli ascolti e agli studi di Pratica.
+Confronta le note reali, il movimento delle voci e la posizione ritmica
+prima di ricondurre una frase a una formula di stile.
