@@ -489,7 +489,7 @@ Quando improvvisi su questi accordi, cerca di percepire la qualità delle funzio
       <source src="_static/music/cadenza-composta2.mp3" type="audio/mp3">
    </audio>
 
-Tonanlità minore: un sistema non stabile
+Tonalità minore: un sistema non stabile
 ----------------------------------------
 
 Il minore non è una tonalità, è una famiglia

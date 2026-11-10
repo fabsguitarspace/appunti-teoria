@@ -256,8 +256,8 @@ Le funzioni minori diatoniche (IIm7, IIIm7, VIm7) sono spesso precedute dalla **
       <source src="_static/music/II-V-secondarie-5.mp3" type="audio/mp3">
    </audio>
 
-Sosituzione di tritono
-----------------------
+Sostituzione di tritono
+-----------------------
 
 Il tritono
 ~~~~~~~~~~
@@ -351,7 +351,7 @@ Come la riconosci all'orecchio:
 
 I segnali tipici sono:
 
-- movimento per quinte (o quarte discendenti)
+- movimento delle fondamentali per quinte discendenti (o quarte ascendenti)
 - presenza di una pre-dominante prima (IIm7 → V → I)
 - la nota “sensibile” che tende a salire verso la tonica (in tonalità maggiore o minore armonico/melodico)
 

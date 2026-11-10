@@ -52,3 +52,5 @@ I sorgenti prevalgono sulla KB. Dopo cambiamenti rilevanti aggiornare evidenze e
 - [Correzioni pipeline musicale e ritaglio PDF](analisi/005-correzioni-pipeline-musicale.md) — implementazione, uso e verifiche.
 
 - [Audit dei file musicali non referenziati](analisi/006-file-non-referenziati.md) — elenchi MP3, PDF e LilyPond con evidenze.
+
+- [Completamento del percorso di teoria](analisi/007-completamento-teoria.md) — finale, modulazione e letture armoniche, 10 novembre 2026.
