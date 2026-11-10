@@ -82,3 +82,12 @@ Riferimenti per approfondire
 Le distinzioni analitiche dipendono anche dal repertorio: i criteri della
 sintassi tonale vanno confrontati con il comportamento concreto del jazz,
 del blues e dei passaggi modali, senza trasformarli in automatismi.
+
+Aggiungere la dimensione ritmica
+--------------------------------
+
+Rileggi questi percorsi con :doc:`12-ritmo-sviluppo`: identifica una
+cellula, i suoi accenti, le pause e i punti in cui il materiale torna.
+In un vamp confronta questa mappa con le sovrapposizioni di
+:doc:`10-armonia-non-funzionale`. Armonia e sviluppo della frase
+possono rafforzarsi oppure creare attese differenti.

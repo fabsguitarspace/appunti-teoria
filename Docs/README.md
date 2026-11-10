@@ -1,6 +1,6 @@
 # KB ARCHITECT — Appunti di Teoria
 
-Rilevazione locale: 8 novembre 2026. Questa KB descrive i sorgenti presenti; non certifica lo stato dei siti pubblicati.
+Aggiornamento: 10 novembre 2026. Questa KB descrive i sorgenti presenti; non certifica lo stato dei siti pubblicati.
 
 ## Modalità di lavoro
 
@@ -54,3 +54,7 @@ I sorgenti prevalgono sulla KB. Dopo cambiamenti rilevanti aggiornare evidenze e
 - [Audit dei file musicali non referenziati](analisi/006-file-non-referenziati.md) — elenchi MP3, PDF e LilyPond con evidenze.
 
 - [Completamento del percorso di teoria](analisi/007-completamento-teoria.md) — finale, modulazione e letture armoniche, 10 novembre 2026.
+
+- [Modern jazz, fusion e sviluppo ritmico](analisi/008-modern-jazz-fusion.md) — ampliamento armonico e nuovo percorso ritmico con spartiti/audio, 10 novembre 2026.
+
+Il nuovo capitolo `src/docs/12-ritmo-sviluppo.rst` precede le letture conclusive nell’indice.

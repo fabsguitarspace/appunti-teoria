@@ -17,5 +17,6 @@ Appunti di Teoria e Armonia per Chitarra Jazz
   8-armonia-diminuita
   9-modulazione
   10-armonia-non-funzionale
+  12-ritmo-sviluppo
 
   11-letture-armoniche
