@@ -252,9 +252,9 @@ Questo modello funziona perché:
 Sostituzione funzionale
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-.. important:
+.. important::
 
-   Gli accordi che hanno la stessa funzione possono essere sosituiti gli uni con gli altri.
+   Gli accordi che hanno la stessa funzione possono essere sostituiti gli uni con gli altri.
 
 Questa tecnica, detta **sostituzione funzionale**, non altera la qualità funzionale di un dato movimento di accordi. È anche detta **sostituzione primaria**.
 
@@ -518,7 +518,7 @@ Occasionalmente, possiamo trovare accordi che derivano da altre scale, come la m
 
 Com'è ormai noto, se suoniamo una scala maggiore partendo dal suo sesto grado, siamo nel modo eolio. 
 Questa scala, detta anche relativa minore, è la base delle tonalità minori ed eredita l'armatura di chiave dalla sua relativa maggiore. 
-È per questo che A minore è la “relativa” (in inglese, *relative* significa parente, ndt.) minore di C maggiore: entrambe usano le stesse note e prendono la stessa armatura di chiave, anche se da un punto di vista uditivo fanno chiaramente riferimento a diversi centri tonali. 
+È per questo che A minore è la “relativa” (dall'inglese *relative*, “parente”) minore di C maggiore: entrambe usano le stesse note e prendono la stessa armatura di chiave, anche se da un punto di vista uditivo fanno chiaramente riferimento a diversi centri tonali. 
 La tonalità parallela minore è invece quella che parte dalla stessa tonica della tonalità maggiore, ma con una diversa armatura di chiave.
 
 .. image:: 
@@ -723,7 +723,7 @@ Area della tonica minore:
 
 Area della sottodominante minore:
 
-- IIø (deriva dalla minore armonica)
+- IIø (già presente nella minore naturale e nella minore armonica)
 - IVm7 (eolio/dorico)
 - ♭VIΔ7
 - ♭VII7 (molto usato nel jazz/blues)

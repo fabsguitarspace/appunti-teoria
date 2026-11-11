@@ -312,7 +312,7 @@ La notazione tipica della sostituzione è di tritono è **SubV7**.
 Sostituti di tritono secondari
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Ogni centro tonale ha **sei sostituti di tritono**. Oltre al sostituto di tritono primario del I grado, avremo altri cinque **sostituti di tritono secondari**, che risolvono su II, III, IV, V7 e VI: sono il ♭II7, ♭III7, IV7, ♭VI7 e ♭VII7.
+Ogni centro tonale ha **sei sostituti di tritono**. Oltre al sostituto di tritono primario del I grado, avremo altri cinque **sostituti di tritono secondari**, che risolvono su II, III, IV, V7 e VI: sono il ♭III7, IV7, ♭V7, ♭VI7 e ♭VII7 (il ♭II7 è il sostituto primario, che risolve sul I).
 
 È da notare che quasi tutti questi accordi sono posti su gradi cromatici della tonalità e che risolvono discendendo.
 
@@ -332,7 +332,7 @@ Quando trovi un accordo dominante su uno spartito siglato con 7♯11 o 7♭5, sp
 
 Anche se la sigla dominante ♭5 è piuttosto comune ed usata spesso per indicare una sostituzione di tritono, la quinta dell'accordo non è stata alterata: è invece la quarta ad essere alzata di mezzo tono e a prendere così il posto della quinta nel voicing.
 
-Presta attenzione al fatto che l'undicesima eccedente è la **tonica dell'accordo sostitutivo**.
+Presta attenzione al fatto che l'undicesima eccedente è la **tonica dell'accordo sostituito**: in D♭7♯11 la ♯11 è Sol, fondamentale del G7 originale.
 
 Dominante funzionale e non funzionale
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

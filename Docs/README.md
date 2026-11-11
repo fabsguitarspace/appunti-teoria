@@ -1,6 +1,6 @@
 # KB ARCHITECT — Appunti di Teoria
 
-Aggiornamento: 10 novembre 2026. Questa KB descrive i sorgenti presenti; non certifica lo stato dei siti pubblicati.
+Aggiornamento: 11 novembre 2026. Questa KB descrive i sorgenti presenti; non certifica lo stato dei siti pubblicati.
 
 ## Modalità di lavoro
 
@@ -26,6 +26,9 @@ Il progetto fratello è `../appunti-pratica`. Teoria spiega strutture e relazion
 - `src/docs/8-armonia-diminuita.rst`: Armonia diminuita
 - `src/docs/9-modulazione.rst`: Modulazione
 - `src/docs/10-armonia-non-funzionale.rst`: Armonia non funzionale
+- `src/docs/12-ritmo-sviluppo.rst`: Ritmo e sviluppo del materiale
+- `src/docs/13-percorsi-autore.rst`: Ascoltare e analizzare i percorsi d’autore
+- `src/docs/11-letture-armoniche.rst`: Leggere un percorso armonico (capitolo conclusivo; nel toctree segue il 13)
 
 ## Gestione delle decisioni
 

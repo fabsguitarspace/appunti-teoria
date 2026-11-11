@@ -115,14 +115,14 @@ La triade non cambia identità… cambia solo “come si presenta”.
 
   - Basso: **E** (la terza)
   - Ordine: E – G – C
-  - Si può scrivere sia **C/E** (C con E al basso) sia **C/I**
+  - Si può scrivere **C/E** (C con E al basso); nella numerazione del basso continuo è l'accordo di **sesta** (6)
   - Il suono è già diverso… meno “radicato”, più fluido.
 
 - **Secondo rivolto**
 
   - Basso: G (la quinta)
   - Ordine: G – C – E
-  - Si può scrivere sia **C/G** (C con G al basso) sia **C/II**
+  - Si può scrivere **C/G** (C con G al basso); nella numerazione del basso continuo è l'accordo di **quarta e sesta** (6/4)
   - Qui il senso di stabilità si allenta ancora… spesso suona “in sospensione”.
 
 .. image:: 
@@ -286,8 +286,8 @@ Se pensi a un accordo come a un oggetto da posizionare, perdi il senso del prima
 Accordi di quattro note
 -----------------------
 
-L'aggiunta di una nota (una seconda o una terza sopra la quinta di unatriade) dà vita agli accordi di **sesta** o di **settima**, che sono accordi di quattro voci: i più utilizzati nella musica moderna. Queste strutture d i quattro suoni,
-contenuti all'interno di una sola ottava. Sono gli accordi più frequenti per l'improvvisazione Jazz. 
+L'aggiunta di una nota (una seconda o una terza sopra la quinta di una triade) dà vita agli accordi di **sesta** o di **settima**, che sono accordi di quattro voci: i più utilizzati nella musica moderna. Queste strutture di quattro suoni sono
+contenute all'interno di una sola ottava. Sono gli accordi più frequenti per l'improvvisazione Jazz. 
 
 Gli accordi che coprono più di un'ottava (none, undicesime e tredicesime) non sono altro che **estensioni** di questi accordi di base.
 
@@ -545,7 +545,7 @@ Le alterazioni sono modifiche *cromatiche* di tensioni diatoniche o di note dell
 .. list-table::
 
    * - C9
-     - 1 - ♭3 - 5 - ♭7 - 9
+     - 1 - 3 - 5 - ♭7 - 9
      - .. image:: _static/music/estensione-9.*
           :width: 200px
 
@@ -555,7 +555,7 @@ Le alterazioni sono modifiche *cromatiche* di tensioni diatoniche o di note dell
            <source src="_static/music/estensione-9.mp3" type="audio/mp3">
           </audio>
    * - C7#11
-     - 1 - ♭3 - 5 - ♭7 - ♯11
+     - 1 - 3 - 5 - ♭7 - ♯11
      - .. image:: _static/music/estensione-711.*
           :width: 200px
 
@@ -565,7 +565,7 @@ Le alterazioni sono modifiche *cromatiche* di tensioni diatoniche o di note dell
            <source src="_static/music/estensione-711.mp3" type="audio/mp3">
           </audio>
    * - C13
-     - 1 - ♭3 - 5 - ♭7 - 13
+     - 1 - 3 - 5 - ♭7 - 13
      - .. image:: _static/music/estensione-13.*
           :width: 200px
 
@@ -575,7 +575,7 @@ Le alterazioni sono modifiche *cromatiche* di tensioni diatoniche o di note dell
            <source src="_static/music/estensione-13.mp3" type="audio/mp3">
           </audio>
    * - C7♭9
-     - 1 - ♭3 - 5 - ♭7 - ♭9
+     - 1 - 3 - 5 - ♭7 - ♭9
      - .. image:: _static/music/estensione-7f9.*
           :width: 200px
 
@@ -585,7 +585,7 @@ Le alterazioni sono modifiche *cromatiche* di tensioni diatoniche o di note dell
            <source src="_static/music/estensione-7f9.mp3" type="audio/mp3">
           </audio>
    * - C7♯9
-     - 1 - ♭3 - 5 - ♭7 - ♯9
+     - 1 - 3 - 5 - ♭7 - ♯9
      - .. image:: _static/music/estensione-7s9.*
           :width: 200px
 
@@ -595,7 +595,7 @@ Le alterazioni sono modifiche *cromatiche* di tensioni diatoniche o di note dell
            <source src="_static/music/estensione-7s9.mp3" type="audio/mp3">
           </audio>
    * - C7♭13
-     - 1 - ♭3 - 5 - ♭7 - ♭13
+     - 1 - 3 - 5 - ♭7 - ♭13
      - .. image:: _static/music/estensione-7f13.*
           :width: 200px
 
@@ -616,7 +616,7 @@ Naturalmente, le tensioni possono essere combinate liberamente. Si ottengono son
 .. list-table::
 
    * - C7♭9♯11
-     - 1 - ♭3 - 5 - ♭7 - ♭9 - ♯11
+     - 1 - 3 - 5 - ♭7 - ♭9 - ♯11
      - .. image:: _static/music/estensione-7f9s11.*
           :width: 200px
 
@@ -626,7 +626,7 @@ Naturalmente, le tensioni possono essere combinate liberamente. Si ottengono son
            <source src="_static/music/estensione-7f9s11.mp3" type="audio/mp3">
           </audio>
    * - C7♯9♯11
-     - 1 - ♭3 - 5 - ♭7 - ♯9 - ♯11
+     - 1 - 3 - 5 - ♭7 - ♯9 - ♯11
      - .. image:: _static/music/estensione-7s9s11.*
           :width: 200px
 
@@ -636,7 +636,7 @@ Naturalmente, le tensioni possono essere combinate liberamente. Si ottengono son
            <source src="_static/music/estensione-7s9s11.mp3" type="audio/mp3">
           </audio>
    * - C7♭9♭13
-     - 1 - ♭3 - 5 - ♭7 - ♭9 - ♭13
+     - 1 - 3 - 5 - ♭7 - ♭9 - ♭13
      - .. image:: _static/music/estensione-7f9f13.*
           :width: 200px
 
@@ -646,7 +646,7 @@ Naturalmente, le tensioni possono essere combinate liberamente. Si ottengono son
            <source src="_static/music/estensione-7f9f13.mp3" type="audio/mp3">
           </audio>
    * - C7♯9♭13
-     - 1 - ♭3 - 5 - ♭7 - ♯9 - ♭13
+     - 1 - 3 - 5 - ♭7 - ♯9 - ♭13
      - .. image:: _static/music/estensione-7s9f13.*
           :width: 200px
 
@@ -656,7 +656,7 @@ Naturalmente, le tensioni possono essere combinate liberamente. Si ottengono son
            <source src="_static/music/estensione-7s9f13.mp3" type="audio/mp3">
           </audio>
    * - C9♭13
-     - 1 - ♭3 - 5 - ♭7 - 9 - ♭13
+     - 1 - 3 - 5 - ♭7 - 9 - ♭13
      - .. image:: _static/music/estensione-9f13.*
           :width: 200px
 
@@ -666,7 +666,7 @@ Naturalmente, le tensioni possono essere combinate liberamente. Si ottengono son
            <source src="_static/music/estensione-9f13.mp3" type="audio/mp3">
           </audio>
    * - C13♭9
-     - 1 - ♭3 - 5 - ♭7 - ♭9 - 13
+     - 1 - 3 - 5 - ♭7 - ♭9 - 13
      - .. image:: _static/music/estensione-13f9.*
           :width: 200px
 

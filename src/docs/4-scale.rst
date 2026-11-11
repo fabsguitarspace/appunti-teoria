@@ -497,7 +497,7 @@ In senso rigoroso è questa la forma della scala minore melodica. È comune trov
 - scala bachiana
 - scala jazz minor
 
-La scala è denominata *bachiana* in onore di Bach il quale l'ha utilizzata spesso nelle proprie composizioni in quanto egli aveva bisogno di una scala minore che avesse un suono invariato sia a salire che a scendere e che non risultasse "orientale" alle orecchie di chi la ascoltava.
+Il nome *bachiana* è un'etichetta didattica diffusa in Italia, che richiama l'uso della forma con sesta e settima maggiori anche nelle linee discendenti in molta musica barocca; non indica che la scala sia stata “inventata” da Bach.
 
 In tutto il materiale noi ci riferiremo con il nome di la scala minore melodica intendendo la scala identica sia in senso ascendente sia discendente.
 
@@ -533,7 +533,7 @@ Queste quattro scale non sono alternative teoriche, ma **quattro modi diversi di
 
 Nella musica reale, soprattutto quella viva, improvvisata o cantabile, il **minore non si presenta mai in forma pura**.
 
-Le tre versioni convivono, si sovrappongono, si contaminano. Non per confusione, ma per **necessità espressiva**.
+Le quattro versioni convivono, si sovrappongono, si contaminano. Non per confusione, ma per **necessità espressiva**.
 
 
 La musica:
@@ -620,7 +620,7 @@ Quindi hai contemporaneamente:
 
 Rispetto alla frigia è meno “statica” e più direzionale.
 
-Rispetto alla minore armonica pè iù scura all'inizio (per via della ♭2) ma con la stessa spinta a risolvere.
+Rispetto alla minore armonica è più scura all'inizio (per via della ♭2) ma con la stessa spinta a risolvere.
 
 Attenzione a come usarla (senza “usarla”)!
 
@@ -704,10 +704,10 @@ Non sono due oggetti diversi: è lo stesso fenomeno visto in due direzioni.
    :width: 80%
 
 
-Possimao notare come, in termini di "tonalità" ovvero della scala maggiore avente come tonica una determinata nota del cerchio, il circolo mostra che:
+Possiamo notare come, in termini di "tonalità" ovvero della scala maggiore avente come tonica una determinata nota del cerchio, il circolo mostra che:
 
 - salendo di quinte aggiungi un diesis alla scala
-- scendendo di quarte aggiungi un bemolle
+- salendo di quarte (cioè scendendo di quinte) aggiungi un bemolle
 
 Ma questa è solo la superficie.
 
@@ -971,7 +971,7 @@ Quindi, quando si usa il termine “modalità”, si intende prima di tutto i mo
 
 .. attention::
 
-   Vorrei però assicurarmi che questo non venga inteso in modo troppo restrittivo. 
+   Attenzione però a non intendere questa definizione in modo troppo restrittivo. 
    
    “Modalità” può descrivere qualunque combinazione concepibile di note: la scala pentatonica, la scala maggiore, i modi ecclesiastici, la scala cromatica, il principio dodecafonico, i raga indiani o praticamente qualunque cosa costruita con un certo numero di suoni. 
    
@@ -979,7 +979,7 @@ In sostanza, il termine “modo” implica in genere un sistema musicale autosuf
 
 Tutte le note, sia raggruppate in accordi sia in melodie, stabiliscono relazioni specifiche con la tonica, generando il colore e il carattere tipico e unico del modo.
 
-Nel jazz, oltre alle scale maggiore e minore naturale, troviamo un intero gruppo di scale che derivano (per nome e struttura) dagli antichi *modi ecclesiastici* greci e bizantini. 
+Nel jazz, oltre alle scale maggiore e minore naturale, troviamo un intero gruppo di scale che derivano (per nome e struttura) dai *modi ecclesiastici* medievali. I loro nomi (dorico, frigio, lidio…) furono presi in prestito dalla teoria greca antica, ma indicano scale diverse da quelle che i Greci chiamavano allo stesso modo. 
 
 La maggior parte delle persone, quando si imbatte per la prima volta nei modi ecclesiastici, li impara come “spostamenti” o permutazioni della scala maggiore. 
 
@@ -1180,7 +1180,7 @@ Modo misolidio riportato a Do:
 Eolio
 ~~~~~
 
-L'Eolio, la scala minore naturale, presenta terza, sesta e settima minori, creando un assetto più instabile e introspettivo. 
+L'Eolio, la scala minore naturale, presenta terza, sesta e settima minori, creando l'assetto minore più neutro e introspettivo: stabile, ma con poca spinta verso la tonica. 
 
 .. image:: 
    _static/music/a-eolio.*
@@ -1285,7 +1285,7 @@ Non c'è nulla di magico. C'è solo un centro che cambia.
 
    Questa frase è comoda, **ma è profondamente fuorviante.**
 
-Questo sposto l'attenzione:
+Questo sposta l'attenzione:
 
 - dalle **relazioni** alla *scelta*
 - dal **suono** al *permesso*
@@ -1417,7 +1417,7 @@ Non è teoria… è libertà percettiva. Se una nota per te è “solo quella”
       <source src="_static/music/scala-c-diminuita-hw.mp3" type="audio/mp3">
    </audio>
 
-La diminuita HW è anche detta scala **diminuita di dominante**, proprio contiente tutti i suoni dell'accordo di dominante e del suo sostituto di
+La diminuita HW è anche detta scala **diminuita di dominante**, proprio perché contiene tutti i suoni dell'accordo di dominante e del suo sostituto di
 tritono (concetto che vedremo più avanti).
 
 Lo notiamo meglio con un trattamento enarmonico:

@@ -95,14 +95,14 @@ Per questo motivo, nell'analisi jazzistica, riconoscere i centri tonali è molto
 Modulazione diretta
 ~~~~~~~~~~~~~~~~~~~~~
 
-Al cadenzare di una progressione sul centro tonale (risoluzione sul primo grado), si può modulare *direttamente* verso una nuova tonalità. La chiusura di una frase può rendere più netto il confine con la tonalità successiva. Il nuovo centro va comunque reso riconoscibile attraverso ciò che segue: la cadenza precedente, da sola, non garantisce la chiarezza del passaggio. Questa forma di modulazione è detta semplicemente **modulazione diretta**. Spesso la scelta della nuova tonalità segue modelli precisi, come seconde maggiori discendenti.
+Al cadenzare di una progressione sul centro tonale (risoluzione sul primo grado), si può modulare *direttamente* verso una nuova tonalità. La chiusura di una frase può rendere più netto il confine con la tonalità successiva. Il nuovo centro va comunque reso riconoscibile attraverso ciò che segue: la cadenza precedente, da sola, non garantisce la chiarezza del passaggio. Questa forma di modulazione è detta semplicemente **modulazione diretta**. Spesso la scelta della nuova tonalità segue modelli precisi, come le terze maggiori ascendenti:
 
 
 .. image:: 
    _static/music/modulazione-diretta1.*
    :width: 100%
 
-oppure per toni discendenti:
+oppure i toni discendenti:
 
 .. image:: 
    _static/music/modulazione-diretta2.*

@@ -194,8 +194,6 @@ Se devi scegliere su cosa lavorare, scegli sempre il ritmo. Il resto verrà dopo
 
 Perché la musica può sopravvivere a note semplici. Non sopravvive mai a un tempo che non respira.
 
-Perfetto. Questa è una delle sezioni più importanti del libro... quasi una chiave di lettura per tutto il resto. Andiamo con calma, senza tecnicismi inutili.
-
 Non scambiare la mappa per il territorio
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -347,7 +345,7 @@ La chiave dice:
 
  👉 questa linea rappresenta questa nota (ad esempio Sol, Fa, Do, ecc.)
 
-Sulla chitarra userai quasi sempre la **chiave di violino**.
+Sulla chitarra userai quasi sempre la **chiave di violino**. Attenzione: la chitarra è uno strumento traspositore all'ottava. Le note scritte suonano un'ottava più in basso, e per questo negli spartiti per chitarra trovi spesso un piccolo «8» sotto la chiave.
 
 La chiave di violino fissa il **Sol** su una linea precisa e, da lì, tutte le altre note si organizzano per gradi congiunti:
 

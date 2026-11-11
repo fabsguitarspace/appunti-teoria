@@ -207,7 +207,7 @@ Se ne riconosci il suono, hai già fatto metà del lavoro.
 
 **Tritono**
 
-- Abbreviazione: **♭5**, **d3** 
+- Abbreviazione: **♭5** / **d5** (quinta diminuita), **♯4** / **A4** (quarta aumentata)
 - Numero di semitoni: **6**
 - Massima ambiguità
 - Tensione strutturale
@@ -390,7 +390,7 @@ Intervalli minori:
 - Settima minore (m7)
 
 
-Se alziamo di un semitono gli intervalli maggiori e perfetti, essi prendo il nome di **aumentati**.
+Se alziamo di un semitono gli intervalli maggiori e perfetti, essi prendono il nome di **aumentati**.
 
 Se invece abbassiamo di un semitono gli intervalli minori o perfetti, essi prendono il nome di **diminuiti**.
 

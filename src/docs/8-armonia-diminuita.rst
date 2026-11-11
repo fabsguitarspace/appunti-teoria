@@ -79,11 +79,9 @@ Evoluzione storica degli accordi diminuiti
 
 Ti sarai forse accorto che gli accordi diminuiti sono tipici del repertorio standard degli anni ‘20 e ‘30. Se ti procuri gli spartiti originali di molti dei brani di quel periodo, troverai gli accordi diminuiti in tutte le applicazioni che abbiamo studiato e molte altre, alcune delle quali un po' meno efficaci.
 
-Negli ultimi anni, con la riscoperta del repertorio standard e l'espansione del repertorio jazz, gli accordi diminuiti sono tornati in auge. Molti musicisti li utilizzano regolarmente, sia per le funzioni di passaggio che per il colore, e spesso li inseriscono anche in contesti più moderni, come il jazz contemporaneo e la fusion.
+Durante gli anni ‘40 e ‘50, gli accordi diminuiti persero popolarità e vennero spesso riarmonizzati applicando il fenomeno armonico delle dominanti secondarie, come vedremo tra poco. Nel jazz del secondo Novecento li incontriamo quindi meno spesso nella loro funzione originale.
 
-Il metodo di Barry Harris, ad esempio, fa ampio uso degli accordi diminuiti per creare linee melodiche e armoniche interessanti.
-
-Durante gli anni ‘40 e ‘50, gli accordi diminuiti persero popolarità e vennero riarmonizzati applicando il fenomeno armonico delle dominanti secondarie. A partire dalla metà del secolo fino ad oggi, vediamo sempre meno accordi diminuiti usati in senso proprio. Alcuni musicisti Rock e Funk li hanno recentemente reintrodotti nel contesto di brani basati sulle triadi.
+Negli ultimi decenni, con la riscoperta del repertorio standard e la diffusione del metodo di Barry Harris, gli accordi diminuiti sono tornati in primo piano: molti musicisti li usano regolarmente, sia per le funzioni di passaggio sia per il colore, anche nel jazz contemporaneo, nella fusion e in alcuni brani rock e funk basati sulle triadi.
 
 
 Un accordo diminuito può essere riarmonizzato con un accordo di **dominante con la nona minore** (♭9), costruito una terza maggiore sotto la tonica del diminuito. In questo caso, l'accordo diminuito è la sovrastruttura di un accordo di dominante con la nona minore. Il risultato di questa riarmonizzazione dà una linea di basso più forte, con moto per ciclo invece che per grado congiunto.
