@@ -26,11 +26,15 @@ html_theme_options = {
     "nav_links": [
         {
             "title": "Appunti di Teoria",
-                "url": "index"
+            "url": "index"
         },
         {
             "title": "Appunti di Pratica",
-                "url": "https://appunti-pratica-per-chitarra-jazz.readthedocs.io"
+            "url": "https://appunti-pratica-per-chitarra-jazz.readthedocs.io"
+        },
+        {
+            "title": "Appunti di Repertorio",
+            "url": "https://appunti-di-repertorio-per-chitarra-jazz.readthedocs.io"
         },
         {
             "title": "Fabrizio's Guitar Space",
