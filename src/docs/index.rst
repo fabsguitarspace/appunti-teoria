@@ -2,7 +2,8 @@ Appunti di Teoria e Armonia per Chitarra Jazz
 =============================================
 
 
-.. image:: _static/logo.*
+.. image:: _static/logo-teoria.png
+   :alt: Logo degli Appunti di Teoria
 
 .. toctree::
   :maxdepth: 3
