@@ -4,7 +4,7 @@ Armonia cromatica
 Armonia diatonica vs cromatica
 ------------------------------
 
-Finora gli accordi sono nati dentro una scala: maggiore, minore naturale, armonica, melodica, dorica. Ogni accordo aveva un posto nella tonalità e una funzione: riposare, preparare, spingere.
+Finora gli accordi sono nati dentro una scala: maggiore, minore naturale, armonica, melodica, dorica. Ogni accordo aveva un posto nella tonalità e una funzione: riposare, preparare, spingere. Anche qui, quando un accordo viene associato a una scala, vale la :ref:`lettura a posteriori <lettura-a-posteriori>`: prima il suono, poi il nome.
 
 In questo capitolo entrano le note che la scala non contiene. Non servono a uscire dalla tonalità ma a muoversi dentro di essa con più direzione: una nota estranea crea un attrito, e l'attrito chiede una risoluzione precisa. Le forme più comuni sono cinque:
 

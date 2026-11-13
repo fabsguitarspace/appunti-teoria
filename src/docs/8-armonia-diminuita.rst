@@ -1,7 +1,7 @@
 Armonia diminuita
 =================
 
-Il diminuito è l'accordo più mobile della tonalità. Nella maggior parte dei casi non si ferma: sta su un grado cromatico e scivola di un semitono sull'accordo diatonico vicino. Per questo il suo ruolo più comune è quello di **accordo di passaggio**.
+Il diminuito è l'accordo più mobile della tonalità. Nella maggior parte dei casi non si ferma: sta su un grado cromatico e scivola di un semitono sull'accordo diatonico vicino. Per questo il suo ruolo più comune è quello di **accordo di passaggio**. Le scale dei diminuiti che incontrerai in questo capitolo vanno lette come nel capitolo precedente: descrivono il suono, non lo prescrivono (vedi :ref:`Lettura a posteriori <lettura-a-posteriori>`).
 
 Accordi e scale diminuite
 -------------------------

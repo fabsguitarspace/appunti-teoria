@@ -1,6 +1,14 @@
 Armonia funzionale
 ==================
 
+.. _lettura-a-posteriori:
+
+.. admonition:: Lettura a posteriori
+
+   Da qui in avanti incontrerai spesso frasi come «questo accordo viene dalla dorica» o «qui la minore armonica fornisce la dominante». Sono descrizioni, non istruzioni: dicono da quale insieme di note proviene un suono che hai già sentito, non che cosa devi suonare sopra un accordo.
+
+   Leggile sempre in quest'ordine. Prima ascolta l'accordo e la melodia, e chiediti quali note sono casa e quali tirano. Poi usa il nome della scala per ritrovare quelle note sulla tastiera e per collegarle ad altri brani. È la stessa scorciatoia descritta nel capitolo :doc:`4-scale`: utile per orientarsi, fuorviante se la scambi per una regola.
+
 Armonizzare la scala maggiore
 -----------------------------
 Accordi diatonici
