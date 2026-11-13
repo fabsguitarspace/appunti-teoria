@@ -1,6 +1,12 @@
 Scale
 ========
 
+.. admonition:: Prima di leggere
+
+   **Ascolta.** **So What**, Miles Davis, *Kind of Blue*. Il tema resta per sedici battute sullo stesso accordo, in Re dorico, poi sale di un semitono per otto battute e torna.
+
+   **Prova adesso.** Tieni un Re al basso e suona la scala di Do maggiore partendo dal Re. Poi abbassa il Si a Si♭: senti come cambia il colore quando sparisce la sesta maggiore.
+
 Scala cromatica
 ---------------
 
@@ -1462,6 +1468,10 @@ Il punto non è trattarle come nuovi mondi con nuove regole ma capire la loro fu
 - spiegano l'ambiguità in modo ordinato (non come “eccezione”)
 - ridimensionano l'ossessione delle 12 tonalità: qui la struttura è più importante della tonica
 - rendono naturale il passaggio tra tensioni e accordi che, in armonia tradizionale, richiederebbe mille giustificazioni
+
+.. admonition:: Cellula guida
+
+   In Do maggiore Mi–Sol–Si–Re sono il terzo, il quinto, il settimo e il secondo grado: tutte note della scala, ma nessuna è la tonica. In Re dorico le stesse note diventano nona, undicesima, tredicesima e fondamentale. Suona la cellula sopra un Do e poi sopra un Re tenuto al basso, e ascolta come cambia il peso di ogni nota.
 
 Verifica
 --------

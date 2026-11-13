@@ -1,6 +1,12 @@
 Armonia funzionale
 ==================
 
+.. admonition:: Prima di leggere
+
+   **Ascolta.** **Autumn Leaves**, in una versione a tua scelta (per esempio Cannonball Adderley con Miles Davis, *Somethin' Else*). Lo stesso giro passa da un II–V–I maggiore a uno minore.
+
+   **Prova adesso.** Mentre ascolti, canta la nota che senti come casa. Segna i punti in cui smette di esserlo: sono i passaggi fra le due aree del brano.
+
 .. _lettura-a-posteriori:
 
 .. admonition:: Lettura a posteriori
@@ -817,6 +823,10 @@ frasi concrete: il Fa che è terza di Dm7 e diventa settima di G7
 (:ref:`autore-christian`), il diminuito costruito sulla terza della dominante
 che risolve su un minore sesta (:ref:`autore-django`), l'area minore del II
 prolungata sul V (:ref:`autore-martino`).
+
+.. admonition:: Cellula guida
+
+   In Do maggiore Em7 è il IIIm7, un accordo dell'area di tonica: per questo può prendere il posto di Cmaj7 senza cambiare funzione, come nella cadenza d'inganno. Ascolta G7 → Cmaj7 e poi G7 → Em7: la cellula resta la stessa, cambia il basso.
 
 Verifica
 --------

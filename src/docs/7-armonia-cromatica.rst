@@ -1,6 +1,12 @@
 Armonia cromatica
 =================
 
+.. admonition:: Prima di leggere
+
+   **Ascolta.** **Take the A Train**, Duke Ellington Orchestra. Nella terza battuta del tema compare un accordo che non sta nella tonalità.
+
+   **Prova adesso.** Suona C e poi D7, cantando il Fa♯ di D7 e facendolo salire al Sol di G7. Quel semitono è il cuore della dominante secondaria.
+
 Armonia diatonica vs cromatica
 ------------------------------
 

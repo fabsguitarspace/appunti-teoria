@@ -1,6 +1,12 @@
 Prima ancora delle note
 =======================
 
+.. admonition:: Prima di leggere
+
+   **Ascolta.** **So What**, Miles Davis, *Kind of Blue* (1959). Prima del tema, contrabbasso e pianoforte dialogano a tempo libero; poi entra la pulsazione.
+
+   **Prova adesso.** Batti il piede mentre ascolti il tema e prova a sentire dove cade il peso di ogni frase del contrabbasso. Non contare: cammina.
+
 La musica non è lineare
 -----------------------
 

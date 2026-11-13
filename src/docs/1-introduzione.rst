@@ -160,6 +160,11 @@ Quando senti che stai leggendo per evitare di suonare, chiudilo senza sensi di c
 
 La chitarra ti sta già aspettando.
 
+Una cellula da seguire
+~~~~~~~~~~~~~~~~~~~~~~
+
+In entrambi i volumi torna spesso lo stesso gruppo di quattro note: **Mi–Sol–Si–Re**. Lo incontrerai come successione di intervalli, come parte di una scala, come accordo, come estensione di un altro accordo, come frase e come cellula ritmica. Le note non cambiano; cambia il contesto, e con lui il loro significato. Seguire questa cellula da un capitolo all'altro è un modo concreto per sentire che la teoria descrive relazioni, non oggetti isolati. I riquadri «Cellula guida» ti segnalano dove ritrovarla.
+
 La teoria al suo posto
 ----------------------
 

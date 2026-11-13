@@ -1,6 +1,12 @@
 Intervalli
 ==========
 
+.. admonition:: Prima di leggere
+
+   **Ascolta.** **Over the Rainbow** (la prima nota sale di un'ottava) e **Maria** da *West Side Story* (le prime due note formano un tritono, che poi sale di semitono).
+
+   **Prova adesso.** Canta le prime due note di ciascuna melodia, poi cercale sulla chitarra partendo da un Do. Senti come l'ottava arriva e il tritono chiede di proseguire.
+
 Il vero linguaggio segreto
 --------------------------
 
@@ -445,6 +451,10 @@ Se senti che qualcosa resta in sospeso, che l'aria non si chiude… non è sugge
    Se alleni l'orecchio a queste polarità, i nomi verranno da soli. E se non verranno... non è un problema.
    
    La musica non chiede etichette. Chiede relazioni.
+
+.. admonition:: Cellula guida
+
+   Mi–Sol–Si–Re è una catena di terze: Mi–Sol terza minore, Sol–Si terza maggiore, Si–Re terza minore. Fra Mi e Re c'è una settima minore. Canta la cellula lentamente e nomina ogni intervallo prima di passare al successivo.
 
 Verifica
 --------

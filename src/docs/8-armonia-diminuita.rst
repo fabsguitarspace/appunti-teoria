@@ -1,6 +1,12 @@
 Armonia diminuita
 =================
 
+.. admonition:: Prima di leggere
+
+   **Ascolta.** **Stella by Starlight**, in una versione a tua scelta. Le prime due battute, E∅ e A7, nascono dalla riarmonizzazione di un diminuito.
+
+   **Prova adesso.** Alterna C6 e D°7 sulle quattro corde alte, un accordo per battito. Ascolta come il diminuito spinge e il C6 riposa senza bisogno di un V7.
+
 Il diminuito è l'accordo più mobile della tonalità. Nella maggior parte dei casi non si ferma: sta su un grado cromatico e scivola di un semitono sull'accordo diatonico vicino. Per questo il suo ruolo più comune è quello di **accordo di passaggio**. Le scale dei diminuiti che incontrerai in questo capitolo vanno lette come nel capitolo precedente: descrivono il suono, non lo prescrivono (vedi :ref:`Lettura a posteriori <lettura-a-posteriori>`).
 
 Accordi e scale diminuite

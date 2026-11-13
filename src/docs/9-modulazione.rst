@@ -1,6 +1,12 @@
 Modulazione
 =============
 
+.. admonition:: Prima di leggere
+
+   **Ascolta.** **Giant Steps**, John Coltrane (1960). Tre centri tonali si alternano a distanza di terza maggiore: Si, Sol, Mi♭.
+
+   **Prova adesso.** Canta la tonica di Do e suona D7 → G, poi E7 → Am. Dopo quale coppia la nota che canti smette di essere casa?
+
 Nei capitoli precedenti abbiamo osservato soprattutto movimenti armonici riferiti a un centro tonale, comprese tonicizzazioni di altri gradi.
 Ma la musica può anche spostarsi da una tonalità a un'altra, creando nuovi punti di gravità armonica e aprendo colori completamente diversi.
 

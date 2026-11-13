@@ -1,6 +1,12 @@
 Accordi
 =======
 
+.. admonition:: Prima di leggere
+
+   **Ascolta.** **Peace Piece**, Bill Evans, *Everybody Digs Bill Evans* (1958). Per tutto il brano la mano sinistra ripete due accordi sopra un Do al basso.
+
+   **Prova adesso.** Suona Cmaj7 e lascialo suonare. Poi togli la settima, poi la terza: ascolta che cosa resta dell'accordo a ogni nota che togli.
+
 Triadi
 ------
 
@@ -754,6 +760,10 @@ Un G7 può essere una dominante classica, una sospensione modale, un colore blue
 
 Per questo leggere un accordo come un oggetto isolato è sempre riduttivo.
 Un accordo è sempre un evento in un contesto.
+
+.. admonition:: Cellula guida
+
+   Suonate insieme, Mi–Sol–Si–Re formano Em7. Sopra un Do al basso diventano invece terza, quinta, settima e nona: Cmaj9 senza fondamentale. È la stessa idea delle strutture superiori che ritroverai nel capitolo :doc:`10-armonia-non-funzionale`.
 
 Verifica
 --------

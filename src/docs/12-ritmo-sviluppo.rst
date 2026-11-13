@@ -1,6 +1,12 @@
 Ritmo e sviluppo del materiale
 ==============================
 
+.. admonition:: Prima di leggere
+
+   **Ascolta.** **Take Five**, Dave Brubeck Quartet, *Time Out* (1959). Il brano è in 5/4, con i cinque movimenti raggruppati 3 + 2.
+
+   **Prova adesso.** Batti le mani sul primo e sul quarto movimento mentre ascolti il pianoforte. Quando la mano trova da sola il punto, prova a contare a voce.
+
 Una frase si riconosce anche senza armonia: attacchi, durate, pause,
 accenti e ripetizioni costruiscono aspettative. Gli strumenti di questo
 capitolo completano :doc:`10-armonia-non-funzionale` e aiutano a capire

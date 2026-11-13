@@ -1,6 +1,12 @@
 Armonia non funzionale
 ========================
 
+.. admonition:: Prima di leggere
+
+   **Ascolta.** **Maiden Voyage**, Herbie Hancock (1965). Accordi sospesi che si spostano senza mai risolvere come una dominante.
+
+   **Prova adesso.** Suona un C7sus4 lungo, poi un C7. Senti come la quarta sospesa toglie urgenza all'accordo: non chiede di andare a Fa.
+
 Finora abbiamo spesso riconosciuto un accordo dalla sua direzione:
 prepara, tende, risolve. Ma la musica può organizzare gli accordi anche
 attraverso un centro modale, un basso fermo, note comuni o movimenti
