@@ -1297,6 +1297,19 @@ Il risultato è che il chitarrista:
 - perde il flusso
 - smette di ascoltare
 
+.. admonition:: La scorciatoia e il suo prezzo
+
+   Questo non rende inutile l'abbinamento fra scala e accordo. Per orientarsi
+   sulla tastiera è comodo: ti dice dove stanno le note dell'accordo e quelle
+   che ci passano in mezzo. Lo incontrerai anche in questi appunti, soprattutto
+   in quelli di Pratica.
+
+   Il prezzo arriva quando lo scambi per una risposta. Sette note messe sullo
+   stesso piano non ti dicono quale è casa, quale tira e verso dove. Per questo,
+   ogni volta che trovi una scala accanto a un accordo, prima suona le note una
+   alla volta sopra l'accordo e ascolta che cosa fanno. Dopo, la scala ti
+   servirà a ritrovarle in fretta.
+
 I modi non sono una risposta alla domanda “che scala uso?”. Sono una descrizione di cosa sta succedendo quando la musica non si muove come tonalità classica.
 
 Un modo non si applica. Un modo emerge. Emerge quando:

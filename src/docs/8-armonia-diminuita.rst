@@ -54,7 +54,7 @@ CΔ — C°7 — CΔ
 
 G7 — G°7 — G7
 
-In questo contesto, la scala diminuita simmetrica funziona bene. Prova ad utilizzarla su primo e quinto grado, quando di durata considerevole.
+In questo contesto, la scala diminuita simmetrica funziona bene, perché contiene le quattro note del diminuito. Prova a sentirla su primo e quinto grado, quando di durata considerevole, tornando ogni volta a una nota dell'accordo di partenza.
 
 Ritardo di risoluzione
 ~~~~~~~~~~~~~~~~~~~~~~

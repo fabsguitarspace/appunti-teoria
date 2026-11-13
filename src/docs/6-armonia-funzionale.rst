@@ -495,7 +495,7 @@ Tonalità minore: un sistema non stabile
 Il minore non è una tonalità, è una famiglia
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Abbiamo visto come la scala maggiore produca i suoi accordi e modi diatonici. Anche la scala minore genera strutture e corrispondenti relazioni armoniche, pur differenziandosi nel numero di possibilità a disposizione: il che, ad un primo esame, potrebbe generare confusione. Non esiste solo una scala minore da cui estrarre tutti gli accordi che costituiscono la tonalità minore, ma ce n'è una primaria: dobbiamo quindi capire come utilizzare le scale appropriate rispetto ai diversi accordi che possiamo incontrare nei brani in minore.
+Abbiamo visto come la scala maggiore produca i suoi accordi e modi diatonici. Anche la scala minore genera strutture e corrispondenti relazioni armoniche, pur differenziandosi nel numero di possibilità a disposizione: il che, ad un primo esame, potrebbe generare confusione. Non esiste solo una scala minore da cui estrarre tutti gli accordi che costituiscono la tonalità minore, ma ce n'è una primaria: dobbiamo quindi capire da quale scala proviene ciascuno degli accordi che possiamo incontrare nei brani in minore.
 
 A differenza del maggiore, il mondo minore **non ha una sola scala di riferimento**.
 Non esiste “la” scala minore che organizza tutto in modo coerente e definitivo.
@@ -739,9 +739,9 @@ L'accordo di tonica in tonalità minore si trova spesso espresso come triade anc
 
 La triade è considerata più stabile di un Im7, in quanto la settima ha la tendenza a muoversi. La triade minore è considerata sufficientemente complessa armonicamente da bilanciare la sonorità creata dagli accordi di settima.
 
-Dato che il suono della triade è in qualche modo ambiguo, possiamo assegnarle più di una scala. I musicisti la riarmonizzano spesso con accordi non generati dalla scala minore naturale: quando in uno spartito vediamo invece Im6, molto probabilmente indica l'uso della minore melodica.
+Dato che il suono della triade è in qualche modo ambiguo, può convivere con più di una scala. I musicisti la riarmonizzano spesso con accordi non generati dalla scala minore naturale: quando in uno spartito vediamo invece Im6, molto probabilmente indica l'uso della minore melodica.
 
-Nei brani Jazz in particolare, il Im7 prende spesso la scala dorica. Se il Im7 dura due o più misure ed il pezzo è firmato da un compositore Jazz, c'è una buona possibilità che la scala usata sia dorica. L'accordo dorico permette l'uso melodico della sesta maggiore. Se il brano è uno standard ed il Im7 dura una misura o meno, probabilmente la scala è la minore naturale. A causa di tale ambiguità, la teoria armonica che assegna alla tonalità minore unicamente la scala del Im7 spesso non funziona.
+Nei brani Jazz in particolare, sul Im7 si sente spesso la sesta maggiore, cioè il colore dorico. Se il Im7 dura due o più misure ed il pezzo è firmato da un compositore Jazz, c'è una buona possibilità che la sesta sia maggiore. Se il brano è uno standard ed il Im7 dura una misura o meno, probabilmente la sesta resta minore, come nella minore naturale. A causa di tale ambiguità, la teoria armonica che assegna alla tonalità minore unicamente la scala del Im7 spesso non funziona.
 
 Se armonizzi la scala minore naturale, ottieni un sistema povero di tensione dominante. La sensibile non c'è, la spinta verso la tonica è debole. L'orecchio sente un centro, ma non viene “convinto” come nel maggiore.
 
