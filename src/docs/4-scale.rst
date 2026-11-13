@@ -170,9 +170,7 @@ V. massima direzionalità
 VI. area di ambiguità
 VII. (sensibile) attrazione inevitabile verso la tonica
 
-La scala maggiore **non è un esercizio e non è una diteggiatura**.
-
-È una **struttura percettiva** che l'orecchio riconosce come “casa”.
+La scala maggiore è una **struttura percettiva** che l'orecchio riconosce come “casa”.
 
 Suonarla su e giù non significa usarla. Usarla significa **sentire il peso di ogni grado**.
 
@@ -187,7 +185,7 @@ La tonica è una sensazione di ritorno, di casa, di conferma. Non ha bisogno di 
 
 Quando suoni pensando alla tonica come a un obiettivo implicito, anche le note lontane diventano comprensibili. Quando la perdi, tutto diventa piatto, anche se stai “nella scala”.
 
-Per questo la scala maggiore non è un esercizio. È una mappa di attrazioni e repulsioni.
+Per questo la scala maggiore è una mappa di attrazioni e repulsioni.
 
 Se la studi come un disegno sulla tastiera, la memorizzi. Se la ascolti come un sistema di forze, la usi.
 
