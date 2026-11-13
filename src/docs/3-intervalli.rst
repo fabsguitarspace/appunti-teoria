@@ -342,6 +342,8 @@ Per questo la settima maggiore non è mai neutra. Anche quando è suonata piano,
 
 **Ottava**
 
+- Abbreviazione: **8**, **P8** 
+- Numero di semitoni: **12**
 - Ritorno
 - Conferma
 - Riaffermazione del centro
