@@ -69,7 +69,9 @@ Quando diventa una checklist da applicare in tempo reale, smette di essere utile
 
 Questi appunti non ti diranno “su questo accordo suona questa scala”.
 
-Non perché sia falso in senso assoluto, ma perché è fuorviante in senso musicale. La musica non funziona per permessi, funziona per relazioni, direzioni, tensioni, gravità. E tutto questo si sente molto prima di poterlo spiegare. Quando una scala comparirà accanto a un accordo, sarà per orientarsi sulla tastiera, mai per decidere che cosa suonare.
+Non perché sia falso in senso assoluto, ma perché è fuorviante in senso musicale. La musica non funziona per permessi, funziona per relazioni, direzioni, tensioni, gravità. E tutto questo si sente molto prima di poterlo spiegare.
+
+Le scale accanto agli accordi le incontrerai comunque, qui e nel volume di Pratica. Servono a orientarsi sulla tastiera... non a decidere che cosa suonare.
 
 L'obiettivo qui non è fornirti risposte pronte, ma farti le *domande giuste*.
 

@@ -1299,16 +1299,17 @@ Il risultato è che il chitarrista:
 
 .. admonition:: La scorciatoia e il suo prezzo
 
-   Questo non rende inutile l'abbinamento fra scala e accordo. Per orientarsi
-   sulla tastiera è comodo: ti dice dove stanno le note dell'accordo e quelle
-   che ci passano in mezzo. Lo incontrerai anche in questi appunti, soprattutto
-   in quelli di Pratica.
+   Detto questo... l'abbinamento fra scala e accordo non è da buttare.
 
-   Il prezzo arriva quando lo scambi per una risposta. Sette note messe sullo
-   stesso piano non ti dicono quale è casa, quale tira e verso dove. Per questo,
-   ogni volta che trovi una scala accanto a un accordo, prima suona le note una
-   alla volta sopra l'accordo e ascolta che cosa fanno. Dopo, la scala ti
-   servirà a ritrovarle in fretta.
+   È una scorciatoia. E le scorciatoie servono: ti dice in fretta dove stanno, sulla tastiera, le note dell'accordo e quelle che ci passano in mezzo. La troverai anche in questi appunti, soprattutto in quelli di Pratica.
+
+   Il prezzo lo paghi quando la scambi per una risposta.
+
+   Una scala mette sette note sullo stesso piano. Non ti dice quale è casa, quale tira, e verso dove.
+
+   Quindi l'ordine è questo: prima suoni quelle note una alla volta sopra l'accordo e ascolti che cosa fanno. Poi usi la scala per ritrovarle.
+
+   Prima il suono. Poi la scorciatoia.
 
 I modi non sono una risposta alla domanda “che scala uso?”. Sono una descrizione di cosa sta succedendo quando la musica non si muove come tonalità classica.
 
