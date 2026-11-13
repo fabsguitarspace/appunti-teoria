@@ -4,17 +4,11 @@ Armonia cromatica
 Armonia diatonica vs cromatica
 ------------------------------
 
-Fino ad ora, ci siamo occupati di armonia diatonica: accordi e scale derivati dalle tonalità maggiori e minori. 
+Finora gli accordi sono nati dentro una scala: maggiore, minore naturale, armonica, melodica, dorica. Ogni accordo aveva un posto nella tonalità e una funzione: riposare, preparare, spingere.
 
-Abbiamo analizzato gli accordi con particolare attenzione alla loro funzione armonica (tonica, dominante, sottodominante e tonica minore, dominante minore e sottodominante minore) e alle loro tendenze risolutive rispetto al centro tonale.
+In questo capitolo entrano le note che la scala non contiene. Non servono a uscire dalla tonalità ma a muoversi dentro di essa con più direzione: una nota estranea crea un attrito, e l'attrito chiede una risoluzione precisa. Le forme più comuni sono cinque:
 
-La categoria di funzioni accordali che studieremo in questo capitolo è quella dell'**armonia cromatica**: accordi e scale costruiti utilizzando note cromatiche rispetto alla tonalità.
-
-La forte dissonanza armonica di queste strutture con il centro tonale crea modelli di movimento e risoluzione ben definiti.
-
-Le funzioni armoniche dei suoni cromatici sono:
-
-- dominanti estese e secondarie
+- dominanti secondarie ed estese
 - sostituzione di tritono
 - interscambio modale
 - sottodominante minore
@@ -23,13 +17,9 @@ Le funzioni armoniche dei suoni cromatici sono:
 Movimento di dominante
 ----------------------
 
-Il primo e più comune tipo di armonia cromatica che esamineremo è il **movimento di dominante**. Possiamo creare a nostra scelta un accordo di dominante (escluso il V7 della tonalità) che risolva con una funzione di dominante su **un qualsiasi altro accordo**.
+Qualsiasi accordo può avere la sua dominante. Basta costruire un accordo di settima di dominante una quinta sopra il bersaglio e farlo risolvere per ciclo, cioè con il basso che scende di quinta (o sale di quarta).
 
-La risoluzione di dominante è rappresentata da un accordo con qualità di dominante (che contiene un intervallo di tritono fra la terza e la settima minore) che si muove per ciclo (**la sua tonica discende di una quinta o ascende di una quarta**) verso qualsiasi altro accordo.
-
-L'accordo di dominante **deve contenere il tritono**, ma può anche avere altri gradi alterati. 
-
-La terza dell'accordo di dominante si chiama **sensibile**: in una cadenza di dominante la **sensibile risolve ascendendo per semitono sulla tonica dell'accordo di arrivo**.
+Ciò che rende dominante un accordo è il **tritono** fra terza e settima minore; le altre note possono anche essere alterate. Ascolta in particolare la terza: è la **sensibile** del bersaglio, e risolve salendo di semitono sulla sua fondamentale. In D7 → G il Fa♯ sale al Sol; in E♭7 → A♭m7 il Sol sale al La♭.
 
 .. image:: 
    _static/music/risoluzione-dominante1.*
@@ -54,13 +44,9 @@ La terza dell'accordo di dominante si chiama **sensibile**: in una cadenza di do
 Dominanti estese e secondarie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Se escludiamo la cadenza della dominante principale (V – I) che abbiamo già visto, ci sono altri due tipi di funzione di dominante. 
+Escluso il V7 della tonalità, una dominante può portare in due direzioni diverse.
 
-Uno è quello delle **dominanti estese**, l'altro è quello delle **dominanti secondarie**. 
-
-La differenza sostanziale fra queste due funzioni è data da come esse si presentano rispetto al centro tonale.
-
-Un accordo di **dominante secondaria risolve su un accordo diatonico**, e viene percepito **nel contesto della tonalità**.
+Se risolve su un **accordo diatonico**, è una **dominante secondaria**: fa da lente d'ingrandimento su un accordo della tonalità, e l'orecchio continua a sentire il centro di partenza. In Do maggiore B7 → Em7 illumina il IIIm7 senza far dimenticare il Do.
 
 .. image:: 
    _static/music/dominanti-secondarie.*
@@ -103,9 +89,7 @@ Quindi contiene almeno una nota “estranea” ma è perfettamente funzionale.
 
 La notazione V7/x serve proprio a spiegare perché quella nota estranea ha senso.
 
-Un accordo di **dominante estesa risolve invece su un accordo cromatico** (di solito un altro accordo di dominante), ed il suo suono non è percepito come chiaramente tonale. 
-
-Di solito si tende a percepire le dominanti estese come una sequenza priva di un centro tonale ben definito.
+Se invece la dominante risolve su un **altro accordo cromatico**, di solito un'altra dominante, si parla di **dominante estesa**. Nell'esempio B7 non va a Em7 ma a E7: la risoluzione resta sospesa, e una catena di dominanti estese allenta la presa del centro tonale.
 
 .. image:: 
    _static/music/dominanti-estese.*
@@ -120,9 +104,7 @@ Di solito si tende a percepire le dominanti estese come una sequenza priva di un
 Dominanti in caduta
 ~~~~~~~~~~~~~~~~~~~
 
-Se creassimo una serie di dominanti secondarie che risolvano l'una sull'altra, toccheremmo tutte e dodici le tonalità attraverso il ciclo delle quinte.
-
-Questo tipo di comportamento si trova, anche parziale, in molti brani e prende il nome di **dominanti in caduta**.
+Collega più dominanti, ognuna sulla fondamentale della successiva, e il basso scende per quinte attraverso il circolo: in teoria fino a toccare tutte e dodici le tonalità. In pratica i brani ne usano un tratto, tre o quattro anelli, e questo procedimento si chiama **dominanti in caduta**.
 
 .. image:: 
    _static/music/caduta-dominanti.*
@@ -144,9 +126,7 @@ Molti ponti (*bridge*) e molte sezioni B di standard sono costruiti proprio cos�
 Cinque dominanti secondarie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-La risoluzione di dominante principale è costituita dalla cadenza V7 – I. Le dominanti secondarie risolvono sugli altri sei accordi diatonici: IIm7, IIIm7, IVΔ7, V7, VIm7 e VII∅.
-
-Poiché la dominante del VII∅ è tecnicamente possibile ma usata raramente, abbiamo cinque nuovi importanti accordi da imparare nella tonalità.
+Il V7 della tonalità risolve sul I. Ognuno degli altri accordi diatonici può avere la propria dominante: IIm7, IIIm7, IVΔ7, V7, VIm7 e VIIø. La dominante del VIIø si usa poco, quindi le dominanti secondarie da conoscere sono cinque. In Do: A7 → Dm7, B7 → Em7, C7 → FΔ7, D7 → G7, E7 → Am7.
 
 .. image:: 
    _static/music/dominanti-secondarie-5.*
@@ -158,9 +138,7 @@ Poiché la dominante del VII∅ è tecnicamente possibile ma usata raramente, ab
       <source src="_static/music/dominanti-secondarie-5.mp3" type="audio/mp3">
    </audio>
 
-Vediamo alcune progressioni comunissime. 
-
-La prima è una variante della I VI II V, dove al posto di VIm7 mettiamo VI7 ovvero la dominante secondaria V7/II:
+Le trovi soprattutto dentro giri che conosci già. Nel primo esempio il VIm7 del giro I–VI–II–V diventa A7, la dominante del II:
 
 .. image:: 
    _static/music/progressione-dom-secondarie1.*
@@ -172,7 +150,7 @@ La prima è una variante della I VI II V, dove al posto di VIm7 mettiamo VI7 ovv
       <source src="_static/music/progressione-dom-secondarie1.mp3" type="audio/mp3">
    </audio>
 
-Ulteriore variante è di sostituire anche l'accordo IIm7 con la dominante secondaria V7/V:
+Nel secondo diventa dominante anche il II, D7 che va a G7: una catena di tre dominanti prima del ritorno.
 
 .. image:: 
    _static/music/progressione-dom-secondarie2.*
@@ -184,48 +162,25 @@ Ulteriore variante è di sostituire anche l'accordo IIm7 con la dominante second
       <source src="_static/music/progressione-dom-secondarie2.mp3" type="audio/mp3">
    </audio>
 
-Può capitare che la dominante secondaria non si riferisca all'accordo successivo ma a quello ancora dopo. 
-È tipico quando l'accordo di risoluzione è un V7 preceduto da un IIm7. Ne troviamo un esempio nel brano "Take the A Train":
+A volte la dominante secondaria non va direttamente al suo bersaglio: fra i due si inserisce il IIm7. Succede soprattutto quando il bersaglio è il V7, preceduto dal suo II. Nell'esempio, la progressione di «Take the A Train», D7 arriva a G7 passando per Dm7.
 
-.. image:: 
-   _static/music/progressione-dom-secondarie3.*
-   :width: 100%
-
-.. raw:: html
-
-   <audio controls class="audio-controls">
-      <source src="_static/music/progressione-dom-secondarie3.mp3" type="audio/mp3">
-   </audio>
-
-Dato che il II7 è un accordo cromatico, nel trattarlo è abbastanza comune usare una risoluzione indiretta: si fa ciò per poterlo porre su una misura o parte di una misura debole, attivandola.
-
-Il IIm7 viene interposto fra la dominante secondaria e la sua risoluzione.
-
-Gli accordi di dominante si trovano di solito sulle misure deboli, per attivarle ed incrementare la spinta in avanti.
+Il D7 occupa la battuta, poi il Dm7 cambia una sola nota (il Fa♯ scende a Fa) e prepara il G7. La dominante secondaria resta riconoscibile anche se la sua risoluzione arriva con un accordo di ritardo, e mette in movimento una parte della forma che altrimenti sarebbe ferma.
 
 Modulazioni?
 ~~~~~~~~~~~~
 
-Queste funzioni di dominante, sia estese che secondarie, **non sono propriamente delle modulazioni**. Anche se, ad un primo sguardo, prendono in prestito scale ed accordi da altre tonalità, il loro suono viene percepito nell'ottica della tonalità d'impianto.
+Una dominante secondaria introduce note di un'altra tonalità, ma questo non basta a cambiare centro. Ascolta che cosa succede dopo: se la musica torna subito a Do, l'accordo cromatico ha soltanto acceso per un momento un altro grado. È proprio per questo che possiamo analizzarlo con i numeri romani della tonalità di partenza, V7/II, V7/VI e così via.
 
-Le dominanti secondarie, in special modo, funzionano nel contesto della tonalità. L'analisi in numeri romani è un'ulteriore indicazione che le percepiamo come relative ad un dato centro tonale.
-
-Al verificarsi di una vera modulazione, analizzeremmo e sentiremmo l'armonia dal punto di vista del nuovo centro tonale. Talvolta ci si riferisce a questi movimenti secondari con il termine di “tonalità del momento” o “micro” modulazioni.
-
-Il concetto di base da tener ben presente è che le dominanti secondarie appartengono alla tonalità d'impianto e suonano in essa.
+Quando invece il nuovo centro si conferma e dura, l'analisi cambia riferimento: è una modulazione, e se ne occupa :doc:`9-modulazione`. Fra i due estremi c'è una zona grigia, a volte chiamata «tonalità del momento»: decide l'orecchio, non la sigla.
 
 IIm7 introduttivi
 ~~~~~~~~~~~~~~~~~
 
-Ogni tipologia di accordo di dominante può essere introdotta dal relativo IIm7 per creare un movimento di II – V. L'accordo aggiuntivo è minore e la sua tonica di riferimento si trova una quarta sotto l'accordo di dominante.
+Davanti a qualsiasi dominante puoi mettere il suo IIm7, una quinta sopra, e ottenere un II–V verso lo stesso bersaglio. In genere il IIm7 prende il tempo forte e la dominante quello debole, e il ritmo armonico raddoppia.
 
-Il IIm7 è posizionato sulla parte forte della misura, mentre l'accordo di dominante viene spostato su quella debole.
+Nell'analisi però il protagonista resta il V7: è la sua risoluzione a dire dove sta andando la frase. Il IIm7 è un ospite, che rende il movimento più ricco senza cambiarne la direzione.
 
-L'accordo aggiuntivo dà vita ad un ritmo armonico più complesso. La funzione essenziale del IIm7 è solo quella di creare il modello di II – V, mentre l'accordo più importante è sempre quello di dominante (il V7).
-
-Quando analizzi un brano, determina sempre la direzione del V7: il IIm7 è solo un “ospite”.
-
-Si possono anche creare delle progressioni in cui gli accordi di dominante risolvono direttamente sul IIm7 introduttivo.
+Una catena di II–V può anche risolvere ogni dominante direttamente sul II successivo, invece che sul suo I: C7 non va a Fa maggiore ma a Fm7, che apre un nuovo II–V un tono sotto.
 
 .. image:: 
    _static/music/risoluzione-diretta.*
@@ -240,11 +195,9 @@ Si possono anche creare delle progressioni in cui gli accordi di dominante risol
 II-V secondari
 ~~~~~~~~~~~~~~
 
-Se il IIm7 che introduce una dominante secondaria è diatonico ad una tonalità (IIIm7 o VIm7), è considerato un accordo con **doppia funzione**.
+Quando il IIm7 che introduce la dominante secondaria è già un accordo della tonalità (IIIm7 o VIm7), quell'accordo fa due lavori insieme: è un grado diatonico e il II di un II–V locale. Si indica con **II–V/x**.
 
-In questo caso possiamo etichettare la sequenza con: **II-V/x**
-
-Le funzioni minori diatoniche (IIm7, IIIm7, VIm7) sono spesso precedute dalla **cadenza minore** IIø – V7 piuttosto che da IIm7 – V7, quest'ultima più adatta per accordi di arrivo con qualità maggiore.
+Se il bersaglio è un accordo minore (IIm7, IIIm7, VIm7) il II–V che lo prepara prende spesso la forma minore, IIø – V7, mentre IIm7 – V7 si usa soprattutto verso accordi maggiori. Nell'esempio F♯ø – B7 → Em7 e Bø – E7 → Am7.
 
 .. image:: 
    _static/music/II-V-secondarie-5.*
@@ -314,7 +267,7 @@ Sostituti di tritono secondari
 
 Ogni centro tonale ha **sei sostituti di tritono**. Oltre al sostituto di tritono primario del I grado, avremo altri cinque **sostituti di tritono secondari**, che risolvono su II, III, IV, V7 e VI: sono il ♭III7, IV7, ♭V7, ♭VI7 e ♭VII7 (il ♭II7 è il sostituto primario, che risolve sul I).
 
-È da notare che quasi tutti questi accordi sono posti su gradi cromatici della tonalità e che risolvono discendendo.
+Quasi tutti stanno su gradi cromatici della tonalità e risolvono scendendo di semitono: il basso si muove per gradi invece che per quinte.
 
 Possiamo etichettare questi sostituti di tritono secondari come: **SubV/x**
 
@@ -328,11 +281,9 @@ Possiamo etichettare questi sostituti di tritono secondari come: **SubV/x**
       <source src="_static/music/sostituti-tritono-secondari.mp3" type="audio/mp3">
    </audio>
 
-Quando trovi un accordo dominante su uno spartito siglato con 7♯11 o 7♭5, spesso si tratta di un accordo con funzione di sostituzione di tritono, enarmonicamente, ♭5 e #11 sono equivalenti.
+Sugli spartiti un sostituto di tritono è spesso siglato 7♯11 o 7♭5, due modi di scrivere lo stesso suono. La grafia ♯11 descrive meglio quello che accade: la quinta dell'accordo non è alterata, ma la quarta alzata ne prende il posto nel voicing.
 
-Anche se la sigla dominante ♭5 è piuttosto comune ed usata spesso per indicare una sostituzione di tritono, la quinta dell'accordo non è stata alterata: è invece la quarta ad essere alzata di mezzo tono e a prendere così il posto della quinta nel voicing.
-
-Presta attenzione al fatto che l'undicesima eccedente è la **tonica dell'accordo sostituito**: in D♭7♯11 la ♯11 è Sol, fondamentale del G7 originale.
+E quella ♯11 non è una nota qualsiasi: in D♭7♯11 è Sol, la fondamentale del G7 sostituito. Il sostituto porta con sé la memoria dell'accordo originale.
 
 Dominante funzionale e non funzionale
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -378,21 +329,13 @@ La sigla è identica. La sensazione è diversa.
 Interscambio modale
 -------------------
 
-Un'altra forma comune di armonia cromatica è l'**interscambio modale**. Il termine si riferisce ad accordi derivati da un modo (scala) nel contesto di un altro modo parallelo.
-
-Teoricamente si può prendere qualsiasi accordo da un determinato modo ed inserirlo arbitrariamente in un qualsiasi altro modo che cominci con la stessa tonica (posto che suoni bene).
-
-L'uso più comune di questa tecnica è comunque quello di inserire accordi presi dalla **tonalità minore nella sua parallela maggiore**.
-
-Il termine **parallelo** si riferisce a modi che partono dalla stessa nota.
+L'**interscambio modale** prende in prestito accordi da un modo **parallelo**, cioè con la stessa tonica. In teoria qualunque modo può prestare accordi a qualunque altro; nella pratica il prestito più comune va dal minore al maggiore: in una canzone in Do maggiore compaiono accordi di Do minore.
 
 .. important::
 
-   L'interscambio modale è l'uso degli accordi di un modo nel contesto di un altro modo parallelo.
+   L'interscambio modale usa gli accordi di un modo nel contesto di un altro modo con la stessa tonica.
 
-Questo concetto crea una sorta di centro tonale dotato di **modi misti**, in cui sono presenti armonie minori e maggiori. 
-
-Di solito la tonalità maggiore rappresenta il centro tonale principale, con alcuni accordi presi in prestito dalla parallela minore. Occasionalmente avviene il contrario.
+Il risultato è un centro tonale a colori misti: Do resta casa, ma alcune stanze sono in ombra. Più raramente il prestito va nell'altra direzione, con accordi maggiori dentro un brano in minore.
 
 .. image:: 
    _static/music/interscambio-modale.*
@@ -408,32 +351,11 @@ Di solito la tonalità maggiore rappresenta il centro tonale principale, con alc
 Funzione di sottodominante minore
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Molti accordi di interscambio modale hanno anche una funzione armonica che abbiamo definito di sottodominante minore.
+Fra gli accordi presi dal minore, alcuni hanno una funzione precisa: la **sottodominante minore**. Al normale movimento di sottodominante, il Fa che scende al Mi (4 → 3), aggiungono un secondo movimento, il La♭ che scende al Sol (♭6 → 5).
 
-La funzione di sottodominante minore è caratterizzata dall'uso della risoluzione ♭6 → 5 (nella tonalità), insieme alla risoluzione convenzionale di sottodominante 4 → 3.
+È quella sesta minore a dare il carattere: un ritorno a Do che passa per un'ombra. Questi accordi possono cadenzare sul I della tonalità maggiore oppure andare verso altri accordi, come il V o il IIIm.
 
-Questi accordi possono essere usati per cadenzare sul primo grado della tonalità maggiore, come sostituti della tonica stessa o di altri accordi diatonici.
-
-Sonorità comune a tutti gli accordi con funzione di sottodominante minore è la risoluzione ♭6 → 5.
-
-
-.. image:: 
-   _static/music/risoluzione-sottodominante-minore.*
-   :width: 100%
-
-.. raw:: html
-
-   <audio controls class="audio-controls">
-      <source src="_static/music/risoluzione-sottodominante-minore.mp3" type="audio/mp3">
-   </audio>
-
-I seguenti cinque accordi svolgono una funzione di sottodominante minore. Contengono tutti la sesta minore della tonalità. 
-
-Possono risolvere sul primo grado o su qualsiasi altro accordo diatonico come il V o il IIIm.
-
-Talvolta questi accordi vengono usati in combinazione o abbinati ad altri modelli di cadenza. 
-
-È importante usare un buon voice leading per creare un movimento il più morbido possibile.
+In Do maggiore sono cinque, e contengono tutti La♭: Fm7, B♭7, A♭Δ7, Dø e D♭Δ7. Puoi combinarli fra loro o farli precedere da altre cadenze; conta che il La♭ si muova con la minima distanza possibile verso il Sol.
 
 .. image:: 
    _static/music/accordi-sottodominante-minore.*
@@ -458,12 +380,12 @@ E infatti:
 Dominante minore 
 ^^^^^^^^^^^^^^^^
 
-È anche possibile avere un accordo con funzione di **dominante minore** (V7♭9) che risolva su un primo grado maggiore per mezzo di una risoluzione ♭6 → 5. Tutti questi accordi fanno parte della categoria delle cadenze di sottodominante minore.
+Anche una dominante può fare questo lavoro. G7♭9 porta in sé il La♭ (la nona minore) che scende al Sol della tonica: è una **dominante minore** in un contesto maggiore, e il suo ritorno ha il colore della sottodominante minore.
 
 Interscambio modale ma non sottodominante minore
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Solo gli accordi contenenti la sesta minore della tonalità hanno la funzione di sottodominante minore. Ecco alcuni accordi di interscambio modale che non sono sottodominanti minori.
+Non tutti gli accordi presi dal minore hanno questa funzione: solo quelli che contengono la sesta minore della tonalità. Cm7, Cm6, E♭Δ7, Gm7 e B♭Δ7 sono prestiti dal minore, ma senza La♭ non producono il movimento ♭6 → 5.
 
 .. image:: 
    _static/music/accordi-interscambio-non-sottodominante.*
@@ -478,18 +400,9 @@ Solo gli accordi contenenti la sesta minore della tonalità hanno la funzione di
 Cadenze di sottodominante minore
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Analizzando il repertorio degli standard, possiamo isolare tre importanti cadenze di sottodominante minore che risolvono sull'accordo di tonica o sulle sostituzioni di quest'ultimo come IIIm7 e VIm7. 
+Nel repertorio degli standard tre cadenze di sottodominante minore tornano di continuo, verso la tonica o verso i suoi sostituti IIIm7 e VIm7. Vale la pena saperle riconoscere a orecchio.
 
-Queste cadenze sono d'uso comune, perciò è importante essere in grado di riconoscerle al volo.
-
-La cadenza IVm7 – ♭VII7 – I (backdoor)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Il modello IVm7 – ♭VII7 – I è la prima cadenza di sottodominante minore che osserveremo. 
-
-Essa può essere usata per risolvere direttamente sul primo grado oppure prima o dopo una cadenza di dominante convenzionale.
-
-Fai caso al fatto che gli accordi sono in relazione di II–V, ma non implicano una cadenza di dominante.
+La prima è **IVm7 – ♭VII7 – I**. Può arrivare direttamente al I oppure comparire prima o dopo una cadenza di dominante. Fm7 – B♭7 ha la forma di un II–V, ma il B♭7 non è la dominante di Do: è un accordo di sottodominante minore che arriva al I da un'altra porta.
 
 Qui c'è una cosa molto sottile ma fondamentale:
 
@@ -506,16 +419,14 @@ Qui c'è una cosa molto sottile ma fondamentale:
       <source src="_static/music/backdoor.mp3" type="audio/mp3">
    </audio>
 
-Sebbene questo possa essere etichettato come una risoluzione ingannevole (*deceptive*), suggerendo un caso particolare, in realtà è di gran lunga l'alternativa più comune.
-
-È così ben radicata come uno dei modelli cadenzali fondamentali che ha un nome proprio ed è frequentemente chiamata **cadenza “backdoor”** (o *backdoor progression*), perché torna alla tonica e risolve dal basso anziché dall'alto.
+Si potrebbe considerarla una risoluzione d'inganno di un II–V verso Mi♭, ma nei brani è così frequente da avere un nome suo: **cadenza backdoor**, la «porta sul retro», perché la tonica arriva dal basso, da B♭7 un tono sotto, invece che dalla dominante.
 
 Ed è per questo che ha quel sapore così diverso… più morbido, più “soul”, meno dichiarato.
 
 La cadenza II∅ – V7♭9 – I
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Questa cadenza non è altro che una **cadenza minore nel contesto di una tonalità maggiore**; presta attenzione al fatto che non soltanto è di dominante, ma contiene anche il movimento ♭6 – 5, caratteristico della funzione di sottodominante minore.
+È una **cadenza minore dentro una tonalità maggiore**. Funziona da dominante, ma la nona minore del G7♭9 e la quinta diminuita del Dø portano il La♭, e con lui il movimento ♭6 → 5 della sottodominante minore.
 
 .. image:: 
    _static/music/cadenza-minore-maggiore.*
@@ -531,13 +442,9 @@ Questa cadenza non è altro che una **cadenza minore nel contesto di una tonalit
 La cadenza ♭VIΔ7 – ♭IIΔ7 – I
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Anche questa è abbastanza comune e consiste di due accordi di settima maggiore che si muovono per ciclo, il secondo dei quali risolve discendendo di un semitono sull'accordo di tonica.
+Due accordi di settima maggiore che si muovono per ciclo, A♭Δ7 → D♭Δ7, e il secondo che scivola di un semitono sulla tonica. Spesso la catena comincia una quarta sotto, da E♭Δ7: ♭IIIΔ7 – ♭VIΔ7 – ♭IIΔ7 – I.
 
-Questi accordi sono spesso preceduti da uno di settima maggiore, posto una quarta giusta sotto il primo (♭IIIΔ7 – ♭VIΔ7 – ♭IIΔ7 – I).
-
-Talvolta questa cadenza non risolve direttamente, ma è seguita da una cadenza di dominante convenzionale per andare all'accordo di tonica (un esempio è “Here's That Rainy Day”).
-
-Dato che impiega tutti accordi di settima maggiore che si muovono per ciclo, viene spesso usata nelle modulazioni poiché è simile al movimento IΔ7 – IVΔ7.
+Non sempre la cadenza arriva subito al I: a volte prosegue con una cadenza di dominante prima di chiudere, come in «Here's That Rainy Day». E poiché è fatta di accordi di settima maggiore in movimento per ciclo, simile a IΔ7 – IVΔ7, si presta bene anche alle modulazioni.
 
 .. image:: 
    _static/music/cadenza-maggiore7.*

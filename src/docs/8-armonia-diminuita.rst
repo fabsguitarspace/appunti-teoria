@@ -1,19 +1,19 @@
 Armonia diminuita
 =================
 
-Un'altra forma di armonia cromatica è costituita dal movimento e dalla conseguente risoluzione degli **accordi diminuiti**. Poiché questi risolvono su accordi-target muovendosi di mezzo tono, la loro funzione è quella di accordi diminuiti di passaggio. Solitamente sono posti sui gradi cromatici della tonalità e risolvono sugli accordi diatonici adiacenti.
+Il diminuito è l'accordo più mobile della tonalità. Nella maggior parte dei casi non si ferma: sta su un grado cromatico e scivola di un semitono sull'accordo diatonico vicino. Per questo il suo ruolo più comune è quello di **accordo di passaggio**.
 
 Accordi e scale diminuite
 -------------------------
 
-Gli accordi di settima diminuita sono fortemente instabili perché contengono (verificalo) **due tritoni**: le triadi diminuite ne contengono solo uno. Hanno una forte tendenza a muoversi e creano sempre attività tonale.
+Un accordo di settima diminuita contiene **due tritoni** (in C°7: Do–Sol♭ e Mi♭–La); la triade diminuita ne ha uno solo. Con due tensioni di quel tipo dentro, l'accordo non trova mai un punto di riposo: chiede sempre di muoversi.
 
-Le scale diminuite sono costituite da otto note e variano a seconda della loro relazione con la tonalità (come le dominanti secondarie). Contengono la settima diminuita (enarmonica della sesta maggiore) e l'ottava diminuita (enarmonica della settima maggiore). La maggior parte dei musicisti tende a scrivere le scale diminuite nella maniera più semplice, usando gli equivalenti enarmonici.
+Ogni diminuito di passaggio si può completare con le note della tonalità che lo circonda, ottenendo una scala di otto suoni. Le note del diminuito cambiano a seconda della posizione nella tonalità, come succede per le dominanti secondarie; per comodità di lettura molti musicisti le scrivono con l'enarmonico più semplice.
 
 Funzione di accordi diminuiti di passaggio
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Sebbene storicamente gli accordi diminuiti siano stati utilizzati per armonizzare, anche liberamente, quasi ogni movimento armonico possibile, sono affiorati alcuni movimenti specifici che possono essere uditi e identificati come **funzioni di passaggio** degli accordi diminuiti. Queste funzioni sono:
+In passato il diminuito è servito ad armonizzare quasi ogni collegamento possibile. Con il tempo però alcuni movimenti si sono imposti, e oggi li riconosci all'ascolto come **funzioni di passaggio**:
 
 #. ♯I°7 - IIm7 
 #. ♯II°7 - IIIm7 
@@ -21,47 +21,36 @@ Sebbene storicamente gli accordi diminuiti siano stati utilizzati per armonizzar
 #. ♯V°7 - VIm7
 #. ♭III°7 - IIm7
 
-Abbiamo **cinque movimenti specifici**: 
+Sono **cinque movimenti**: quattro salgono di semitono, uno scende. I diminuiti con il diesis (♯I°7, ♯II°7, ♯IV°7, ♯V°7) salgono sul grado successivo; quello con il bemolle (♭III°7) scende sul II. Nei casi ♯II°7 e ♯IV°7 l'arrivo può essere anche un rivolto della tonica: D♯°7 → C/E e F♯°7 → C/G.
 
-- quattro ascendenti per semitono
-- uno discendente, anch'esso per semitono. 
-
-Gli accordi indicati con il diesis (♯I°7, ♯II°7, ♯IV°7 e ♯V°7) si muovono salendo, mentre quello indicato con il bemolle (♭III°7) è l'unico a scendere. Per essere considerato tale, un accordo diminuito di passaggio deve risolvere muovendosi di mezzo tono su uno dei cinque modelli sopraindicati. Fai attenzione al fatto che il ♯II°7 ed il ♯IV°7 possono anche risolvere su un rivolto dell'accordo di tonica.
-
-Un'ulteriore considerazione su questi accordi è che essi prendono scale relative alla tonalità, come gli accordi di dominante secondaria. Tendono a provenire da (e a risolvere su) accordi diatonici, per cui vengono percepiti nel contesto della tonalità. Le scale si ottengono “completando” i Chord Tone dei diminuiti con le restanti note diatoniche.
-
-Pensare in modo tonale facilita non solo la costruzione delle scale, ma permette di capire il movimento cromatico specifico di ciascuna scala-accordo in relazione alla tonalità: i diesis tendono a salire ed i bemolli a scendere.
+Come le dominanti secondarie, questi accordi vengono da un accordo della tonalità e ci tornano, quindi l'orecchio li sente dentro il centro di partenza. Anche la loro scala si costruisce così: alle quattro note del diminuito aggiungi le note della tonalità che mancano. La grafia ti dice già dove andranno le voci: le note con il diesis tendono a salire, quelle con il bemolle a scendere.
 
 Toniche degli accordi diminuiti
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Ogni accordo diminuito può avere **quattro toniche diverse**. Dato che l'accordo è costituito da terze minori equidistanti, ogni membro dell'accordo può esserlo. Nota che, nell'esempio seguente, ogni accordo contiene le stesse note.
+Le quattro note di un diminuito sono a distanza di terza minore l'una dall'altra, quindi ognuna può fare da fondamentale: C°7, E♭°7, F♯°7 e A°7 contengono le stesse note.
 
 C°7 — E♭°7 — F#°7 — A°7
 
-Quando analizzi un brano, considera tutte e quattro le toniche per capire se l'accordo corrisponde ad uno dei cinque modelli, risolvendo cioè sul target muovendosi di mezzo tono.
+Quando ne incontri uno in un brano, prova tutte e quattro le possibili fondamentali: quella giusta è quella che sale o scende di un semitono sull'accordo successivo.
 
 La funzione diminuita di colore
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Col tempo ed espandendo il tuo repertorio, ti renderai conto che in molti casi gli accordi diminuiti non svolgono una funzione di passaggio: possono ad esempio essere sovrastrutture di accordi di dominante con la nona minore, oppure svolgere una funzione di colore.
+Non tutti i diminuiti sono di passaggio. Alcuni sono la parte alta di una dominante con nona minore (ci torniamo fra poco); altri servono soltanto a dare colore.
 
-L'accordo diminuito di “colore” si trova di solito sul primo o sul quinto grado della tonalità. Le toniche di questi accordi non si muovono cromaticamente come per la funzione di passaggio, ma sono le stesse degli accordi di risoluzione.
-
-Il diminuito di colore serve per creare movimento ed interesse armonico all'interno di un primo o di un quinto grado che dura sufficientemente a lungo, alterandone momentaneamente la struttura, per poi ritornare all'accordo originale. Ciò crea un senso di movimento e di attività in situazioni armoniche altrimenti statiche.
+Il **diminuito di colore** si trova di solito sul I o sul V e ha la stessa fondamentale dell'accordo che lo circonda: non si sposta di semitono, si appoggia sopra. Quando un I o un V durano a lungo, il diminuito altera per un momento la loro struttura e poi ritorna all'accordo di partenza, mettendo in movimento una zona che altrimenti resterebbe ferma.
 
 CΔ — C°7 — CΔ
 
 G7 — G°7 — G7
 
-In questo contesto, la scala diminuita simmetrica funziona bene, perché contiene le quattro note del diminuito. Prova a sentirla su primo e quinto grado, quando di durata considerevole, tornando ogni volta a una nota dell'accordo di partenza.
+Qui la scala diminuita simmetrica funziona bene, perché contiene le quattro note del diminuito. Ascoltala sul I e sul V quando durano più battute, tornando ogni volta a una nota dell'accordo di partenza.
 
 Ritardo di risoluzione
 ~~~~~~~~~~~~~~~~~~~~~~
 
-Nel modello II-V, uno degli espedienti preferiti dai musicisti è quello di ritardare l'apparizione dell'accordo di tonica, inserendo un I°7 prima del primo grado. 
-
-Osserva l'esempio seguente e prova ad applicarne l'effetto ai brani, nel modello II-V-I, per aggiungere “colore”:
+Un modo classico di colorare un II–V–I è far aspettare la tonica: dopo il V7 arriva prima il I°7, poi il I. Ascolta nell'esempio come le voci del C°7 scivolano su quelle di CΔ7:
 
 .. image:: 
    _static/music/ritardo-risoluzione.*
@@ -77,36 +66,33 @@ Osserva l'esempio seguente e prova ad applicarne l'effetto ai brani, nel modello
 Evoluzione storica degli accordi diminuiti
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Ti sarai forse accorto che gli accordi diminuiti sono tipici del repertorio standard degli anni ‘20 e ‘30. Se ti procuri gli spartiti originali di molti dei brani di quel periodo, troverai gli accordi diminuiti in tutte le applicazioni che abbiamo studiato e molte altre, alcune delle quali un po' meno efficaci.
+Gli accordi diminuiti sono tipici delle canzoni degli anni '20 e '30. Negli spartiti originali di quel periodo li trovi in tutte le funzioni viste finora e in molte altre, non sempre altrettanto efficaci.
 
 Durante gli anni ‘40 e ‘50, gli accordi diminuiti persero popolarità e vennero spesso riarmonizzati applicando il fenomeno armonico delle dominanti secondarie, come vedremo tra poco. Nel jazz del secondo Novecento li incontriamo quindi meno spesso nella loro funzione originale.
 
 Negli ultimi decenni, con la riscoperta del repertorio standard e la diffusione del metodo di Barry Harris, gli accordi diminuiti sono tornati in primo piano: molti musicisti li usano regolarmente, sia per le funzioni di passaggio sia per il colore, anche nel jazz contemporaneo, nella fusion e in alcuni brani rock e funk basati sulle triadi.
 
 
-Un accordo diminuito può essere riarmonizzato con un accordo di **dominante con la nona minore** (♭9), costruito una terza maggiore sotto la tonica del diminuito. In questo caso, l'accordo diminuito è la sovrastruttura di un accordo di dominante con la nona minore. Il risultato di questa riarmonizzazione dà una linea di basso più forte, con moto per ciclo invece che per grado congiunto.
+Un diminuito si può riarmonizzare con una **dominante con nona minore** costruita una terza maggiore sotto la sua fondamentale: le quattro note del diminuito sono la parte alta di quella dominante. C♯°7 diventa così A7♭9, e il basso, invece di salire di semitono, scende di quinta verso il bersaglio.
 
 C#°7 — Dm7 → riarmonizzato in A7♭9 — Dm7
 
-Questo espediente era particolarmente amato dai musicisti degli anni ‘40 e ‘50, che aggiungevano un II-V a cambi d'accordo standard. Una volta sostituito l'accordo diminuito con l'accordo di dominante ♭9, possiamo far introdurre quest'ultimo dal suo II∅, creando così un II∅ – V7♭9. L'uso di due accordi che si muovono per ciclo, al posto di un accordo che si muove cromaticamente, dà luogo ad un'armonia molto più attiva, caratteristica dell'era Bebop.
+I musicisti degli anni '40 e '50 facevano spesso un passo in più: davanti alla nuova dominante mettevano il suo IIø. Due accordi che si muovono per ciclo al posto di un passaggio cromatico: l'armonia diventa più attiva, ed è uno dei tratti del linguaggio bebop.
 
 C#°7 — Dm7 → riarmonizzato in E∅ A7♭9 — Dm7
 
-
-Osserva come la riarmonizzazione in questione implichi l'uso di un V7♭9 e di conseguenza del suo II∅. Non è altro che il nostro ormai familiare II-V minore. 
-
-**Regola di sostituzione**: gli accordi diminuiti ascendenti possono essere sostituiti da un modello II∅ – V7♭9 minore che risolva sullo stesso accordo target.
+E∅ – A7♭9 è il II–V minore che conosci già. Ne ricaviamo una regola: **un diminuito ascendente si può sostituire con un II∅ – V7♭9 che risolve sullo stesso bersaglio**.
 
 Riarmonizzazione del ♭III°7
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Applicando le riarmonizzazioni agli accordi diminuiti ascendenti, è facile vedere come l'accordo di risoluzione sia lo stesso. D'altro canto, dato che il ♭III°7 risolve sul IIm7, è meno facile capire il funzionamento della riarmonizzazione. In questo caso la risoluzione risultante non è di dominante, ma cromatica, e implica un movimento delle voci interne: l'accordo di dominante risolve ascendendo di una terza minore.
+Con i diminuiti ascendenti il bersaglio resta lo stesso. Con il ♭III°7, che scende sul IIm7, il meccanismo è meno evidente: la dominante che lo sostituisce non va al bersaglio per ciclo ma sale di una terza minore, e il collegamento si regge sul movimento delle voci interne.
 
 ♭III°7 - IIm7 diventa ♯IV∅ VII7♭9 - IIm7 
 
 E♭°7 - Dm7 diventa F♯∅ B7♭9 — Dm7
 
-Osserva le prime due misure di “Stella by Starlight”. I due accordi, ormai comunemente in uso, non sono altro che la riarmonizzazione del ♭III°7.
+Le prime due battute di «Stella by Starlight», nella tonalità di Si♭, sono esattamente questa riarmonizzazione: E∅ – A7♭9 al posto di D♭°7, prima di Cm7.
 
 Il metodo di Barry Harris
 -------------------------

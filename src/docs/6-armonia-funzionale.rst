@@ -33,12 +33,11 @@ Parti da ogni grado della scala maggiore e aggiungi:
 
 usando solo note della scala.
 
-Tutte le scale maggiori hanno la stessa struttura per cui gli accordi diatonici possono essere analizzati con **numeri romani** che identificano la loro qualità e posizione rispetto al centro tonale.
-In questo modo è anche possibile analizzare **qualsiasi accordo**, diatonico o cromatico, riferendoci sempre alla tonalità.
+Poiché tutte le scale maggiori hanno la stessa struttura, gli accordi che ne ricavi si indicano con **numeri romani**: il numero dice su quale grado nasce l'accordo, la sigla accanto ne precisa la qualità. Dm7 in Do e Gm7 in Fa sono così lo stesso oggetto, IIm7. Con lo stesso sistema puoi leggere rispetto al centro anche un accordo cromatico.
 
 .. important::
 
-   Memorizza i sette accordi diatonici con i rispettivi numeri romani e impara a riconoscere ogni possibile variazione cromatica.
+   Prima di andare avanti, suona i sette accordi in ordine sopra un Do tenuto al basso. Ascolta quali sembrano già a casa e quali chiedono di muoversi: la tabella che segue darà un nome a ciò che hai sentito.
 
 Triadi diatoniche
 ^^^^^^^^^^^^^^^^^
@@ -308,22 +307,12 @@ In altre parole: l'area tonale nasce quando cambia la gerarchia, non quando camb
 Cadenze
 -------
 
-Il movimento di un accordo di non-tonica verso il primo grado della tonalità è detto **cadenza**. 
-
-Possiamo avere cadenze di dominante e di sottodominante.
-
-Vedremo in seguito che esistono anche cadenze cromatiche, ma in questa sede considereremo solo quelle diatoniche.
+Chiamiamo **cadenza** il movimento che riporta al primo grado. Il modo in cui ci arriva cambia il carattere del ritorno: dalla dominante l'arrivo è deciso, dalla sottodominante è più morbido. Qui restiamo fra gli accordi della tonalità; le cadenze cromatiche arrivano nel capitolo successivo.
 
 Cadenze di dominante
 ~~~~~~~~~~~~~~~~~~~~
 
-La cadenza di dominante è particolarmente forte e si realizza a partire dal
-movimento di un accordo, avente funzione di dominante, verso il primo grado
-della tonalità: V7 - I o VII∅ - I.
-
-La cadenza VII∅ - I viene usata raramente, quindi la cadenza fondamentale che useremo sarà V7 - I, peraltro molto
-familiare all'orecchio. In musica classica viene definita **cadenza perfetta**.
-È anche conosciuta come cadenza principale e rappresenta il movimento armonico più importante nella tonalità.
+Il V7 che va al I è il ritorno più netto che una tonalità conosca. Lo stesso lavoro può farlo il VIIø, ma accade di rado: in pratica la cadenza di dominante è **V7 – I**. La tradizione classica la chiama **cadenza perfetta**; nel jazz chiude quasi ogni frase.
 
 .. image:: 
    _static/music/cadenza-perfetta.*
@@ -335,34 +324,16 @@ familiare all'orecchio. In musica classica viene definita **cadenza perfetta**.
       <source src="_static/music/cadenza-perfetta.mp3" type="audio/mp3">
    </audio>
 
-È da sottolineare che, in una cadenza di dominante, il settimo ed il quarto
-grado della tonalità risolvono muovendosi, di mezzo tono, sulla tonica e sulla
-terza dell'accordo di tonica. 
-
-Inoltre, dal quinto grado al primo le fondamentali scendono di una quinta giusta (o salgono di una quarta). 
-
-Questa progressione è detta **movimento per ciclo**, perché le toniche seguono lo stesso modello del circolo delle quinte. 
+Ascoltala nelle voci, non solo nelle sigle. In G7 → C il Si sale di un semitono al Do e il Fa scende di un semitono al Mi: i due gradi instabili della tonalità, VII e IV, si appoggiano su tonica e terza. Intanto il basso scende di quinta, da Sol a Do, lo stesso passo del circolo delle quinte. Nel linguaggio jazz questo movimento delle fondamentali si chiama **movimento per ciclo**.
 
 Cadenze di sottodominante
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Le cadenze di sottodominante sono il movimento degli accordi di sottodominante verso la tonica della tonalità. 
+Senza la sensibile il ritorno è più dolce. Nella cadenza di sottodominante arriva al I un accordo che contiene il IV grado ma non il VII: il Fa scende al Mi, e nessuna voce deve salire dal Si al Do.
 
-Sono:
+I casi diatonici sono **IIm7 → IΔ7** e **IVΔ7 → IΔ7**. Due accordi presi da fuori si comportano allo stesso modo: **♭VIIΔ7 → IΔ7** e **V7sus4 → IΔ7**. Nel sus4 la quarta prende proprio il posto della sensibile, ed è per questo che un accordo costruito sul V suona qui come una sottodominante.
 
-  - IIm7 I
-  - IVΔ7 I
-  
-Altre cadenze comuni di sottodominante sono:
-
-  - ♭VIIΔ7 I
-  - V7sus4 I
-  
-Gli accordi ♭VIIΔ7 o V7sus4, anche se non sono esattamente dei tipici accordi diatonici, hanno una funzione di sottodominante. 
-
-Tutte queste cadenze fanno risolvere il quarto grado della tonalità sulla terza dell'accordo di tonica, senza l'uso della settima della tonalità. 
-
-In musica classica, questa cadenza è definita **plagale**.
+La tradizione classica chiama questo ritorno **cadenza plagale**. Negli esempi che seguono ascolta il Fa che scende al Mi.
 
 .. image:: 
    _static/music/cadenza-plagale1.*
@@ -407,11 +378,7 @@ In musica classica, questa cadenza è definita **plagale**.
 Cadenza d'inganno
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Un accordo V7 crea un'aspettativa di risoluzione verso il I. 
-
-Qualsiasi altro movimento dell'accordo di dominante sarà da considerare come **cadenza d'inganno**. 
-
-Generalmente, l'accordo che sostituisce il primo grado è un altro accordo del gruppo di tonica, come il IIIm7 o il VIm7.
+Dopo un V7 l'orecchio si aspetta il I. Se arriva un altro accordo, la sorpresa ha un nome: **cadenza d'inganno**. Quasi sempre l'accordo che prende il posto della tonica appartiene alla stessa famiglia, VIm7 o IIIm7: le voci si muovono come nella cadenza perfetta, almeno in parte, ma il basso va altrove e la frase resta aperta.
 
 
 .. image:: 
@@ -439,11 +406,7 @@ Generalmente, l'accordo che sostituisce il primo grado è un altro accordo del g
 Cadenza composta
 ~~~~~~~~~~~~~~~~
 
-Un movimento armonico completo è sottodominante – dominante – tonica. 
-
-Nella musica popolare e nel Jazz questa cadenza prende il nome di **cadenza composta**. 
-
-La più comune nella musica popolare è la progressione **IIm7 – V7 – I**, in musica classica la troviamo sotto forma di IV – V – I e viene definita cadenza composta perfetta.
+La cadenza completa attraversa tutte e tre le funzioni: sottodominante, dominante, tonica. Nel jazz e nella canzone la sua forma tipica è **IIm7 – V7 – I**, chiamata **cadenza composta**; nella musica classica la stessa idea è IV – V – I, la cadenza composta perfetta.
 
 .. image:: 
    _static/music/cadenza-composta.*
@@ -466,18 +429,14 @@ La più comune nella musica popolare è la progressione **IIm7 – V7 – I**, i
    </audio>
 
 
-Il nostro orecchio è talmente abituato a sentire questa cadenza che, anche se l'accordo di tonica non viene realizzato, riusciamo comunque a percepire il suono del centro tonale. Trattandosi di un movimento estremamente chiaro e del modello fondamentale di tensione-risoluzione all'interno di una tonalità, la cadenza composta stabilisce per l'orecchio il senso del centro tonale. 
-
-Il modello IIm7 – V7 – I è la pietra angolare del Jazz e della musica moderna.
+Questo percorso è così radicato nell'ascolto che basta il II–V per far sentire la tonica, anche quando non arriva. Per questo il II–V–I è il mattone su cui sono costruiti la maggior parte degli standard: riconoscerlo a orecchio, prima ancora che sulla carta, è uno dei primi traguardi dell'analisi.
 
 La progressione I VI II V
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-La  progressione I VI II V presenta la cadenza composta IIm7 – V7, in un contesto di accordi molto comune. Moltissimi brani si basano su questo giro armonico: si può dire che, almeno parzialmente, esso si ritrovi in quasi tutti.
+Metti un VIm7 davanti al II–V e ottieni il giro più usato del repertorio: **I – VIm7 – IIm7 – V7**. Le prime due battute restano nell'area di tonica, le ultime due preparano il ritorno: due battute di riposo, due di tensione.
 
-Notiamo che le prime due misure della progressione hanno accordi facenti parte della famiglia di tonica, mentre le ultime due no. Questa situazione, in tonalità maggiore, è il modello principale di **tensione-risoluzione**. 
-
-Quando improvvisi su questi accordi, cerca di percepire la qualità delle funzioni armoniche: “in asse” e “fuori asse”. *Sentire* le “funzioni” è facile e suggerisce una direzione corretta alle tue linee melodiche.
+Improvvisando, prova a sentire questo respiro anche senza guardare le sigle. Le frasi che si distendono sulle prime due battute e si mettono in movimento sulle ultime due suonano naturali proprio perché seguono le funzioni.
 
 .. image:: 
    _static/music/cadenza-composta2.*
@@ -495,7 +454,7 @@ Tonalità minore: un sistema non stabile
 Il minore non è una tonalità, è una famiglia
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Abbiamo visto come la scala maggiore produca i suoi accordi e modi diatonici. Anche la scala minore genera strutture e corrispondenti relazioni armoniche, pur differenziandosi nel numero di possibilità a disposizione: il che, ad un primo esame, potrebbe generare confusione. Non esiste solo una scala minore da cui estrarre tutti gli accordi che costituiscono la tonalità minore, ma ce n'è una primaria: dobbiamo quindi capire da quale scala proviene ciascuno degli accordi che possiamo incontrare nei brani in minore.
+La scala maggiore genera un solo insieme di accordi diatonici. Il minore no: nei brani in minore incontri accordi che vengono da scale diverse, e per leggerli conviene sapere da dove arrivano.
 
 A differenza del maggiore, il mondo minore **non ha una sola scala di riferimento**.
 Non esiste “la” scala minore che organizza tutto in modo coerente e definitivo.
@@ -512,14 +471,9 @@ Questa pluralità non è un problema teorico. È la descrizione di un fatto musi
 Per questo gli accordi che nascono dal minore non sono mai oggetti fissi.
 Sono **adattamenti locali** a un contesto in movimento.
 
-Se analizzassimo tutti i brani in tonalità minore, in modo da isolare i modelli accordali più comuni, troveremmo che questi si basano principalmente sulla scala che conosciamo come il modo eolio. Esso viene spesso definito come minore naturale, minore puro, relativo minore. Fra tutte le scale minori, questa è considerata la più stabile.
+La base resta la **minore naturale**, il modo eolio: da lì viene la maggior parte degli accordi dei brani in minore. Gli altri arrivano dalla minore armonica, dalla minore melodica o dalla dorica, quasi sempre per un motivo preciso che vedremo uno per volta.
 
-Occasionalmente, possiamo trovare accordi che derivano da altre scale, come la minore armonica, la minore melodica o la dorica.
-
-Com'è ormai noto, se suoniamo una scala maggiore partendo dal suo sesto grado, siamo nel modo eolio. 
-Questa scala, detta anche relativa minore, è la base delle tonalità minori ed eredita l'armatura di chiave dalla sua relativa maggiore. 
-È per questo che A minore è la “relativa” (dall'inglese *relative*, “parente”) minore di C maggiore: entrambe usano le stesse note e prendono la stessa armatura di chiave, anche se da un punto di vista uditivo fanno chiaramente riferimento a diversi centri tonali. 
-La tonalità parallela minore è invece quella che parte dalla stessa tonica della tonalità maggiore, ma con una diversa armatura di chiave.
+La minore naturale di La usa le stesse note di Do maggiore: per questo La minore si chiama **relativa** di Do maggiore e ne condivide l'armatura di chiave. Il centro però è un altro, e l'orecchio lo sente subito. La **parallela** minore di Do maggiore è invece Do minore: stessa tonica, armatura diversa.
 
 .. image:: 
    _static/music/minore-relativa-parallela.*
@@ -531,15 +485,12 @@ La tonalità parallela minore è invece quella che parte dalla stessa tonica del
       <source src="_static/music/minore-relativa-parallela.mp3" type="audio/mp3">
    </audio>
 
-Un brano non comincia necessariamente su un accordo di tonica. 
-Per capire la tonalità di un brano, il che include anche capire se esso è in una tonalità relativa maggiore o minore, guarda la **fine del brano stesso**, più precisamente la **cadenza finale**, in modo da capire qual è realmente l'accordo di tonica.
-
-Per esempio: se un'armatura di chiave indica tre bemolli, potrebbe essere in tonalità di E♭ maggiore o di C minore. Se il brano cadenza su un E♭ maggiore, il pezzo sarà in E♭ maggiore. Se il brano invece cadenza su un C minore, beh… indovina!
+L'armatura di chiave da sola non dice se un brano è in maggiore o nella relativa minore: tre bemolli valgono sia per Mi♭ maggiore sia per Do minore. Guarda dove il brano si ferma. La cadenza finale, più dell'accordo iniziale, rivela la tonica: se l'ultimo arrivo è Cm, sei in Do minore.
 
 Armonizzazione della scala minore
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Dato che in questa sede ci interessano i suoni e le relazioni tra accordi, scale e centro tonale, esaminiamo la tonalità parallela minore. Questo ci permette di ascoltare, confrontandole, le varie strutture accordali della tonalità minore con le controparti della sua parallela maggiore. Pur essendo vero che la relativa minore ha gli stessi accordi della sua relativa maggiore, se analizziamo con i numeri romani la tonalità minore parallela ci accorgiamo che, rispetto al centro tonale, la costruzione degli accordi è ben diversa.
+Per confrontare i colori conviene mettere maggiore e minore sulla stessa tonica, cioè usare la parallela. Con la relativa gli accordi sarebbero gli stessi di Do maggiore, soltanto numerati in un altro modo; con la parallela ogni grado cambia qualità rispetto allo stesso Do, e la differenza diventa udibile.
 
 .. image:: 
    _static/music/armonizzazione-minore-naturale.*
@@ -570,26 +521,16 @@ Caratteristiche chiave:
 Sentire il centro tonale
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-Se suonassimo tutti questi accordi a caso, comunque, non riusciremmo a sentire la tonica della scala come centro tonale, che tenderemmo invece ad associare al ♭IIIΔ7. Questo accade perché l'orecchio è condizionato a sentire la cadenza di dominante come un movimento che definisce il senso di tonalità. La cadenza in questione riguarda il ♭VII7 ed il ♭IIIΔ7 (relativa maggiore).
+Suona questi accordi in ordine sparso e il centro scivola facilmente verso il ♭IIIΔ7: B♭7 → E♭Δ7 è una cadenza di dominante verso Mi♭, e l'orecchio la prende sul serio. Se insisti sul Im, ripetendolo e facendolo durare, Do torna a essere casa; senza una vera dominante, però, l'effetto resta più modale che tonale.
 
-Accentuando il Im più frequentemente degli altri accordi cominceremo a sentire la tonica della scala minore naturale come centro tonale. Usando solo gli accordi diatonici alla scala però dovremo riferirci alla sequenza di accordi in termini di armonia modale, non di tonalità minore, proprio a causa della mancanza di una cadenza forte sulla tonica.
+Per chiudere una frase in minore con la stessa forza del maggiore serve una dominante vera. Il Vm7 della minore naturale, Gm7 in Do minore, ha la terza Si♭. Alzala a Si e l'accordo diventa G7: quel Si è la **sensibile** che sale al Do. La scala che si ottiene alzando il settimo grado è la **minore armonica**. Nasce per dare al minore la sua dominante, ed è soprattutto lì che la incontrerai.
 
-Per trasformarla in “tonalità” minore, abbiamo bisogno di una **cadenza di dominante** sul Im. Per ottenerla, dobbiamo alterare l'accordo posto sul quinto grado della scala. 
-
-Come puoi notare, la qualità dell'accordo in questione è minore settima. Per trasformarlo in un accordo di dominante, dobbiamo **alzare di mezzo tono la sua terza**: da minore a maggiore. Questa nota è la caratteristica dell'accordo di dominante ed è necessaria alla cadenza di dominante.
-
-Questa necessità *armonica* è ciò che genera una nuova scala in cui abbiamo alzato il settimo grado di mezzo tono: da una settima minore ad una settima maggiore. La scala risultante prende il nome di **minore armonica**. La funzione principale di questa scala è quella di fornire la cadenza di dominante sull'accordo di tonica. Raramente viene utilizzata per scopi diversi da questo.
-
-Nella scala minore naturale il modo che parte dal quinto grado è il modo frigio. La scala che parte dal quinto grado della minore armonica può anche essere vista come un modo frigio con la terza maggiore. Questa scala prende spesso il nome di **frigia dominante**, frigia maggiore o **misolidia ♭9♭13**, stiamo implicitamente dicendo che:
-
-- è una scala di dominante, e
-- che contiene le tensioni ♭9 e ♭13. Su un accordo di dominante invece queste note si possono usare come tensioni, ed è per questo che appaiono nel nome della scala-accordo.
+Il modo che parte dal quinto grado della minore armonica, Sol–La♭–Si–Do–Re–Mi♭–Fa, è un frigio con la terza maggiore. Si chiama **frigia dominante** o **misolidia ♭9♭13**: il secondo nome dice che è una scala di dominante e che porta con sé ♭9 (La♭) e ♭13 (Mi♭), le due note della tonalità minore che colorano il V7.
 
 Armonizzazione della scala minore armonica
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-La minore armonica viene usata raramente per costruire sistemi tonali
-minori, perché genera accordi inconsueti e dissonanti:
+Armonizzata per intero, la minore armonica dà accordi poco comuni e molto tesi, come CmΔ7, E♭Δ7♯5 e B°7: nei brani se ne usano pochi.
 
 
 .. image:: 
@@ -606,8 +547,7 @@ Gli accordi sono tutti diversi per funzione e comportamento, anche se non tutti 
 
 Già a colpo d'occhio si vede che non c'è nessuna simmetria come nel maggiore.
 
-La scala minore armonica genera, così come la scala maggiore, 7 modi. Tuttavia è difficile trovare queste scale in brani
-di repertorio comune, ad eccezione della misolidia ♭9♭13, relativa al V grado:
+Anche la minore armonica ha sette modi. Nel repertorio quello che conta davvero è il quinto, la misolidia ♭9♭13:
 
 .. list-table::
    :header-rows: 1
@@ -689,8 +629,7 @@ La scala minore melodica genera anch'essa 7 modi:
 Accordi atipici
 ~~~~~~~~~~~~~~~
 
-Occasionalmente, come scale generatrici in tonalità minori si possono
-utilizzare la scala minore melodica o la dorica.
+In alcuni brani in minore compaiono accordi che la minore naturale non spiega. Vengono quasi sempre dalla dorica o dalla minore melodica, le due scale minori con la sesta maggiore.
 
 Armonizzazione della scala dorica:
 
@@ -704,12 +643,7 @@ Armonizzazione della scala dorica:
       <source src="_static/music/armonizzazione-dorica.mp3" type="audio/mp3">
    </audio>
 
-Queste scale producono accordi diversi da quelli generalmente utilizzati. I più comuni, non derivanti dalla
-scala minore naturale, sono il **IIm7**, il **IV7** ed il **VI∅**.
-
-Se in un brano in minore trovi accordi meno consueti, verifica se le parti
-della composizione si basino sul modo dorico o sulla scala minore melodica.
-Devi imparare quali accordi segnalino l'una o l'altra come scala generatrice.
+I più frequenti sono **IIm7**, **IV7** e **VIø**: in Do minore Dm7, F7 e Aø. Tutti e tre contengono La naturale, la sesta maggiore. Quando li incontri, cerca quella nota nella melodia: ti dice quale scala sta organizzando il passaggio.
 
 Aree tonali nella tonalità minore
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -735,13 +669,11 @@ Area della dominante minore:
 - V7♭9♭13 (→ minore armonica)
 - VII°7
 
-L'accordo di tonica in tonalità minore si trova spesso espresso come triade anche in pezzi essenzialmente composti da accordi di settima, specialmente quando è l'accordo finale di un brano o la risoluzione di una cadenza. 
+L'accordo di tonica minore compare spesso come semplice triade, anche in brani fatti di accordi di settima, soprattutto in chiusura o all'arrivo di una cadenza: la settima tende a muoversi, la triade no.
 
-La triade è considerata più stabile di un Im7, in quanto la settima ha la tendenza a muoversi. La triade minore è considerata sufficientemente complessa armonicamente da bilanciare la sonorità creata dagli accordi di settima.
+Proprio perché è essenziale, la triade lascia aperta la scelta del colore. Cm6 indica la sesta maggiore (minore melodica o dorica), CmΔ7 la settima maggiore, Cm7 la settima minore lasciando aperta la sesta. È la melodia a decidere quale sesta e quale settima stanno suonando.
 
-Dato che il suono della triade è in qualche modo ambiguo, può convivere con più di una scala. I musicisti la riarmonizzano spesso con accordi non generati dalla scala minore naturale: quando in uno spartito vediamo invece Im6, molto probabilmente indica l'uso della minore melodica.
-
-Nei brani Jazz in particolare, sul Im7 si sente spesso la sesta maggiore, cioè il colore dorico. Se il Im7 dura due o più misure ed il pezzo è firmato da un compositore Jazz, c'è una buona possibilità che la sesta sia maggiore. Se il brano è uno standard ed il Im7 dura una misura o meno, probabilmente la sesta resta minore, come nella minore naturale. A causa di tale ambiguità, la teoria armonica che assegna alla tonalità minore unicamente la scala del Im7 spesso non funziona.
+Sui Im7 lunghi degli standard e del jazz modale la sesta maggiore, il colore dorico, è frequente; quando il Im7 dura una battuta dentro un giro tonale, la sesta resta spesso minore. Non è una regola ma un indizio da verificare all'ascolto.
 
 Se armonizzi la scala minore naturale, ottieni un sistema povero di tensione dominante. La sensibile non c'è, la spinta verso la tonica è debole. L'orecchio sente un centro, ma non viene “convinto” come nel maggiore.
 

@@ -1,6 +1,6 @@
 # KB ARCHITECT — Appunti di Teoria
 
-Aggiornamento: 11 novembre 2026. Questa KB descrive i sorgenti presenti; non certifica lo stato dei siti pubblicati.
+Aggiornamento: 13 novembre 2026. Questa KB descrive i sorgenti presenti; non certifica lo stato dei siti pubblicati.
 
 Versione: **1.0** (`release` in `src/docs/conf.py`) dall'11 novembre 2026, per decisione dell'utente: il volume è considerato sostanzialmente completo. Nessun tag git di versione.
 
@@ -69,3 +69,5 @@ Il nuovo capitolo `src/docs/12-ritmo-sviluppo.rst` precede le letture conclusive
 - [Ascoltare e analizzare i percorsi d’autore](analisi/009-percorsi-autore.md) — dieci analisi collegate al percorso operativo di Pratica; nuovo capitolo `src/docs/13-percorsi-autore.rst`, 10 novembre 2026.
 
 - [Read the Docs: formati degli spartiti](analisi/010-readthedocs-formati-spartiti.md) — PDF esistenti per LaTeX, SVG per HTML/ePub, 10 novembre 2026.
+
+- [Riscrittura dei passaggi con voce da manuale tradotto](analisi/011-riscrittura-passaggi-tradotti.md) — capitoli 6–8 riscritti da zero (cadenze, tonalità minore, armonia cromatica, diminuiti di passaggio), con l'introduzione di Pratica, 13 novembre 2026.
