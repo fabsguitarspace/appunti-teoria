@@ -22,3 +22,4 @@ Appunti di Teoria e Armonia per Chitarra Jazz
   13-percorsi-autore
 
   11-letture-armoniche
+  glossario

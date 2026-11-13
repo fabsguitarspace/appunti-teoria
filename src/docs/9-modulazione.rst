@@ -166,6 +166,32 @@ cambia il significato delle note rispetto alla destinazione. Anche qui
 la risoluzione deve essere confermata dal contesto: un accordo simmetrico
 non stabilisce da solo una nuova tonalità.
 
+Le direzioni più frequenti negli standard
+-----------------------------------------
+
+Non tutte le modulazioni sono ugualmente probabili. Negli standard alcune direzioni tornano così spesso che conviene riconoscerle a orecchio, prima ancora di fare l'analisi.
+
+- **Verso la relativa.** Da Do maggiore a La minore, o viceversa: le note sono quasi le stesse, cambia il centro. «Autumn Leaves» alterna proprio un II–V–I in Si♭ maggiore e uno in Sol minore.
+- **Verso il IV.** Molti brani spostano la seconda parte della forma sul IV grado: da Do a Fa basta aggiungere il Si♭, spesso introdotto da C7, che è insieme I7 e dominante di Fa.
+- **Un tono sotto.** Una catena di II–V–I che scende di un tono è uno dei modelli più comuni: in «Tune Up» Em7–A7–Dmaj7, poi Dm7–G7–Cmaj7, poi Cm7–F7–B♭maj7.
+- **Una terza maggiore sopra o sotto.** Più lontana e più sorprendente: tre centri a distanza di terza maggiore dividono l'ottava in parti uguali. Il bridge di «Have You Met Miss Jones» e, in modo molto più veloce, «Giant Steps» si muovono così.
+- **Un semitono sopra.** Tipica della canzone: la stessa sezione ripetuta mezzo tono più in alto per dare energia al finale. Non serve preparazione, basta che la melodia resti riconoscibile.
+
+Catene di II–V
+--------------
+
+Quando i II–V si susseguono, ognuno indica per un momento un centro diverso. Davanti a una catena chiediti per ogni coppia: arriva sul suo I? Quanto ci resta?
+
+- Se il I arriva e dura, i centri si succedono davvero: è una serie di modulazioni brevi, come in «Tune Up».
+- Se il I non arriva e un II–V porta direttamente al successivo, i centri restano soltanto accennati: la catena è un unico movimento che scende verso il punto d'arrivo, come le dominanti in caduta di :doc:`7-armonia-cromatica`.
+
+Sulla chitarra la differenza si sente nelle note bersaglio. Nel primo caso ogni I ha la sua terza da raggiungere (Fa♯ su Dmaj7, Mi su Cmaj7, Re su B♭maj7); nel secondo conviene seguire la linea delle terze e delle settime che scende di semitono da un accordo all'altro.
+
+Ascoltare un cambio di centro
+-----------------------------
+
+Prima di analizzare, prova questo esercizio sul primo brano che conosci con una modulazione. Canta la tonica mentre ascolti. Nel punto in cui la nota che canti smette di suonare come casa, il centro è cambiato. Segna la battuta, poi cerca nella griglia il II–V che ha preparato il nuovo arrivo: quasi sempre lo trovi una o due battute prima.
+
 Dal cambio di tonalità al cambio di colore
 --------------------------------------------
 

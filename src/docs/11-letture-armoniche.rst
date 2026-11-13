@@ -53,6 +53,34 @@ dorico. Per confronto immagina di togliere il pedale e proseguire con
 G7 → CΔ: gli stessi materiali possono acquistare direzione verso Do.
 La diversa lettura nasce dal contesto, non da un cambio di nome della scala.
 
+Un ciclo in minore
+------------------
+
+    | Am7 | D7 | Gmaj7 | Cmaj7 |
+    | F♯ø | B7 | Em | Em |
+
+In Mi minore: IVm7 → ♭VII7 → ♭IIIΔ7 → ♭VIΔ7 → IIø → V7 → Im. È il ciclo minore di :doc:`6-armonia-funzionale`: le fondamentali scendono per quinte (con il passo di quinta diminuita Do → Fa♯, l'unico che la scala impone). Le prime quattro battute sono anche un II–V–I in Sol maggiore, la relativa: per un momento il centro sembra Sol. Il II–V minore F♯ø – B7 riporta a Mi, e il Re♯ di B7, sensibile, è la nota che rende convincente il ritorno.
+
+Prova a cantare la linea guida che alterna terze e settime: Do (terza di Am7), Do (settima di D7), Si, Si, La, La, Sol. Una nota che scende di grado ogni due battute regge tutto il percorso.
+
+Un blues con le sostituzioni jazz
+---------------------------------
+
+    | F7 | B♭7 | F7 | Cm7 F7 |
+    | B♭7 | B°7 | F7 | D7 |
+    | Gm7 | C7 | F7 D7 | Gm7 C7 |
+
+La forma di dodici battute resta quella del blues: I7 per quattro battute, IV7 nella quinta, ritorno al I nella settima, V nella nona. Le sostituzioni aggiungono direzione senza cambiare la forma: Cm7–F7 prepara il B♭7 come un II–V verso il IV; B°7 è un diminuito di passaggio fra B♭7 e il ritorno a F7 con il Do al basso; D7 è V7/II e apre il II–V finale. L'ultimo giro F7–D7–Gm7–C7 è un turnaround I–VI–II–V con il VI reso dominante.
+
+Qui F7 non è la dominante di Si♭ ogni volta che compare: nelle prime battute è il centro. È il contesto, cioè il ritorno del basso e della melodia, a dire quale lettura vale in quel punto.
+
+Un II–V che non arriva
+----------------------
+
+    | Cmaj7 | Dm7 G7 | Em7 A7 | Dm7 G7 |
+
+Nella seconda battuta il II–V si aspetta Cmaj7; arriva invece Em7, che appartiene alla stessa area di tonica: è una cadenza d'inganno. Em7–A7 diventa subito un nuovo II–V verso Dm7, e il percorso rimanda la conclusione di due battute. Ascolta il basso: dove ti aspettavi Do arriva Mi. La terza di Cmaj7 resta nell'accordo, ma ora è la sua fondamentale.
+
 Che cosa dovrebbe restare
 ---------------------------
 
