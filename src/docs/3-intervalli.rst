@@ -446,3 +446,19 @@ Se senti che qualcosa resta in sospeso, che l'aria non si chiude… non è sugge
    
    La musica non chiede etichette. Chiede relazioni.
 
+Verifica
+--------
+
+Prima di passare al capitolo successivo, prova a rispondere senza rileggere. Poi confronta con le soluzioni.
+
+#. Quanti semitoni ha una sesta minore? Qual è il suo rivolto?
+#. Do–Fa♯ e Do–Sol♭ suonano uguali sulla chitarra. Come si chiamano i due intervalli e perché si scrivono in modo diverso?
+#. A quale intervallo composto corrisponde una seconda maggiore più un'ottava?
+#. Suona un Do lungo, poi il Si sopra; ripeti con il Si♭. Quale dei due intervalli ti sembra più lontano dal riposo?
+
+**Soluzioni**
+
+#. Otto semitoni; il rivolto è una terza maggiore (8 + 4 = 12, e 6 + 3 = 9).
+#. Quarta aumentata e quinta diminuita: entrambe sono un tritono di sei semitoni. Il nome dipende dalla lettera della nota, cioè dal grado che quella nota occupa nella scala o nell'accordo.
+#. Alla nona maggiore.
+#. Di solito la settima maggiore: è a un semitono dall'ottava e suona sospesa. La settima minore spinge in modo più morbido. Se la percezione è diversa, riascolta dopo aver cantato il Do: la risposta conta meno dell'attenzione.

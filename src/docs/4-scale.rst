@@ -1463,3 +1463,21 @@ Il punto non è trattarle come nuovi mondi con nuove regole ma capire la loro fu
 - ridimensionano l'ossessione delle 12 tonalità: qui la struttura è più importante della tonica
 - rendono naturale il passaggio tra tensioni e accordi che, in armonia tradizionale, richiederebbe mille giustificazioni
 
+Verifica
+--------
+
+Prima di passare al capitolo successivo, prova a rispondere senza rileggere. Poi confronta con le soluzioni.
+
+#. Scrivi la formula di toni e semitoni della scala maggiore e indica dove cadono i semitoni in Do maggiore.
+#. Quante alterazioni ha La maggiore, e quali?
+#. Quale modo della scala di Do maggiore parte dal Re? Quale nota lo distingue dalla minore naturale con la stessa tonica?
+#. Scrivi la pentatonica minore di La. Quale pentatonica maggiore contiene le stesse note?
+#. Quante collezioni diverse esistono della scala a toni interi e della scala diminuita?
+
+**Soluzioni**
+
+#. T–T–S–T–T–T–S; in Do i semitoni sono Mi–Fa e Si–Do.
+#. Tre diesis: Fa♯, Do♯ e Sol♯.
+#. Il dorico. Rispetto alla minore naturale di Re ha la sesta maggiore, Si invece di Si♭.
+#. La–Do–Re–Mi–Sol, le stesse note della pentatonica maggiore di Do.
+#. Due per la scala a toni interi, tre per la diminuita: la simmetria fa coincidere le altre trasposizioni.

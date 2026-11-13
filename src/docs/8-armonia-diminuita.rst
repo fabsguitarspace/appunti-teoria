@@ -306,3 +306,22 @@ Il valore del metodo di Barry Harris, per un chitarrista curioso, non è imparar
    Questo approccio è potentissimo... ma non va trasformato in religione. Non esiste un solo modo corretto di pensare il jazz. La cosa giusta da prendere da Barry Harris è la qualità della logica: pochi principi che ti fanno sentire la musica più chiaramente, e che riducono l'ansia da “scala giusta”.
 
    Il metodo di Barry Harris non ti chiede di sapere di più... ti chiede di sentire meglio il collegamento tra le voci. E quando lo senti, il bebop smette di sembrare difficile e inizia a sembrare inevitabile.
+
+Verifica
+--------
+
+Prima di passare al capitolo successivo, prova a rispondere senza rileggere. Poi confronta con le soluzioni.
+
+#. Quali accordi diminuiti hanno le stesse note di C°7?
+#. In Do maggiore, quale diminuito collega Cmaj7 e Dm7, e come risolve?
+#. Riarmonizza C♯°7 → Dm7 con un II–V minore.
+#. Scrivi le otto note della scala di sesta diminuita di Do.
+#. A quale diminuito corrisponde G7♭9 senza fondamentale?
+
+**Soluzioni**
+
+#. E♭°7, F♯°7 e A°7.
+#. C♯°7: sale di semitono, dal Do♯ al Re di Dm7.
+#. E∅ – A7♭9 → Dm7.
+#. Do–Re–Mi–Fa–Sol–La♭–La–Si.
+#. A B°7 (Si–Re–Fa–La♭), che contiene le stesse note di D°7, F°7 e A♭°7.

@@ -173,3 +173,20 @@ Non ogni cambio di accordo richiede una nuova tonalità. Un passaggio può
 conservare un centro, cambiare modo oppure collegare sonorità senza una
 cadenza dominante-tonica. Il capitolo :doc:`10-armonia-non-funzionale`
 affronta proprio queste possibilità.
+
+Verifica
+--------
+
+Prima di passare al capitolo successivo, prova a rispondere senza rileggere. Poi confronta con le soluzioni.
+
+#. Qual è la differenza fra tonicizzazione e modulazione?
+#. Trova due accordi che appartengono sia a Do maggiore sia a Sol maggiore, e indica il loro grado in ciascuna tonalità.
+#. B°7 risolve su Do. Su quali altri accordi può risolvere, reinterpretando le sue note?
+#. In un brano in Do compare ``| Bm7 | E7 | AΔ7 | AΔ7 |``. Che cosa devi ascoltare per decidere se è una modulazione?
+
+**Soluzioni**
+
+#. La tonicizzazione accende un nuovo centro per poco e poi torna; la modulazione lo conferma e lo fa durare, e l'analisi cambia riferimento.
+#. Per esempio Am7 (VI in Do, II in Sol) ed Em7 (III in Do, VI in Sol); anche Cmaj7 (I in Do, IV in Sol).
+#. Prendendo come sensibile ciascuna delle sue note: Re → Mi♭, Fa → Fa♯ (Sol♭), La♭/Sol♯ → La. Quindi verso Mi♭, Fa♯ e La, maggiori o minori.
+#. Che cosa succede dopo: se il La resta casa per altre battute e torna con altre cadenze è una modulazione; se la musica rientra subito in Do è una tonicizzazione.

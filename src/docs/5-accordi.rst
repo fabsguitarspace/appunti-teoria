@@ -755,3 +755,21 @@ Un G7 può essere una dominante classica, una sospensione modale, un colore blue
 Per questo leggere un accordo come un oggetto isolato è sempre riduttivo.
 Un accordo è sempre un evento in un contesto.
 
+Verifica
+--------
+
+Prima di passare al capitolo successivo, prova a rispondere senza rileggere. Poi confronta con le soluzioni.
+
+#. Scrivi le note di Dm7♭5 e di Fm6. Che cosa noti?
+#. Quali note contiene C6/9?
+#. Perché la sigla C9 comprende la settima minore, mentre per la settima maggiore si scrive Cmaj9?
+#. Come si chiama Cmaj7 con il Mi al basso, e come si scrive la sigla?
+#. Quali due note di C7 formano il tritono?
+
+**Soluzioni**
+
+#. Re–Fa–La♭–Do e Fa–La♭–Do–Re: sono le stesse quattro note. Cambia la nota che senti come fondamentale.
+#. Do–Mi–Sol–La–Re: triade maggiore con sesta e nona, senza settima.
+#. È una convenzione: un numero di estensione da solo indica un accordo di dominante, che contiene la settima minore. La settima maggiore va dichiarata con maj o Δ.
+#. È il primo rivolto; si scrive Cmaj7/E.
+#. Mi e Si♭, la terza e la settima minore.

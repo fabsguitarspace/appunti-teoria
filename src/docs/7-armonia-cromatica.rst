@@ -455,3 +455,22 @@ Non sempre la cadenza arriva subito al I: a volte prosegue con una cadenza di do
    <audio controls class="audio-controls">
       <source src="_static/music/cadenza-maggiore7.mp3" type="audio/mp3">
    </audio>
+
+Verifica
+--------
+
+Prima di passare al capitolo successivo, prova a rispondere senza rileggere. Poi confronta con le soluzioni.
+
+#. Qual è la dominante secondaria di Em7 in Do maggiore?
+#. Qual è il sostituto di tritono di G7, e quali note ha in comune con G7?
+#. Perché Fm7 in Do maggiore ha funzione di sottodominante minore?
+#. Scrivi la cadenza backdoor in Fa maggiore.
+#. In Do maggiore, A7 → Dm7 → G7 → C è una modulazione?
+
+**Soluzioni**
+
+#. B7, cioè V7/III.
+#. D♭7. Le note comuni sono Fa e Si (scritto Do♭ in D♭7): il tritono.
+#. Contiene La♭, la sesta minore della tonalità, che scende al Sol; insieme il Fa scende al Mi.
+#. B♭m7 – E♭7 – FΔ7.
+#. No: A7 accende per un momento il II (V7/II), poi la musica torna a Do. È una tonicizzazione, non un nuovo centro.

@@ -817,3 +817,22 @@ frasi concrete: il Fa che è terza di Dm7 e diventa settima di G7
 (:ref:`autore-christian`), il diminuito costruito sulla terza della dominante
 che risolve su un minore sesta (:ref:`autore-django`), l'area minore del II
 prolungata sul V (:ref:`autore-martino`).
+
+Verifica
+--------
+
+Prima di passare al capitolo successivo, prova a rispondere senza rileggere. Poi confronta con le soluzioni.
+
+#. Scrivi gli accordi di settima diatonici di Fa maggiore.
+#. In Do maggiore, a quale area appartengono Am7 e Dm7?
+#. In G7 → C, quali voci risolvono di semitono, e verso dove?
+#. Un brano ha due bemolli in chiave e finisce su Gm. In che tonalità è?
+#. Da quale scala viene il V7 di una tonalità minore, e perché?
+
+**Soluzioni**
+
+#. FΔ7, Gm7, Am7, B♭Δ7, C7, Dm7, Eø.
+#. Am7 all'area di tonica, Dm7 all'area di sottodominante.
+#. Il Si sale al Do, il Fa scende al Mi.
+#. In Sol minore, la relativa minore di Si♭ maggiore: è la cadenza finale a decidere.
+#. Dalla minore armonica: alzando il settimo grado il Vm7 diventa V7 e la sua terza fa da sensibile verso la tonica.
