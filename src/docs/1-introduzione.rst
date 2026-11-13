@@ -83,20 +83,12 @@ Perché riconosci una cadenza senza averla mai studiata?
 
 Se questi appunti funzionano, non ti sentirai più sicuro mentre suoni. Ti sentirai più attento. Più presente. Meno impegnato a “scegliere” e più disponibile ad ascoltare ciò che sta già accadendo.
 
-Se alla fine di queste pagine saprai spiegare meglio quello che senti... bene. Se invece sentirai di dover spiegare meno e suonare di più... ancora meglio.
-
 Perché la musica non ha bisogno di essere capita per funzionare. Ha solo bisogno di essere ascoltata.
 
 A chi sono davvero rivolti
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Questi appunti non sono per tutti. E va bene così.
-
-Non sono per chi cerca scorciatoie, formule rapide o “trucchi” per suonare meglio in due settimane.
-
-Non sono per chi vuole sapere cosa suonare senza chiedersi *perché* suona.
-
-E non sono per chi vive la teoria come un sistema di regole da applicare meccanicamente.
 
 Sono per i chitarristi curiosi.
 
@@ -124,18 +116,6 @@ Se pensi che la teoria debba dirti cosa è giusto e cos'è sbagliato, questi app
 
 Se invece sei disposto a usarla come una lente, non come una gabbia, allora sei nel posto giusto.
 
-Sono rivolti a chi ha capito che:
-
-- sapere il nome delle cose non è la stessa cosa che saperle usare
-- capire non significa controllare
-- suonare non è eseguire una decisione, ma reagire a un contesto
-
-Sono per chi ha accettato che l'improvvisazione non si insegna, ma si prepara.
-
-Che lo studio vero avviene prima, e il suono accade dopo.
-
-Se leggendo queste pagine ti verrà voglia di chiudere il libro, prendere la chitarra e ascoltare meglio… allora erano rivolte anche a te.
-
 Qui ci fermiamo volutamente un passo prima della chitarra
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -151,38 +131,10 @@ I due libri sono progettati per parlarsi senza sovrapporsi.
 
 Questo ti dà la visione. L'altro ti dà il corpo.
 
-Questo ti aiuta a capire cosa stai ascoltando. L'altro ti aiuta a farlo accadere con le mani.
-
-Puoi leggerli in parallelo o in tempi diversi, ma l'idea è sempre la stessa: non trasformare la teoria in una lista di regole, e non trasformare la pratica in una ginnastica senza senso. Quando teoria e pratica stanno nello stesso contenitore spesso si confondono... quando stanno in due volumi diversi, si cercano, si richiamano, si potenziano.
-
-Se mentre leggi queste pagine ti verrà spesso la voglia di prendere la chitarra, è un buon segno.
- 
-E quando la prenderai, sappi che c'è un secondo quaderno pronto ad accompagnarti... non per “applicare” la teoria, ma per farla diventare gesto, suono, musica vera.
-
 Come leggerli ... e quando chiuderli per prendere la chitarra
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Questi appunti non vanno “studiati” nel senso classico del termine.
-
-Non c'è un ordine obbligato, non c'è un programma, non c'è un obiettivo da raggiungere.
-
-Puoi leggerli dall'inizio alla fine, certo.
-
-Ma puoi anche aprirli a caso, soffermarti su una frase, su un'idea, e poi smettere.
-
-Anzi, spesso è meglio così.
-
-Leggili lentamente.
-
-Non per capire tutto, ma per riconoscere qualcosa. Se una pagina ti sembra ovvia, va bene. Se ti dà fastidio, probabilmente sta toccando un punto interessante. Se ti confonde, ancora meglio.
-
-Non prendere appunti mentre leggi. Prenderai appunti dopo, con la chitarra in mano.
-
 Questo libro funziona se lo usi come un **innesco**, non come una guida passo-passo.
-
-Serve a spostare l'attenzione, non a riempire la testa. A cambiare il modo in cui ascolti, non il numero di cose che sai.
-
-Ci sono momenti in cui devi continuare a leggere. E ce ne sono altri in cui devi fermarti immediatamente.
 
 Chiudilo quando:
 
@@ -197,8 +149,6 @@ Prendi la chitarra senza un obiettivo preciso. Non cercare di applicare ciò che
 Se torni al libro per capire cosa hai appena suonato, sei sulla strada giusta.
 
 Se torni al libro per sapere cosa suonare, stai andando nella direzione opposta.
-
-Questo non è un testo da consumare. È un oggetto con cui entrare e uscire. Un dialogo, non una lezione.
 
 L'ordine corretto è sempre lo stesso:
 
@@ -231,17 +181,4 @@ Lo studio serve eccome... ma lo studio deve fare il suo lavoro **prima**:
 - mettere ordine nel caos
 
 Quando suoni, invece, lo studio deve smettere di parlare.
-
-Il problema non è l'errore... ma il giudice dentro di te
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Molti musicisti non si bloccano perché “non sanno abbastanza”. Si bloccano perché, mentre suonano, hanno già un giudice seduto accanto. 
-
-Quel giudice commenta tutto: intonazione, ritmo, scelta delle note, paura di sembrare banale. 
-
-Risultato: ti separi dal suono, e il suono diventa un oggetto da controllare.
-
-Werner insiste su un concetto semplice: il musicista deve tornare a uno stato in cui può produrre suono **senza chiedere permesso**. 
-
-Non per suonare a caso... ma per permettere all'orecchio di lavorare senza interferenze.
 
