@@ -71,3 +71,5 @@ Il nuovo capitolo `src/docs/12-ritmo-sviluppo.rst` precede le letture conclusive
 - [Read the Docs: formati degli spartiti](analisi/010-readthedocs-formati-spartiti.md) — PDF esistenti per LaTeX, SVG per HTML/ePub, 10 novembre 2026.
 
 - [Riscrittura dei passaggi con voce da manuale tradotto](analisi/011-riscrittura-passaggi-tradotti.md) — capitoli 6–8 riscritti da zero (cadenze, tonalità minore, armonia cromatica, diminuiti di passaggio), con l'introduzione di Pratica, 13 novembre 2026.
+
+- [Chiusura dei punti della revisione editoriale](analisi/012-chiusura-revisione-editoriale.md) — lettura a posteriori, autoverifiche 3–9, capitoli 9 e 11 ampliati, spartiti nel 13, glossario, ascolti d'apertura e cellula guida, 13 novembre 2026.
