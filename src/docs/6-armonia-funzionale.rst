@@ -872,7 +872,8 @@ Non un “modo da applicare”.
 Percorsi d’autore
 -----------------
 
-Il capitolo :doc:`13-percorsi-autore` applica queste domande all’analisi
-di esempi originali e rimanda agli ascolti e agli studi di Pratica.
-Confronta le note reali, il movimento delle voci e la posizione ritmica
-prima di ricondurre una frase a una formula di stile.
+In :doc:`13-percorsi-autore` ritrovi le cadenze di questo capitolo dentro
+frasi concrete: il Fa che è terza di Dm7 e diventa settima di G7
+(:ref:`autore-christian`), il diminuito costruito sulla terza della dominante
+che risolve su un minore sesta (:ref:`autore-django`), l'area minore del II
+prolungata sul V (:ref:`autore-martino`).

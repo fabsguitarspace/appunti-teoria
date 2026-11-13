@@ -243,7 +243,8 @@ percorsi di analisi.
 Percorsi d’autore
 -----------------
 
-Il capitolo :doc:`13-percorsi-autore` applica queste domande all’analisi
-di esempi originali e rimanda agli ascolti e agli studi di Pratica.
-Confronta le note reali, il movimento delle voci e la posizione ritmica
-prima di ricondurre una frase a una formula di stile.
+In :doc:`13-percorsi-autore` gli stessi materiali diventano frasi:
+Mi–Sol–Si–Re sopra un pedale di Re (:ref:`autore-metheny`), una cellula
+spostata di semitono e ricondotta al punto di partenza
+(:ref:`autore-scofield`), il colore frigio su un centro che non si muove
+(:ref:`autore-mclaughlin`).
