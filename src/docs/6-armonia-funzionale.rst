@@ -539,7 +539,7 @@ Suona questi accordi in ordine sparso e il centro scivola facilmente verso il �
 
 Per chiudere una frase in minore con la stessa forza del maggiore serve una dominante vera. Il Vm7 della minore naturale, Gm7 in Do minore, ha la terza Si♭. Alzala a Si e l'accordo diventa G7: quel Si è la **sensibile** che sale al Do. La scala che si ottiene alzando il settimo grado è la **minore armonica**. Nasce per dare al minore la sua dominante, ed è soprattutto lì che la incontrerai.
 
-Il modo che parte dal quinto grado della minore armonica, Sol–La♭–Si–Do–Re–Mi♭–Fa, è un frigio con la terza maggiore. Si chiama **frigia dominante** o **misolidia ♭9♭13**: il secondo nome dice che è una scala di dominante e che porta con sé ♭9 (La♭) e ♭13 (Mi♭), le due note della tonalità minore che colorano il V7.
+Il modo che parte dal quinto grado della minore armonica, Sol–La♭–Si–Do–Re–Mi♭–Fa, è un frigio con la terza maggiore. Si chiama **frigio dominante** o **misolidio ♭9♭13**: il secondo nome dice che è una scala di dominante e che porta con sé ♭9 (La♭) e ♭13 (Mi♭), le due note della tonalità minore che colorano il V7.
 
 Armonizzazione della scala minore armonica
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -561,7 +561,7 @@ Gli accordi sono tutti diversi per funzione e comportamento, anche se non tutti 
 
 Già a colpo d'occhio si vede che non c'è nessuna simmetria come nel maggiore.
 
-Anche la minore armonica ha sette modi. Nel repertorio quello che conta davvero è il quinto, la misolidia ♭9♭13:
+Anche la minore armonica ha sette modi. Nel repertorio quello che conta davvero è il quinto, il misolidio ♭9♭13:
 
 .. list-table::
    :header-rows: 1
@@ -585,10 +585,10 @@ Anche la minore armonica ha sette modi. Nel repertorio quello che conta davvero 
      - Misolidio ♭9♭13
      - 1 ♭2 3 4 5 ♭6 ♭7
    * - ♭VI
-     - Lidia ♯2
+     - Lidio ♯2
      - 1 ♯2 3 ♯4 5 6 7
    * - VII
-     - Diminuita ♭2♭4
+     - Diminuito ♭2♭4 o Superlocrio 𝄫7
      - 1 ♭2 ♭3 ♭4 ♭5 ♭6 𝄫7
 
 Armonizzazione della scala minore melodica

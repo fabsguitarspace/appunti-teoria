@@ -1395,7 +1395,7 @@ Contiene naturalmente l'idea di accordo aumentato e tende a evocare alterazioni 
       <source src="_static/music/scala-c-esatonale.mp3" type="audio/mp3">
    </audio>
 
-Scala diminuita (octatonica)
+Scala diminuita (ottatonica)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Ha 8 note ed è costruita alternando semitoni e toni... oppure toni e semitoni. 
@@ -1403,7 +1403,7 @@ Ha 8 note ed è costruita alternando semitoni e toni... oppure toni e semitoni.
 Per questo in realtà si parla di due forme:
 
 
-**Whole Half** (WH): tono - semitono (W H W H...)
+**Tono-semitono** (T-S): tono, semitono, tono, semitono... In inglese *whole-half*.
 
 .. image:: 
    _static/music/scala-c-diminuita-wh.*
@@ -1422,7 +1422,7 @@ Non è teoria… è libertà percettiva. Se una nota per te è “solo quella”
 - trovi diteggiature senza pensarci
 - le “mappe” diventano comunicanti (non compartimenti stagni)
 
-**Half Whole** (HW): semitono - tono (H W H W...)
+**Semitono-tono** (S-T): semitono, tono, semitono, tono... In inglese *half-whole*.
 
 
 .. image:: 
@@ -1435,7 +1435,7 @@ Non è teoria… è libertà percettiva. Se una nota per te è “solo quella”
       <source src="_static/music/scala-c-diminuita-hw.mp3" type="audio/mp3">
    </audio>
 
-La diminuita HW è anche detta scala **diminuita di dominante**, proprio perché contiene tutti i suoni dell'accordo di dominante e del suo sostituto di
+La diminuita semitono-tono è anche detta scala **diminuita di dominante**, proprio perché contiene tutti i suoni dell'accordo di dominante e del suo sostituto di
 tritono (concetto che vedremo più avanti).
 
 Lo notiamo meglio con un trattamento enarmonico:
