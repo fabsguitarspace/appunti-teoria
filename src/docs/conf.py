@@ -1,7 +1,18 @@
+import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).parent))
+from versione_git import data_aggiornamento, versione  # noqa: E402
+
 project = "Appunti di Teoria e Armonia per Chitarra Jazz"
 author = "Fabrizio's Guitar Space"
 copyright = "youtube.com/@fabsguitarspace"
-release = "1.0"
+# Versione MAJOR.MINOR, scritta a mano: cambiarla fa ripartire la patch da 0.
+# La patch conta i commit successivi e la data è quella dell'ultimo commit (versione_git.py).
+VERSIONE = "1.0"
+version = VERSIONE
+release = versione(VERSIONE, __file__)
+today = data_aggiornamento(__file__)
 
 extensions = [
     "sphinx.ext.imgconverter"
@@ -55,3 +66,6 @@ html_css_files = ["custom.css"]
 latex_engine = 'lualatex'  # gestisce meglio i font Unicode se hai testo musicale
 
 
+
+# Nel frontespizio del PDF: «Versione 1.1.3» invece di «Release 1.1.3».
+latex_elements = {"releasename": "Versione"}

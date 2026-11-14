@@ -7,3 +7,11 @@
     margin-top: 5px;
     border-radius: 5px;
 }
+
+/* Versione e data di aggiornamento in fondo alla homepage (versione_git.py). */
+.ultimo-aggiornamento {
+  margin-top: 3rem;
+  font-size: 0.85em;
+  opacity: 0.7;
+  text-align: center;
+}

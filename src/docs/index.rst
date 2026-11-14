@@ -23,3 +23,7 @@ Appunti di Teoria e Armonia per Chitarra Jazz
 
   11-letture-armoniche
   glossario
+
+.. rst-class:: ultimo-aggiornamento
+
+Versione |release| · aggiornato il |today|
