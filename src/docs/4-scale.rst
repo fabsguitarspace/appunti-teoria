@@ -890,7 +890,7 @@ Se nella minore pentatonica cambi una sola nota, ottieni collezioni nuove, ciasc
 
 La minore 6 e l'esatonale restano senza semitoni; minore 7♭5, maggiore ♭6 e maggiore ♭2 ne contengono uno. È la conferma pratica di quanto detto sopra: il nome indica cinque note, non un unico comportamento.
 
-Questa classificazione segue quella di Jerry Bergonzi, *Inside Improvisation*, vol. 2, *Pentatonics*. Su quali accordi si usano queste collezioni lo vediamo in :doc:`10-armonia-non-funzionale`.
+Questa classificazione segue quella di Jerry Bergonzi, *Inside Improvisation*, vol. 2, *Pentatonics*. Su quali accordi si usano queste collezioni lo vediamo in :doc:`10-armonia-non-funzionale`. Sulla chitarra, nella pagina `Pentatoniche <https://appunti-pratica-per-chitarra-jazz.readthedocs.io/it/latest/pentatoniche.html>`__ del volume di Pratica.
 
 Pentatonica minore e blues
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
