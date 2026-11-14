@@ -787,7 +787,7 @@ La pentatonica è una di quelle cose che, se la prendi nel modo giusto, ti cambi
 Che cos'è davvero
 ~~~~~~~~~~~~~~~~~
 
-“Pentatonica” significa semplicemente “a cinque suoni”. Le due famiglie più usate sono:
+“Pentatonica” significa semplicemente “a cinque suoni”: qualsiasi scala di cinque note è una pentatonica. Le due più usate, e il punto di partenza per tutte le altre, sono:
 
 **Pentatonica maggiore: 1 - 2 - 3 - 5 - 6**
 
@@ -852,6 +852,45 @@ Pentatonica maggiore e minore sono parenti strettissimi.
 La pentatonica maggiore di C (C D E G A) è la stessa collezione di note della pentatonica minore di A (A C D E G). Cambia solo il centro, cioè la nota che senti come “casa”.
 
 Questa cosa è pratica perché ti insegna una lezione enorme: non sono le note a decidere tutto... è il centro che ci metti tu.
+
+Nei due volumi useremo entrambi i nomi alla prima occorrenza, per esempio «La minore pentatonica (= Do maggiore pentatonica)», e poi il nome minore. Il motivo è pratico: le altre pentatoniche si descrivono più facilmente come modifiche della minore.
+
+Altre pentatoniche: cambiare una nota
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Se nella minore pentatonica cambi una sola nota, ottieni collezioni nuove, ciascuna con un suono proprio. Partendo da Do minore pentatonica, Do–Mi♭–Fa–Sol–Si♭:
+
+.. list-table::
+   :header-rows: 1
+
+   * - Nome
+     - Cosa cambia
+     - Note
+     - Formula
+   * - Minore 6
+     - Si♭ diventa La
+     - Do–Mi♭–Fa–Sol–La
+     - 1–♭3–4–5–6
+   * - Minore 7♭5
+     - Sol diventa Sol♭
+     - Do–Mi♭–Fa–Sol♭–Si♭
+     - 1–♭3–4–♭5–♭7
+   * - Maggiore ♭6
+     - Do diventa Do♭
+     - Mi♭–Fa–Sol–Si♭–Do♭
+     - 1–2–3–5–♭6 da Mi♭
+   * - Maggiore ♭2
+     - Fa diventa Mi
+     - Mi♭–Mi–Sol–Si♭–Do
+     - 1–♭2–3–5–6 da Mi♭
+   * - Esatonale
+     - nella minore 6, Do scende a Si
+     - Si–Mi♭–Fa–Sol–La
+     - 1–3–♯4–♯5–♭7 da Si
+
+La minore 6 e l'esatonale restano senza semitoni; minore 7♭5, maggiore ♭6 e maggiore ♭2 ne contengono uno. È la conferma pratica di quanto detto sopra: il nome indica cinque note, non un unico comportamento.
+
+Questa classificazione segue quella di Jerry Bergonzi, *Inside Improvisation*, vol. 2, *Pentatonics*. Su quali accordi si usano queste collezioni lo vediamo in :doc:`10-armonia-non-funzionale`.
 
 Pentatonica minore e blues
 ~~~~~~~~~~~~~~~~~~~~~~~~~~

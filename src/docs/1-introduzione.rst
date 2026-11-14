@@ -189,6 +189,8 @@ L'ordine corretto è sempre lo stesso:
 - poi le parole,
 - poi di nuovo il suono.
 
+Se cerchi un ordine per cominciare a suonare, la pagina `Da dove comincio <https://appunti-pratica-per-chitarra-jazz.readthedocs.io/it/latest/da-dove-comincio.html>`__ del volume di Pratica propone tre percorsi brevi.
+
 Quando senti che stai leggendo per evitare di suonare, chiudilo senza sensi di colpa.
 
 La chitarra ti sta già aspettando.

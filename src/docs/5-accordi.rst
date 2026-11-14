@@ -682,6 +682,37 @@ Naturalmente, le tensioni possono essere combinate liberamente. Si ottengono son
            <source src="_static/music/estensione-13f9.mp3" type="audio/mp3">
           </audio>
 
+Tre segmenti di quattro note
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Le note di un accordo di tredicesima, ordinate per gradi, si possono dividere in tre gruppi di quattro note che si sovrappongono:
+
+.. list-table::
+   :header-rows: 1
+
+   * - Segmento
+     - Maggiore e dominante
+     - Minore
+   * - 1–5
+     - 1–2–3–5
+     - 1–3–4–5
+   * - 5–9
+     - 5–6–7–9
+     - 5–7–8–9
+   * - 9–13
+     - 9–10–♯11–13
+     - 9–11–12–13
+
+I numeri seguono la scala dell'accordo: su un minore 3 e 7 sono ♭3 e ♭7, su un dominante 7 è ♭7. 8, 10 e 12 sono fondamentale, terza e quinta all'ottava superiore.
+
+Ogni segmento è il precedente spostato di una quinta. Su Cmaj7, 5–6–7–9 è Sol–La–Si–Re, cioè 1–2–3–5 di Sol; 9–10–♯11–13 è Re–Mi–Fa♯–La, 1–2–3–5 di Re. Sul minore vale lo stesso con 1–3–4–5: su Cm7, 5–7–8–9 è Sol–Si♭–Do–Re, 1–3–4–5 di Sol minore.
+
+1–2–3–5 e 1–3–4–5 hanno gli stessi intervalli in ordine rovesciato: due seconde maggiori e una terza minore, oppure una terza minore e due seconde maggiori. Sono le due letture della stessa pentatonica, maggiore e relativa minore (vedi :doc:`4-scale`).
+
+**Note da trattare.** In maggiore e dominante l'unico grado della scala che resta fuori da 1–5 e 5–9 è il 4. Dista un semitono dalla terza: tenuto a lungo contrasta con l'accordo e di solito scende sul 3 o sale sul 5. La ♯11 non ha lo stesso problema, perché sopra la terza forma una nona maggiore, non minore. Nel minore il grado escluso è il 6 della scala dorica: forma un tritono con la ♭3 e richiama un colore di dominante, ma non chiede di risolvere ed è frequente sulla tonica minore, come in Cm6.
+
+Questa divisione segue Jerry Bergonzi, *Inside Improvisation*, vol. 1, *Melodic Structures*. Come usarla sulla chitarra è spiegato nella pagina `Strutture melodiche e costruzione della frase <https://appunti-pratica-per-chitarra-jazz.readthedocs.io/it/latest/strutture-melodiche.html>`__ del volume di Pratica.
+
 Una chiave di lettura
 ~~~~~~~~~~~~~~~~~~~~~
 

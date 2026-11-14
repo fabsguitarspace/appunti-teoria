@@ -179,6 +179,30 @@ gradi rispetto al basso. Controlla terza e settima dell'armonia,
 le tensioni sostenute a lungo e i punti di riposo della melodia.
 Una diteggiatura familiare non rende automaticamente adatta una scala.
 
+Su un accordo minore settima con funzione dorica hai almeno tre pentatoniche minori: sulla fondamentale, sulla quinta e sulla seconda. Su Dm7, Re minore pentatonica dà 1–♭3–4–5–♭7, La minore 5–♭7–1–9–11, Mi minore 9–11–5–13–1. La prima contiene la terza; le altre due la lasciano all'accompagnamento e aggiungono tensioni. Su un accordo maggiore settima vale lo stesso: su Cmaj7, La minore dà 6–1–2–3–5, Mi minore 3–5–6–7–9, Si minore 7–9–3–♯11–13, cioè il colore lidio.
+
+Su semidiminuiti e dominanti questa scelta non basta: servono le pentatoniche alterate di :doc:`4-scale`. Alcuni esempi: Do minore 6 su F7 dà 5–♭7–1–9–3; Do minore 7♭5 su A♭7 dà 3–5–13–♭7–9; Mi♭ maggiore ♭2 su C7 dà ♯9–3–5–♭7–1; Si esatonale su F7♯11 dà ♯11–♭7–1–9–3.
+
+Quanto una pentatonica suona lontana da un'altra si può misurare contando le note comuni. Rispetto a Mi minore pentatonica:
+
+.. list-table::
+   :header-rows: 1
+
+   * - Note comuni
+     - Pentatoniche minori
+   * - 4
+     - La, Si
+   * - 3
+     - Re, Fa♯
+   * - 2
+     - Do♯, Sol
+   * - 1
+     - Do, La♭
+   * - 0
+     - Mi♭, Fa, Si♭
+
+Meno note comuni ci sono, più l'uscita è evidente. Il side-slip della sezione seguente passa da Mi minore a Fa minore pentatonica: nessuna nota in comune, ed è per questo che lo spostamento si riconosce subito. Alternare una pentatonica di partenza e una lontana si chiama a volte **poli-pentatonica**.
+
 Side-slip: tensione riconoscibile e rientro
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
