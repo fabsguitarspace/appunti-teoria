@@ -224,6 +224,11 @@ anche il ritmo, fai prima ascoltare almeno un elemento familiare per
 rendere percepibile il collegamento. Pausa e registro possono separare
 una domanda dalla risposta senza introdurre altre note.
 
+La pratica di queste trasformazioni sulla chitarra, con strutture di quattro
+note e un II–V–I, è nella pagina `Strutture melodiche e costruzione della frase
+<https://appunti-pratica-per-chitarra-jazz.readthedocs.io/it/latest/strutture-melodiche.html>`__
+del volume di Pratica.
+
 Dall'analisi alla pratica
 -------------------------
 
