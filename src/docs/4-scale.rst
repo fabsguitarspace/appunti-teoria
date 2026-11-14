@@ -782,7 +782,7 @@ Scala pentatonica
 
 La pentatonica è una di quelle cose che, se la prendi nel modo giusto, ti cambia la vita... se la prendi come “forma da ripetere”, **ti intrappola**.
 
-È una scala di **5 note**. Sembra poco. In realtà è un set di note **stabili, cantabili, resistenti**: funziona su tanti accordi, regge il tempo, e soprattutto si presta a quel tipo di fraseggio “parlato” che fa subito musica.
+È una scala di **cinque note per ottava**. Le pentatoniche maggiore e minore che vediamo qui permettono di costruire frasi riconoscibili con poco materiale. Il loro effetto cambia però con l'accordo, il ritmo e le note su cui ti fermi.
 
 Che cos'è davvero
 ~~~~~~~~~~~~~~~~~
@@ -815,18 +815,14 @@ Che cos'è davvero
    </audio>
 
 
-La cosa importante non è la formula... è l'effetto: togliendo due gradi della scala diatonica, elimini molte frizioni “automatiche” e ottieni una tavolozza che suona bene anche quando l'armonia sotto si muove.
+Nella maggiore pentatonica togliamo quarto e settimo grado dalla scala maggiore. Restano cinque note senza semitoni fra loro. La relativa minore usa gli stessi suoni con un centro diverso.
 
-Perché suona bene quasi sempre
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Poche note, relazioni diverse
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-La pentatonica contiene soprattutto:
+L'assenza di semitoni dentro queste due pentatoniche non elimina gli attriti con l'accompagnamento. Do–Re–Mi–Sol–La sopra Cmaj7 dà 1–9–3–5–13; sopra Dm7 le stesse note danno ♭7–1–9–11–5.
 
-- note dell'accordo (o note vicinissime)
-- intervalli molto cantabili
-- poche “spine” che ti costringono a risolvere subito
-
-Ecco perché la senti ovunque: folk, rock, blues, pop, jazz... è una lingua trasversale.
+Il materiale è identico, ma cambiano gli appoggi. Prima scegli il sostegno armonico, poi ascolta dove vuoi fermarti. Altre pentatoniche possono contenere semitoni: il nome indica cinque note, non un unico comportamento.
 
 Un modo molto “pulito” di capire perché la pentatonica suona così bene è questo: non pensare a una scala... pensa a una pila di quinte.
 
@@ -845,7 +841,7 @@ Ora “metti in ordine” queste note dentro un'ottava:
 
 Risultato: Do pentatonica maggiore.
 
-Quindi la pentatonica non è solo “una scala di 5 note”... è un frammento del giro delle quinte, cioè una porzione di armonia naturale.
+Questa costruzione spiega la relazione fra i suoni della pentatonica maggiore e della relativa minore. Non descrive ogni possibile scala di cinque note.
 
 Maggiore e minore... e il trucco più utile
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -911,7 +907,7 @@ Pentatonica... universale, non “blues”
 
 Ogni tanto la pentatonica viene chiamata “**scala cinese**”. Non è del tutto sbagliato... ma è molto incompleto, e rischia di creare un altro equivoco: che la pentatonica, da sola, abbia già un “genere” dentro.
 
-La pentatonica non è un genere. È un insieme di cinque gradi molto stabile, presente in tantissime culture musicali. Il blues, invece, è una lingua storica e sonora specifica. Può usare la pentatonica come materiale... ma non coincide con essa.
+Una scala di cinque note non determina da sola un genere. Le pentatoniche maggiore e minore compaiono in linguaggi diversi; il blues ne usa il materiale con una pronuncia e un comportamento armonico riconoscibili.
 
 La pentatonica maggiore è una scala *anemitonica*, cioè **senza semitoni**. Questa assenza di attriti “obbligati” la rende:
 
@@ -923,13 +919,11 @@ La pentatonica maggiore è una scala *anemitonica*, cioè **senza semitoni**. Qu
 
 Per questo la trovi in repertori tradizionali dell'Asia orientale ma anche in musiche celtiche, africane, americane, mediterranee. Chiamarla “cinese” è più una semplificazione storica occidentale che una definizione teorica precisa.
 
-La pentatonica “pura” è neutra nel senso migliore del termine: non impone una grammatica armonica rigida.
-
-Prendiamo la pentatonica maggiore: 1 2 3 5 6. Se la confronti con la scala maggiore completa (1 2 3 4 5 6 7), noti che mancano 4 e 7... proprio i due gradi che, nella tonalità europea, creano le tensioni più direzionali (la 4 verso la 3, la 7 verso la 1). Togliendo quelle due calamite, ottieni un suono aperto, “senza spigoli”, che non ti costringe a risolvere in modo specifico.
+La maggiore pentatonica omette Fa e Si rispetto a Do maggiore: non contiene il semitono Mi–Fa né Si–Do. Questo le dà un profilo diverso dalla scala completa, ma non decide da solo come debba essere usata. Sopra un accordo diverso anche gli stessi cinque suoni possono creare tensioni.
 
 Il blues invece nasce e vive di attriti. Attriti di intonazione, di espressività, di ambiguità.
 
-Quindi: una pentatonica suonata in modo perfettamente temperato e “pulito” tende a evocare un colore folk, arcaico, universale... non necessariamente blues.
+Anche con note perfettamente temperate puoi far riconoscere una frase blues attraverso ritmo, articolazione e rapporto con gli accordi. Le inflessioni di intonazione ampliano queste possibilità.
 
 Cosa rende blues quel materiale è un comportamento melodico e armonico.
 

@@ -120,7 +120,7 @@ Se ne riconosci il suono, hai già fatto metà del lavoro.
 - Forte attrito
 - Sensazione di urgenza
 - È l'intervallo del cromatismo, dell'avvicinamento, della spinta.
-- Non vive mai da solo... chiede sempre una risoluzione.
+- Spesso conduce per semitono a una nota d'arrivo. Può anche restare come colore, se il contesto la sostiene.
 
 .. image:: 
    _static/music/intervallo-m2.*
@@ -195,11 +195,10 @@ Se ne riconosci il suono, hai già fatto metà del lavoro.
 
 - Abbreviazione: **4**, **P4** 
 - Numero di semitoni: **5**
-- Stabilità apparente
-- Leggera sospensione
-- Orizzontalità
-- Non spinge forte, ma non riposa del tutto.
-- È un intervallo di passaggio mascherato da stabilità.
+- Apertura
+- Possibile sospensione
+- Sopra la fondamentale di un accordo maggiore può creare attrito con la terza.
+- In un accordo sus o in una struttura per quarte può invece essere parte del suono che vuoi mantenere.
 
 .. image:: 
    _static/music/intervallo-p4.*
@@ -215,11 +214,10 @@ Se ne riconosci il suono, hai già fatto metà del lavoro.
 
 - Abbreviazione: **♭5** / **d5** (quinta diminuita), **♯4** / **A4** (quarta aumentata)
 - Numero di semitoni: **6**
-- Massima ambiguità
-- Tensione strutturale
-- Direzione obbligata
-- Non è “brutto”. È instabile per natura.
-- Proprio per questo è uno dei motori principali dell'armonia.
+- Tensione e ambiguità
+- Fra terza e settima di V7 rende riconoscibile la spinta verso il I.
+- In altri contesti può restare parte del colore, come la quarta aumentata sopra un accordo maggiore.
+- Ascolta dove vanno le due note: la distanza da sola non decide la risoluzione.
 
 .. image:: 
    _static/music/intervallo-d5.*
@@ -311,12 +309,11 @@ Se ne riconosci il suono, hai già fatto metà del lavoro.
 
 - Abbreviazione: **maj7**, **M7** 
 - Numero di semitoni: **11**
-- Tensione raffinata
-- Fragilità
-- Sospensione intensa
-- Non urla. Sussurra, ma non riposa.
+- Vicinanza all'ottava
+- Colore riconoscibile negli accordi maj7
+- Può cercare l'ottava oppure restare parte dell'accordo.
 
-.. image:: 
+.. image::
    _static/music/intervallo-maj7.*
    :width: 300px
 
@@ -326,25 +323,9 @@ Se ne riconosci il suono, hai già fatto metà del lavoro.
       <source src="_static/music/intervallo-maj7.mp3" type="audio/mp3">
    </audio>
 
-La settima maggiore è un intervallo strano.
+La settima maggiore è a un semitono dall'ottava. Prova Si–Do sopra un basso Do: il movimento è breve e ben riconoscibile.
 
-Non è violento come il tritono, non è ruvido come la seconda minore. Eppure è profondamente instabile.
-
-È una tensione che non chiede di muoversi subito.
-
-Resta lì, sospesa, come qualcosa che non si chiude.
-
-Quando la ascolti, non senti un'urgenza fisica di risoluzione. Senti piuttosto una fragilità. È come se la nota fosse troppo vicina a qualcosa di stabile per potersi rilassare davvero, ma non abbastanza lontana da creare conflitto.
-Questa è la sua forza.
-
-Dal punto di vista percettivo, la settima maggiore è quasi un unisono mancato.
-
-È a un passo dall'ottava, che invece rappresenta il ritorno, la conferma.
-Proprio questa vicinanza crea la tensione.
-
-L'orecchio sente che “manca pochissimo”, ma quel pochissimo è decisivo. Non è una distanza che puoi ignorare. È una distanza che senti sempre.
-
-Per questo la settima maggiore non è mai neutra. Anche quando è suonata piano, anche quando è immersa in un contesto morbido, rimane irrisolta.
+Ora tieni il Si dentro Cmaj7, senza farlo salire. L'accordo può sostenere una conclusione proprio con quel colore. La vicinanza all'ottava resta, ma non ti obbliga a raggiungerla.
 
 **Ottava**
 

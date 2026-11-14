@@ -12,7 +12,7 @@ Il diminuito è l'accordo più mobile della tonalità. Nella maggior parte dei c
 Accordi e scale diminuite
 -------------------------
 
-Un accordo di settima diminuita contiene **due tritoni** (in C°7: Do–Sol♭ e Mi♭–La); la triade diminuita ne ha uno solo. Con due tensioni di quel tipo dentro, l'accordo non trova mai un punto di riposo: chiede sempre di muoversi.
+Un accordo di settima diminuita contiene **due tritoni** (in C°7: Do–Sol♭ e Mi♭–La); la triade diminuita ne ha uno solo. Nei collegamenti che studiamo qui, il diminuito prepara l'accordo vicino: segui dove vanno le singole voci per sentire la risoluzione.
 
 Ogni diminuito di passaggio si può completare con le note della tonalità che lo circonda, ottenendo una scala di otto suoni. Le note del diminuito cambiano a seconda della posizione nella tonalità, come succede per le dominanti secondarie; per comodità di lettura molti musicisti le scrivono con l'enarmonico più semplice.
 
@@ -186,14 +186,11 @@ Costruendo tetradi a terze su ciascun grado della scala, ottieni:
 
 Quindi l'armonizzazione “non genera otto accordi diversi”... genera quattro rivolti di C6 alternati con quattro rivolti dello stesso diminuito.
 
-Un accordo °7 è simmetrico (è fatto di terze minori sovrapposte). Per questo:
+Un accordo °7 è simmetrico: le sue note dividono l'ottava in quattro terze minori. Per questo D°7, F°7, A♭°7 e B°7 contengono gli stessi suoni, scritti qui con gli enarmonici più semplici. Cambiano il nome e la lettura nel contesto.
 
-D°7 = F°7 = A♭°7 = B°7 (stesso insieme di suoni, cambia solo quale nota consideri “radice”).
+Questa proprietà riguarda il diminuito, non l'intera scala sesta diminuita. Do–Re–Mi–Fa–Sol–La♭–La–Si non conserva lo stesso insieme di note se la trasporti per terze minori.
 
-Questa simmetria spiega due cose importanti:
-
-* la scala ha pochissime “trasposizioni davvero diverse”
-* il diminuito funziona perfettamente come materiale di collegamento: non introduce un nuovo mondo, introduce un meccanismo
+Il movimento che ci interessa nasce dall'alternanza: i quattro rivolti di C6 si intrecciano con i quattro rivolti di D°7. Puoi così far muovere le voci mantenendo riconoscibile il centro di Do.
 
 Dentro quel materiale puoi estrarre:
 

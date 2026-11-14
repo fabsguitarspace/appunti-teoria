@@ -176,91 +176,34 @@ Parti da una scala (es. Do maggiore) e costruisci gli accordi diatonici (triadi 
 
 Questa asimmetria crea un **campo di forze**. Quando quel campo è attivo, l'orecchio sente “siamo qui”.
 
-Nella tonalità maggiore esistono due gradi strutturalmente instabili che organizzano tutto il campo armonico:
+Nelle cadenze maggiori, due movimenti aiutano a sentire l'arrivo: il VII grado sale al I e il IV scende al III. In Do maggiore sono Si–Do e Fa–Mi. Li senti insieme nel passaggio da G7 a C.
 
-- IV grado (la quarta rispetto alla tonica)
-- VII grado (la settima maggiore, la sensibile)
-
-Questi due gradi non sono instabili “per convenzione”, ma perché creano attrito diretto con la tonica e generano direzione.
-
-.. important::
-
-   La presenza o assenza di questi gradi negli accordi è ciò che determina il tipo di funzione e quindi l'area tonale.
+La presenza di Si o Fa è un indizio, ma non basta da sola ad assegnare una funzione. Em contiene Si e può prolungare l'area di tonica; la triade G non contiene Fa e può già preparare C. Conta il percorso in cui l'accordo entra.
 
 Area di tonica
 ^^^^^^^^^^^^^^
 
-Gli accordi di tonica non contengono il IV grado della scala maggiore.
+Il I è il riferimento principale. IIIm e VIm possono prolungarne il campo grazie alle note condivise, quando il contesto conferma quella lettura.
 
-Accordi: I, IIIm, VIm
-
-- nessun semitono che “spinga” verso la tonica
-- nessuna gravità sottodominante
-- nessuna sensibile attiva
-
-Risultato percettivo: stabilità.
-
-Questi accordi:
-
-- possono durare a lungo
-- non creano attesa
-- non chiedono risoluzione
-
-Sono “dentro casa”.
+In Do maggiore Em condivide Mi e Sol con C; Am condivide Do e Mi con C. Questo permette di variare il basso e il colore senza allontanarsi necessariamente dal centro. Non significa che ogni Em o Am abbia sempre la stessa funzione.
 
 Area di sottodominante
 ^^^^^^^^^^^^^^^^^^^^^^
 
-Gli accordi sottodominanti contengono il IV grado, ma non il VII.
+IIm e IV preparano spesso la dominante. Nel II–V–I in Do, Dm7 porta verso G7: Fa resta comune e Do può scendere a Si. Il movimento comincia prima dell'arrivo sul V.
 
-Accordi: IIm, IV
-
-Il IV grado:
-
-- è instabile rispetto alla tonica
-- tende a scendere verso la terza
-- crea un allontanamento morbido
-
-
-Risultato percettivo: movimento senza urgenza.
-
-Questi accordi:
-
-- non risolvono
-- non spingono forte
-- aprono lo spazio armonico
-
-Sono il passaggio.
+Nelle triadi Dm e F compare Fa, il IV grado della tonalità. Passando alle settime trovi Dm7 e Fmaj7: il colore si amplia, ma in una cadenza possono continuare a preparare il V. Osserva il movimento delle voci, non soltanto la presenza di Fa.
 
 Area di dominante
 ^^^^^^^^^^^^^^^^^
 
-Qui compare sia il IV sia il VII grado (la sensibile).
+V e VII° preparano tipicamente il I; con le settime diventano V7 e VII∅7. In Do maggiore, G7 contiene Si e Fa: nel passaggio a C, Si può salire a Do e Fa scendere a Mi. B∅7 contiene lo stesso tritono e può partecipare alla stessa preparazione.
 
-Accordi tipici: V, VII∅
+La triade G contiene già Si, pur senza Fa. Aggiungere la settima rende esplicito il tritono; non crea da zero ogni possibilità di funzione dominante.
 
-La sensibile:
+.. important::
 
-- è a semitono dalla tonica
-- crea attrito massimo
-- ha direzione obbligata
-- spesso è accompagnata anche dal IV grado (es. nel V7), ma è il VII a determinare la funzione dominante
-
-Risultato percettivo: tensione narrativa.
-
-Questi accordi:
-
-- non possono restare fermi
-- chiedono risoluzione
-- generano attesa
-
-Sono il viaggio.
-
-Questo modello funziona perché:
-
-- IV e VII sono gli unici gradi che formano semitoni strutturali con le note di stabilità
-- sono le note che “non si appoggiano”
-- l'orecchio li riconosce immediatamente
+   Queste aree sono una mappa per leggere i movimenti tonali. Verifica accordi precedenti e successivi, melodia e punti d'arrivo: la stessa sigla può assumere un ruolo diverso in un altro percorso.
 
 Sostituzione funzionale
 ^^^^^^^^^^^^^^^^^^^^^^^

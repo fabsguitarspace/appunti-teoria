@@ -711,18 +711,11 @@ Questo non significa che siano neutri.
 
 Significa che non chiedono automaticamente di andare da qualche parte.
 
-La **dominante** è diversa.
-Non sta ferma nemmeno quando è ferma.
+Un accordo di **settima di dominante** contiene il tritono fra terza maggiore e settima minore. In G7 sono Si e Fa.
 
-Un accordo dominante contiene al suo interno una tensione strutturale che spinge in avanti: il tritono tra la terza maggiore e la settima minore. 
+Quando G7 prepara C, quelle due voci possono andare a Do e Mi: senti il movimento verso la tonica. È una delle direzioni fondamentali dell'armonia tonale.
 
-Questa tensione non avviene per convenzione, ma per attrito percettivo: alcune delle sue note non si appoggiano bene sul centro e cercano una risoluzione.
-
-Per questo la dominante è narrativa.
-
-Non descrive un luogo, ma un momento di passaggio.
-
-Quando compare, l'orecchio sa che qualcosa deve succedere. Anche se non sai perché, lo senti. E quando la risoluzione arriva, il sollievo non è intellettuale. È fisico.
+Ma G7 può anche restare fermo in un vamp o essere il I7 di un blues in Sol. La struttura è la stessa; il ruolo cambia con il contesto. Distingui quindi la qualità dell'accordo dalla funzione di dominante che può assumere.
 
 Esistono accordi che non stanno né fermi né spingono in modo chiaro. Sono ambigui per natura.
 

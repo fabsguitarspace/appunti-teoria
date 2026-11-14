@@ -73,3 +73,5 @@ Il nuovo capitolo `src/docs/12-ritmo-sviluppo.rst` precede le letture conclusive
 - [Riscrittura dei passaggi con voce da manuale tradotto](analisi/011-riscrittura-passaggi-tradotti.md) — capitoli 6–8 riscritti da zero (cadenze, tonalità minore, armonia cromatica, diminuiti di passaggio), con l'introduzione di Pratica, 13 novembre 2026.
 
 - [Chiusura dei punti della revisione editoriale](analisi/012-chiusura-revisione-editoriale.md) — lettura a posteriori, autoverifiche 3–9, capitoli 9 e 11 ampliati, spartiti nel 13, glossario, ascolti d'apertura e cellula guida, 13 novembre 2026.
+
+- [Correzioni concettuali e strutture melodiche](../../appunti-pratica/Docs/analisi/022-strutture-melodiche-revisione-integrata.md) — fase A applicata il 14 novembre 2026: intervalli, pentatoniche, funzione dominante, aree tonali e simmetria del diminuito; proposta e verifica nel documento congiunto.
