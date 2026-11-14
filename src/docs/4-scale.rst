@@ -330,39 +330,39 @@ Nel maggiore:
 
 - la tonica è chiara
 - le tensioni sono ordinate
-- il sistema tende alla stabilità
+- sesto e settimo grado hanno una sola forma
 
 Nel minore:
 
-- il centro è meno definitivo
+- la tonica può essere altrettanto conclusiva, se la prepara una dominante con la sensibile
 - le tensioni sono più ambigue
-- il sistema è mobile: 
-   - alcuni gradi cambiano identità
-   - la scala non è mai una sola
+- il sistema è mobile:
+   - sesto e settimo grado cambiano identità
+   - la scala non è una sola
    - le tensioni si adattano al contesto
    - l'orecchio accetta più versioni dello stesso suono
 
-Tristezza, dramma, instabilità
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. _tristezza-dramma-instabilita:
+
+Tristezza, dramma, mobilità
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Dire che il minore... è triste... è una semplificazione comoda... ma insufficiente.
 
-Il mondo minore non è semplicemente “più scuro” del maggiore. **È instabile, mobile, ambiguo**.
+Il mondo minore non è semplicemente “più scuro” del maggiore. **È mobile e ambiguo**.
 
-Dove il maggiore tende a dichiarare un centro, il minore lo *mette in discussione*.
+Mobile non vuol dire instabile. La tonica minore può chiudere un brano con la stessa fermezza della maggiore. A muoversi sono i gradi che la circondano: sesto e settimo hanno due forme, e la musica sceglie a seconda della direzione.
 
-Dove il maggiore organizza, il minore *oscilla*.
-
-Dove il maggiore afferma, il minore *interroga*.
+Dove il maggiore offre una sola strada verso la tonica, il minore ne offre diverse: con la sensibile o senza, con la sesta maggiore o minore.
 
 Per questo il minore è spesso associato a:
 
 * dramma
-* tensione irrisolta
+* tensione prolungata
 * introspezione
 * conflitto emotivo
 
-Non perché sia debole, ma perché **non è mai definitivo**.
+Non perché sia debole, ma perché **lascia aperte più strade**. Lo stesso materiale può suonare sereno, come nel dorico, o deciso, come in una cadenza con V7: il carattere dipende da come lo usi.
 
 Le quattro scale minori
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -535,7 +535,7 @@ Perché la musica non sceglie mai una sola versione
 
 Queste quattro scale non sono alternative teoriche, ma **quattro modi diversi di organizzare il mondo minore** in base a ciò che la musica deve dire.
 
-Nella musica reale, soprattutto quella viva, improvvisata o cantabile, il **minore non si presenta mai in forma pura**.
+Nella musica reale, soprattutto quella viva, improvvisata o cantabile, il **minore resta raramente in una sola forma** per tutto il brano.
 
 Le quattro versioni convivono, si sovrappongono, si contaminano. Non per confusione, ma per **necessità espressiva**.
 

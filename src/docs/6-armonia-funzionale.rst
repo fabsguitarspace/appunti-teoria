@@ -405,8 +405,10 @@ Improvvisando, prova a sentire questo respiro anche senza guardare le sigle. Le 
       <source src="_static/music/cadenza-composta2.mp3" type="audio/mp3">
    </audio>
 
-Tonalità minore: un sistema non stabile
-----------------------------------------
+.. _tonalita-minore-un-sistema-non-stabile:
+
+Tonalità minore: un centro, più scale
+-------------------------------------
 
 Il minore non è una tonalità, è una famiglia
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -423,10 +425,10 @@ Esistono più versioni della scala minore che convivono:
 - minore melodica
 - dorica
 
-Questa pluralità non è un problema teorico. È la descrizione di un fatto musicale: nel minore, la gravità non è mai completamente stabilizzata.
+Questa pluralità non è un problema teorico. È la descrizione di un fatto musicale: nel minore la tonica resta ferma, mentre sesto e settimo grado cambiano forma a seconda della direzione.
 
-Per questo gli accordi che nascono dal minore non sono mai oggetti fissi.
-Sono **adattamenti locali** a un contesto in movimento.
+Per questo molti accordi del minore non hanno una qualità fissa.
+Sono **adattamenti locali**: lo stesso grado prende la forma che serve in quel punto.
 
 La base resta la **minore naturale**, il modo eolio: da lì viene la maggior parte degli accordi dei brani in minore. Gli altri arrivano dalla minore armonica, dalla minore melodica o dalla dorica, quasi sempre per un motivo preciso che vedremo uno per volta.
 
@@ -643,7 +645,7 @@ Queste modifiche non nascono per complicare la teoria ma per far funzionare il r
 
 Nel minore, quindi, gli accordi non derivano da una sola scala, ma da un compromesso continuo tra stabilità e direzione.
 
-Nel maggiore, un accordo diatonico tende a mantenere una funzione abbastanza stabile. Nel minore, no.
+Nel maggiore, un accordo diatonico tende a mantenere una qualità fissa. Nel minore la funzione resta riconoscibile, ma la qualità cambia più spesso.
 
 Lo stesso grado può apparire con qualità diverse:
 
@@ -665,7 +667,7 @@ Questo genera:
 - dominanti con alterazioni
 - dominanti secondarie più frequenti
 
-La dominante minore “diatonica” esiste, ma spesso non basta. La dominante maggiore è un evento narrativo, non un dato strutturale.
+La dominante minore “diatonica” esiste, ma per una cadenza conclusiva spesso non basta: lì si usa quasi sempre V7, con la sensibile. Vm7 resta utile quando la linea scende verso il sesto grado o quando non si vuole chiudere.
 
 Il ciclo minore
 ~~~~~~~~~~~~~~~
