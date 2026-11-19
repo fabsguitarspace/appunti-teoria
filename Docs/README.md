@@ -40,6 +40,8 @@ Le scelte storiche osservate nei sorgenti non sono considerate approvate retroat
 
 I sorgenti prevalgono sulla KB. Dopo cambiamenti rilevanti aggiornare evidenze e data; verificare sempre percorsi e riferimenti prima di riutilizzare una conclusione. `Docs` è distinta da `src/docs` e non entra nella build Sphinx corrente.
 
+**Note di rilascio** (dal 19 novembre 2026, su richiesta dell'utente): `src/docs/note-di-rilascio.rst`, ultima voce dell'indice e collegata dal piè di pagina della homepage. A ogni modifica dei contenuti pubblicata (ogni push su main fa avanzare la PATCH) aggiungere una voce, scritta per il lettore, nella sezione «Prossimo aggiornamento»; alla pubblicazione la sezione diventa una sottosezione datata («19 novembre 2026») sotto la versione MAJOR.MINOR corrente. Quando cambia `VERSIONE` in `src/docs/conf.py` aprire una nuova sezione «X.Y (dal …)» in cima. `tests/test_note_di_rilascio.py` (copia identica nei tre volumi) controlla pagina, indice, sezione della versione attuale e ordine delle date.
+
 ## Analisi disponibili
 
 - [Pipeline musicale: dipendenze, aggiornamento e alternative](analisi/001-pipeline-musicale.md) — analisi congiunta dei due repository; raccomandazioni da decidere.

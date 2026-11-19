@@ -26,7 +26,8 @@ Realizzati con l'assistenza dell'intelligenza artificiale.
 
   11-letture-armoniche
   glossario
+  note-di-rilascio
 
 .. rst-class:: ultimo-aggiornamento
 
-Versione |release| · aggiornato il |today|
+Versione |release| · aggiornato il |today| · :doc:`note di rilascio <note-di-rilascio>`

@@ -33,6 +33,9 @@ I termini usati nei due volumi, Teoria e Pratica, in ordine alfabetico. Ogni voc
    Ciclo
       Movimento delle fondamentali per quinte discendenti (o quarte ascendenti), come G7 → C. Si dice anche movimento per ciclo.
 
+   Cluster
+      Voicing con almeno due voci vicine a distanza di seconda (voicing a grappolo): Sol Re Mi Si su Do è un Cmaj9 a grappolo.
+
    Cromatico
       Che usa note estranee alla scala di riferimento, spesso per avvicinarsi di semitono a una nota bersaglio.
 
@@ -47,6 +50,12 @@ I termini usati nei due volumi, Teoria e Pratica, in ordine alfabetico. Ogni voc
 
    Drop 2
       Voicing a quattro voci ottenuto abbassando di un'ottava la seconda voce dall'alto di un accordo in posizione stretta; il più usato in chord melody sulle corde alte.
+
+   Drop 2 e 4
+      Voicing a quattro voci ottenuto abbassando di un'ottava la seconda e la quarta voce dall'alto di un accordo in posizione stretta (*drop 2&4*); sulla chitarra lascia due corde mute ed è molto aperto.
+
+   Drop 3
+      Voicing a quattro voci ottenuto abbassando di un'ottava la terza voce dall'alto di un accordo in posizione stretta; sulla chitarra separa il basso dalle voci superiori con una corda muta.
 
    Enarmonia
       Due nomi per la stessa altezza nel temperamento equabile, come Fa♯ e Sol♭. Il nome dipende dalla funzione della nota.
@@ -99,6 +108,9 @@ I termini usati nei due volumi, Teoria e Pratica, in ordine alfabetico. Ogni voc
    Scala bebop
       Scala di sette suoni con una nota cromatica aggiunta, per far cadere le note dell'accordo sui movimenti in una linea di ottavi.
 
+   Senza fondamentale
+      Voicing che lascia la fondamentale al basso dell'insieme e usa terza e settima più due colori fra quinta, nona e tredicesima, con una nota guida al basso (*rootless*): Mi Si Re Sol su un Do al basso è Cmaj9.
+
    Sensibile
       Nota a un semitono sotto la tonica (Si in Do), che tende a salire. Nell'accordo di dominante è la terza.
 
@@ -114,6 +126,9 @@ I termini usati nei due volumi, Teoria e Pratica, in ordine alfabetico. Ogni voc
    Sottodominante minore
       Funzione degli accordi presi dal minore che contengono la sesta minore della tonalità e la fanno scendere sulla quinta: Fm7, B♭7, A♭maj7 in Do (:doc:`7-armonia-cromatica`).
 
+   Struttura superiore
+      Triade maggiore suonata sopra una nota guida, che porta le tensioni dell'accordo (*upper structure*): Re maggiore sopra il Si♭ dà C13(♯11).
+
    Swing
       Pronuncia ritmica degli ottavi, con il primo più lungo del secondo e accenti sui tempi deboli; nessun rapporto fisso la descrive del tutto.
 
@@ -122,6 +137,9 @@ I termini usati nei due volumi, Teoria e Pratica, in ordine alfabetico. Ogni voc
 
    Tonicizzazione
       Breve messa in rilievo di un grado attraverso la sua dominante, senza un vero cambio di centro (:doc:`6-armonia-funzionale`).
+
+   Triadi strette e late
+      Triadi usate come voicing: strette se le tre note stanno dentro un'ottava, su tre corde vicine; late (dette anche a parti late, *spread*) se la voce centrale scende di un'ottava e fra le due voci gravi resta una corda.
 
    Tritono
       Intervallo di sei semitoni, quarta aumentata o quinta diminuita. Fra terza e settima di un accordo di dominante crea la spinta verso la risoluzione.
@@ -137,3 +155,6 @@ I termini usati nei due volumi, Teoria e Pratica, in ordine alfabetico. Ogni voc
 
    Voicing
       Disposizione concreta delle note di un accordo: quali note, in che ordine, su quali corde.
+
+   Voicing per quarte
+      Voicing con le note sovrapposte per quarte giuste invece che per terze (detto anche quartale); la forma «So What» aggiunge in cima una terza maggiore: Do Fa Si♭ Mi♭ Sol su Cm7.

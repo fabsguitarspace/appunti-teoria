@@ -175,10 +175,10 @@ La triade non cambia identità… cambia solo “come si presenta”.
    </audio>
 
 
-Triadi a parti late
-~~~~~~~~~~~~~~~~~~~~~
+Triadi late
+~~~~~~~~~~~
 
-Una triade a parti late (in inglese *open position triad* o *spread triad*) è una triade in cui le tre note non sono tutte “attaccate” (come nella posizione chiusa), ma vengono spaziate, aprendo il suono.
+Nelle **triadi late** (dette anche a parti late; in inglese *open position triad* o *spread triad*) le tre note non sono tutte “attaccate”, come nelle triadi strette, ma vengono spaziate, aprendo il suono.
 
 Si ottiene prendendo una delle voci della triade e alzandola o abbassandola di un'ottava:
 
@@ -192,7 +192,7 @@ Si ottiene prendendo una delle voci della triade e alzandola o abbassandola di u
       <source src="_static/music/triade-maggiore-spread.mp3" type="audio/mp3">
    </audio>
 
-Le triadi a parti larghe sono il ponte tra:
+Le triadi late sono il ponte tra:
 
 - “forme” (che spesso ti bloccano)
 - e musica che si muove davvero
