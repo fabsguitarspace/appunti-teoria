@@ -12,14 +12,14 @@ La versione ha tre numeri, **MAJOR.MINOR.PATCH**, e compare in fondo alla pagina
 
 Le novità sono raggruppate per MAJOR.MINOR e, all’interno, per data di pubblicazione.
 
-Prossimo aggiornamento
-----------------------
+1.0 (dall’11 novembre 2026)
+---------------------------
+
+19 novembre 2026
+~~~~~~~~~~~~~~~~
 
 - :doc:`glossario`: nuove voci sulle famiglie di voicing (drop 3, drop 2 e 4, senza fondamentale, triadi strette e late, struttura superiore, voicing per quarte, cluster), con gli stessi nomi del capitolo Accordi di Pratica.
 - :doc:`5-accordi`: «Triadi a parti late» diventa «Triadi late»; «a parti late» resta come sinonimo.
-
-1.0 (dall’11 novembre 2026)
----------------------------
 
 15 novembre 2026
 ~~~~~~~~~~~~~~~~
