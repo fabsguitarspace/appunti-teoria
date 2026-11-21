@@ -30,6 +30,8 @@ Per questo una sequenza rigida spesso crea solo frustrazione:
 
 Ma l'orecchio non è mai “in ritardo”.
 
+Il modo più diretto per esporlo alla musica è imparare i brani dai dischi. Gli Appunti di Repertorio spiegano perché, nella sezione `Perché il tema si impara a orecchio <https://appunti-di-repertorio-per-chitarra-jazz.readthedocs.io/it/latest/2-imparare-uno-standard.html#perche-il-tema-si-impara-a-orecchio>`__.
+
 Il mito del “prima devi sapere”
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
