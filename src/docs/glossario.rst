@@ -57,6 +57,9 @@ I termini usati nei due volumi, Teoria e Pratica, in ordine alfabetico. Ogni voc
    Drop 3
       Voicing a quattro voci ottenuto abbassando di un'ottava la terza voce dall'alto di un accordo in posizione stretta; sulla chitarra separa il basso dalle voci superiori con una corda muta.
 
+   Emiolia
+      Figura di tre unità che si ripete sopra un metro di due o di quattro, spostando gli accenti rispetto alle battute: un ciclo di tre semiminime sopra il 4/4 torna sull'uno dopo tre battute (:doc:`12-ritmo-sviluppo`).
+
    Enarmonia
       Due nomi per la stessa altezza nel temperamento equabile, come Fa♯ e Sol♭. Il nome dipende dalla funzione della nota.
 
@@ -96,6 +99,9 @@ I termini usati nei due volumi, Teoria e Pratica, in ordine alfabetico. Ogni voc
    Pentatonica
       Scala di cinque suoni: maggiore 1–2–3–5–6, minore 1–♭3–4–5–♭7 (:doc:`4-scale`).
 
+   Poliritmia
+      Sovrapposizione di divisioni diverse nella stessa durata, per esempio tre attacchi contro due (:doc:`12-ritmo-sviluppo`).
+
    Relativa
       Tonalità che condivide l'armatura con un'altra: La minore è la relativa di Do maggiore.
 
@@ -125,6 +131,9 @@ I termini usati nei due volumi, Teoria e Pratica, in ordine alfabetico. Ogni voc
 
    Sottodominante minore
       Funzione degli accordi presi dal minore che contengono la sesta minore della tonalità e la fanno scendere sulla quinta: Fm7, B♭7, A♭maj7 in Do (:doc:`7-armonia-cromatica`).
+
+   Spostamento ritmico
+      La stessa cellula fatta cominciare in un altro punto della battuta: il disegno interno resta, cambia il rapporto con il metro (:doc:`12-ritmo-sviluppo`).
 
    Struttura superiore
       Triade maggiore suonata sopra una nota guida, che porta le tensioni dell'accordo (*upper structure*): Re maggiore sopra il Si♭ dà C13(♯11).

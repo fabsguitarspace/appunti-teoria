@@ -90,6 +90,12 @@ Non confondere quindi un 3+3+2 che si rinnova ogni battuta con un ciclo
 continuo di tre. Nello studio 07 di Pratica Mi–Sol–Si ripete il ciclo
 continuo per tre battute; la quarta chiude la frase su Re.
 
+Lo stesso ragionamento vale per un gruppo di note che si sposta: quattro crome
+possono cominciare da ognuna delle otto posizioni della battuta, e quelle che
+superano la stanghetta cadono già sull'accordo seguente. La pagina
+`Ritmo melodico <https://appunti-pratica-per-chitarra-jazz.readthedocs.io/it/latest/ritmo-melodico.html>`__ di Pratica esercita gli spostamenti e i cicli di tre,
+cinque e sette pulsazioni sulla chitarra.
+
 Metri dispari e raggruppamenti
 ------------------------------
 
@@ -238,6 +244,12 @@ gli studi 01–02 confrontano la cellula in due contesti ritmici; 07 tratta
 i gruppi di tre, 08–09 i metri dispari, 10 la modulazione metrica e 11
 riunisce le idee in otto battute. Sono disponibili spartito, tablatura,
 versione completa e base senza la parte di chitarra.
+
+La pagina `Ritmo melodico <https://appunti-pratica-per-chitarra-jazz.readthedocs.io/it/latest/ritmo-melodico.html>`__ di Pratica applica queste idee alla frase
+improvvisata: note per battuta, gruppi di note spostati nella battuta, cicli
+che attraversano la stanghetta, la stessa linea in crome, terzine e semicrome,
+anticipi e ritardi della risoluzione. Lo strumento Ritmi degli Strumenti per
+la pratica ne estrae le figure e le suona con un metronomo sul 2 e sul 4.
 
 Per verificare la comprensione:
 
