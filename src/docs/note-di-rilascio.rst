@@ -21,6 +21,8 @@ Prossimo aggiornamento
 - :doc:`12-ritmo-sviluppo`: rimandi alla nuova pagina «Ritmo melodico» degli Appunti di Pratica e allo strumento Ritmi, nelle sezioni sullo spostamento ritmico e sul passaggio alla pratica.
 - :doc:`glossario`: nuove voci emiolia, poliritmia e spostamento ritmico.
 - :doc:`5-accordi`: nella sezione «Sesta o settima?» il primo esempio mostrava per errore gli accordi minori del secondo; ora mostra C6, C6/A e Am7, come dice il testo. Grazie a massiale per la segnalazione.
+- **Tema scuro:** spartiti, circolo delle quinte e armature di chiave ora si leggono anche con il tema scuro, con l'inchiostro chiaro sul fondo scuro.
+- **Menu laterale richiudibile:** su computer e tablet il nuovo pulsante nell'intestazione, accanto a quello del tema, nasconde il menu a sinistra e lascia al contenuto tutta la larghezza; lo stesso pulsante lo riapre. La scelta resta valida passando da una pagina all'altra.
 
 21 novembre 2026
 ~~~~~~~~~~~~~~~~

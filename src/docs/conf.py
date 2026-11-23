@@ -66,6 +66,8 @@ html_theme_options = {
 html_permalinks_icon = "<span>¶</span>"
 
 html_css_files = ["custom.css"]
+# Menu laterale richiudibile: senza defer, per applicare la scelta prima che la pagina compaia.
+html_js_files = ["menu-laterale.js"]
 # Facoltativo: migliora la navigazione del tema
 
 latex_engine = 'lualatex'  # gestisce meglio i font Unicode se hai testo musicale
