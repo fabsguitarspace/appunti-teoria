@@ -53,6 +53,7 @@ I sorgenti prevalgono sulla KB. Dopo cambiamenti rilevanti aggiornare evidenze e
 - [ADR 0001 — LilyPond diretto e generazione Python](adr/0001-lilypond-diretto-e-generazione-python.md) — Accettato, 2026-11-08.
 
 - [ADR 0004 — Libreria musicale comune ai tre progetti](adr/0004-libreria-musicale-comune.md) — Accettato, 2026-11-11. Copia comune con appunti-repertorio e il progetto fratello; migrazione non avviata. I numeri 0002–0003 sono usati solo in appunti-repertorio.
+- [ADR 0006 — Piano elettrico al posto della chitarra negli esempi audio](adr/0006-piano-elettrico-negli-esempi-audio.md) — Accettato, 2026-11-24. Copia comune ai tre volumi (in Teoria il numero 0005 non è usato): soundfont predefinito `AppuntiEPiano.sf2` (piano elettrico originale in FM, variante morbida) generato dalla libreria appunti-musica; tutti gli MP3 ricompilati.
 
 - [Ristrutturazione editoriale e scrittura assistita](analisi/003-ristrutturazione-editoriale.md) — proposta aperta; i capitoli mancanti sono ipotesi.
 

@@ -18,6 +18,7 @@ Le novità sono raggruppate per MAJOR.MINOR e, all’interno, per data di pubbli
 Prossimo aggiornamento
 ~~~~~~~~~~~~~~~~~~~~~~
 
+- **Audio:** in tutti gli esempi accordi e linee suonano ora con un piano elettrico dal suono morbido al posto della chitarra sintetizzata. Note, tempi, basso e batteria non cambiano.
 - :doc:`12-ritmo-sviluppo`: rimandi alla nuova pagina «Ritmo melodico» degli Appunti di Pratica e allo strumento Ritmi, nelle sezioni sullo spostamento ritmico e sul passaggio alla pratica.
 - :doc:`glossario`: nuove voci emiolia, poliritmia e spostamento ritmico.
 - :doc:`5-accordi`: nella sezione «Sesta o settima?» il primo esempio mostrava per errore gli accordi minori del secondo; ora mostra C6, C6/A e Am7, come dice il testo. Grazie a massiale per la segnalazione.
