@@ -7,7 +7,7 @@
 - `src/docs/*.rst`: contenuti didattici reStructuredText.
 - `src/docs/conf.py`: Sphinx, lingua italiana, versione 1.0 più patch automatica (`versione_git.py`), tema Shibuya, CSS personalizzato, navigazione tra i progetti e LuaLaTeX.
 - `src/docs/_static/custom.css`: presentazione; `_static/music`: risorse musicali utilizzate dalle pagine. In modalità scura `custom.css` inverte i colori degli spartiti (SVG di LilyPond, inchiostro nero su sfondo trasparente). `_static/menu-laterale.js` (caricato senza `defer`, identico nei tre volumi) aggiunge nell'intestazione il pulsante che chiude e riapre la barra di navigazione a sinistra da 768px in su; la scelta è in `localStorage` (`appunti-menu-laterale`) e lo stile in `custom.css`.
-- `src/lilypond/*.ly`: sorgenti delle partiture; `include/`: macro condivise nel singolo repository; `sf/AppuntiEPiano.sf2`: soundfont predefinito, piano elettrico originale generato dalla libreria appunti-musica (ADR 0006, dal 24 novembre 2026; prima `sf/Jazzernaut.sf2`, chitarra, ora non usato).
+- `src/lilypond/*.ly`: sorgenti delle partiture; `include/`: macro condivise nel singolo repository; `sf/AppuntiEPiano.sf2`: soundfont predefinito, piano elettrico originale generato dalla libreria appunti-musica (ADR 0006, dal 24 novembre 2026; prima `sf/Jazzernaut.sf2`, chitarra, rimosso lo stesso giorno).
 - `build-lilypond.sh`: LilyPond → PDF → ritaglio con pdfcrop → SVG con pdf2svg; MIDI → WAV con FluidSynth → MP3 con LAME, eliminando il WAV intermedio.
 - `build.sh`: `sphinx-build -b html src/docs out`; `out` è output, non fonte editoriale.
 - `requirements.txt`: sphinx e shibuya senza versioni bloccate.
