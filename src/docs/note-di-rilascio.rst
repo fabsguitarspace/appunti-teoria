@@ -24,6 +24,7 @@ Prossimo aggiornamento
 - :doc:`5-accordi`: nella sezione «Sesta o settima?» il primo esempio mostrava per errore gli accordi minori del secondo; ora mostra C6, C6/A e Am7, come dice il testo. Grazie a massiale per la segnalazione.
 - **Tema scuro:** spartiti, circolo delle quinte e armature di chiave ora si leggono anche con il tema scuro, con l'inchiostro chiaro sul fondo scuro.
 - **Menu laterale richiudibile:** su computer e tablet il nuovo pulsante nell'intestazione, accanto a quello del tema, nasconde il menu a sinistra e lascia al contenuto tutta la larghezza; lo stesso pulsante lo riapre. La scelta resta valida passando da una pagina all'altra.
+- **Link a YouTube:** i collegamenti ai video e al canale YouTube si aprono ora in una nuova scheda, così la pagina degli appunti resta aperta.
 
 21 novembre 2026
 ~~~~~~~~~~~~~~~~

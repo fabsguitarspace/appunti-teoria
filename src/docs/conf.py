@@ -67,7 +67,11 @@ html_permalinks_icon = "<span>¶</span>"
 
 html_css_files = ["custom.css"]
 # Menu laterale richiudibile: senza defer, per applicare la scelta prima che la pagina compaia.
-html_js_files = ["menu-laterale.js"]
+# Link a YouTube in una nuova scheda (link-youtube.js, identico nei tre volumi).
+html_js_files = [
+    "menu-laterale.js",
+    ("link-youtube.js", {"defer": "defer"}),
+]
 # Facoltativo: migliora la navigazione del tema
 
 latex_engine = 'lualatex'  # gestisce meglio i font Unicode se hai testo musicale
